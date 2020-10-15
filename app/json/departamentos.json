@@ -1,0 +1,134 @@
+[
+  {
+    "cod_dpto": 91,
+    "nombre": "AMAZONAS"
+  },
+  {
+    "cod_dpto": "05",
+    "nombre": "ANTIOQUIA"
+  },
+  {
+    "cod_dpto": 81,
+    "nombre": "ARAUCA"
+  },
+  {
+    "cod_dpto": 88,
+    "nombre": "ARCHIPIÉLAGO DE SAN ANDRÉS, PROVIDENCIA Y SANTA CATALINA"
+  },
+  {
+    "cod_dpto": "08",
+    "nombre": "ATLÁNTICO"
+  },
+  {
+    "cod_dpto": 11,
+    "nombre": "BOGOTÁ, D.C."
+  },
+  {
+    "cod_dpto": 13,
+    "nombre": "BOLÍVAR"
+  },
+  {
+    "cod_dpto": 15,
+    "nombre": "BOYACÁ"
+  },
+  {
+    "cod_dpto": 17,
+    "nombre": "CALDAS"
+  },
+  {
+    "cod_dpto": 18,
+    "nombre": "CAQUETÁ"
+  },
+  {
+    "cod_dpto": 85,
+    "nombre": "CASANARE"
+  },
+  {
+    "cod_dpto": 19,
+    "nombre": "CAUCA"
+  },
+  {
+    "cod_dpto": 20,
+    "nombre": "CESAR"
+  },
+  {
+    "cod_dpto": 27,
+    "nombre": "CHOCÓ"
+  },
+  {
+    "cod_dpto": 23,
+    "nombre": "CÓRDOBA"
+  },
+  {
+    "cod_dpto": 25,
+    "nombre": "CUNDINAMARCA"
+  },
+  {
+    "cod_dpto": 94,
+    "nombre": "GUAINÍA"
+  },
+  {
+    "cod_dpto": 95,
+    "nombre": "GUAVIARE"
+  },
+  {
+    "cod_dpto": 41,
+    "nombre": "HUILA"
+  },
+  {
+    "cod_dpto": 44,
+    "nombre": "LA GUAJIRA"
+  },
+  {
+    "cod_dpto": 47,
+    "nombre": "MAGDALENA"
+  },
+  {
+    "cod_dpto": 50,
+    "nombre": "META"
+  },
+  {
+    "cod_dpto": 52,
+    "nombre": "NARIÑO"
+  },
+  {
+    "cod_dpto": 54,
+    "nombre": "NORTE DE SANTANDER"
+  },
+  {
+    "cod_dpto": 86,
+    "nombre": "PUTUMAYO"
+  },
+  {
+    "cod_dpto": 63,
+    "nombre": "QUINDIO"
+  },
+  {
+    "cod_dpto": 66,
+    "nombre": "RISARALDA"
+  },
+  {
+    "cod_dpto": 68,
+    "nombre": "SANTANDER"
+  },
+  {
+    "cod_dpto": 70,
+    "nombre": "SUCRE"
+  },
+  {
+    "cod_dpto": 73,
+    "nombre": "TOLIMA"
+  },
+  {
+    "cod_dpto": 76,
+    "nombre": "VALLE DEL CAUCA"
+  },
+  {
+    "cod_dpto": 97,
+    "nombre": "VAUPÉS"
+  },
+  {
+    "cod_dpto": 99,
+    "nombre": "VICHADA"
+  }
+]

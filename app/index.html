@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+
+<head>
+  <meta charset="utf-8">
+  <title>Visor</title>
+
+  <link rel="icon" href="https://geoportal.dane.gov.co/src/images/general/GEOPORTAL-DANE-favicon-32x32.png">
+
+
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;200;300;400;500;600;700&display=swap"
+    rel="stylesheet">
+
+    <meta name='viewport' 
+    content='width=device-width, initial-scale=1.0, maximum-scale=1.0, 
+    user-scalable=0' >
+
+
+</head>
+
+<body>
+
+
+  <div id="popup" class="ol-popup">
+    <a href="#" id="popup-closer" class="ol-popup-closer"></a>
+    <div id="popup-content"></div>
+  </div>
+
+
+
+
+  <div id="contenedor">
+
+    <div class="header">
+      <nav role="navigation">
+        <div id="menuToggle">
+          <!--
+          A fake / hidden checkbox is used as click reciever,
+          so you can use the :checked selector on it.
+          -->
+          <input type="checkbox" id="ham" />
+          
+          <!--
+          Some spans to act as a hamburger.
+          
+          They are acting like a real hamburger,
+          not that McDonalds stuff.
+          -->
+          <span class="men"></span>
+          <span class="men"></span>
+          <span class="men"></span>
+          
+          <!--
+          Too bad the menu has to be inside of the button
+          but hey, it's pure CSS magic.
+          -->
+          <ul id="menu">
+            
+            <div class="ventana">
+
+              <div class="body">
+                
+                <p id="description">Geovisor para la consulta de información georeferenciada de catastro multipropósito</p>
+
+                <p class="titulo_seccion">Filter</p>
+                <div class="seccion">
+                  <p>Departamento</p>
+                  <select id="departamento">
+                    <option value="">Choose...</option>
+                  </select>
+                </div>
+                <div class="seccion mun">
+                  <p>Municipio</p>
+                  <select id="municipio">
+                    <option>Choose...</option>
+                  </select>
+                </div>
+          
+                <p class="titulo_seccion">Base Maps</p>
+          
+                <div class="grupo-base">
+                  <div class="elemento">
+                    <input type="radio" id="switch" name="radio1" checked value="normal"/>
+                    <label for="switch">
+                      <div class="padre">
+                        <div class="hov"><img src="./img/correct.svg" alt=""></div>
+                        <img src="./img/normal.png" alt="">
+                      </div>
+                    </label>
+                  </div>
+                  <div class="elemento">
+                    <input type="radio" id="switch1" name="radio1"value="gris" />
+                    <label for="switch1">
+                      <div class="padre">
+                        <div class="hov"><img src="./img/correct.svg" alt=""></div>
+                        <img src="./img/gris.png" alt="">
+                      </div>
+                    </label>
+                  </div>
+                  <div class="elemento">
+                    <input type="radio" id="switch2" name="radio1" value="dark"/>
+                    <label for="switch2">
+                      <div class="padre">
+                        <div class="hov"><img src="./img/correct.svg" alt=""></div>
+                        <img src="./img/dark.png" alt="">
+                      </div>
+                    </label>
+                  </div>
+          
+                </div>
+          
+                <p class="titulo_seccion">Layers</p>
+          
+                <div class="grupo-capas">
+                  <label>
+                    <input type="radio" value="value" class="layer" id="check4"  layer="dif_catastro_censo" name="radio" checked>
+                    <label for="check4"></label>
+                    <span>Diferencias Censo - Catastro</span>
+                    <input type="range" class="slider" min="1" max="10" step="1" value="10" name="dif_catastro_censo">
+                  </label>
+                  <label>
+                    <input type="checkbox" value="value" class="layer" layer="mpio" id="check5" />
+                    <label for="check5"></label>
+                    <span>Municipio</span>
+                  </label>
+          
+                  <label>
+                    <input type="checkbox" value="value" class="layer" layer="depto" id="check6" />
+                    <label for="check6"></label>
+                    <span>Departamento</span>
+                  </label>
+          
+                </div>
+                <p class="titulo_seccion">Graphics</p>
+
+
+                <div id="grupo-graficos">
+        
+                  <div class="graph" name="mz_uso_viv">
+                    <div id="grafico"  ></div>
+                    <div id="grafico3" ></div>
+                  </div>
+        
+        
+                </div>
+          
+
+                <img id="logo-presidente" src="" alt="">
+        
+        
+              </div>
+
+            </div>
+
+
+          </ul>
+        </div>
+      </nav>
+      <img id="dane" src="" alt="">
+      <p id="titulo_visor"></p>
+    </div>
+
+
+    <div id="loader"></div>
+    <div id="background"></div>
+    <div id="leyenda"></div>
+    <div id="mapa">
+      
+    </div>
+
+  </div>
+
+
+
+
+</body>
+
+
+
+
+
+
+
+</html>

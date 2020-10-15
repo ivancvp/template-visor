@@ -1,0 +1,9920 @@
+[
+  {
+    "cod_dpto": "05",
+    "cod_mpio": "05001",
+    "nombre": "MEDELLÍN",
+    "bbox": [
+      -74.886816625,
+      5.6101097761033
+    ]
+  },
+  {
+    "cod_dpto": "05",
+    "cod_mpio": "05002",
+    "nombre": "ABEJORRAL",
+    "bbox": [
+      -75.4287380971,
+      5.78930448541
+    ]
+  },
+  {
+    "cod_dpto": "05",
+    "cod_mpio": "05004",
+    "nombre": "ABRIAQUÍ",
+    "bbox": [
+      -76.0647034585,
+      6.63180645181
+    ]
+  },
+  {
+    "cod_dpto": "05",
+    "cod_mpio": "05021",
+    "nombre": "ALEJANDRÍA",
+    "bbox": [
+      -75.1413329006,
+      6.37606567589
+    ]
+  },
+  {
+    "cod_dpto": "05",
+    "cod_mpio": "05030",
+    "nombre": "AMAGÁ",
+    "bbox": [
+      -75.7019460715,
+      6.03880857536
+    ]
+  },
+  {
+    "cod_dpto": "05",
+    "cod_mpio": "05031",
+    "nombre": "AMALFI",
+    "bbox": [
+      -75.0825242787,
+      6.91230472638
+    ]
+  },
+  {
+    "cod_dpto": "05",
+    "cod_mpio": "05034",
+    "nombre": "ANDES",
+    "bbox": [
+      -75.8787918873,
+      5.65677485248
+    ]
+  },
+  {
+    "cod_dpto": "05",
+    "cod_mpio": "05036",
+    "nombre": "ANGELÓPOLIS",
+    "bbox": [
+      -75.7113511436,
+      6.10961436831
+    ]
+  },
+  {
+    "cod_dpto": "05",
+    "cod_mpio": "05038",
+    "nombre": "ANGOSTURA",
+    "bbox": [
+      -75.3351159651,
+      6.88517459133
+    ]
+  },
+  {
+    "cod_dpto": "05",
+    "cod_mpio": "05040",
+    "nombre": "ANORÍ",
+    "bbox": [
+      -75.1483484246,
+      7.07470766852
+    ]
+  },
+  {
+    "cod_dpto": "05",
+    "cod_mpio": "05042",
+    "nombre": "SANTA FÉ DE ANTIOQUIA",
+    "bbox": [
+      -75.827079071,
+      6.55653329637
+    ]
+  },
+  {
+    "cod_dpto": "05",
+    "cod_mpio": "05044",
+    "nombre": "ANZÁ",
+    "bbox": [
+      -75.8544415828,
+      6.3026583592
+    ]
+  },
+  {
+    "cod_dpto": "05",
+    "cod_mpio": "05045",
+    "nombre": "APARTADÓ",
+    "bbox": [
+      -76.6259606537,
+      7.88341740579
+    ]
+  },
+  {
+    "cod_dpto": "05",
+    "cod_mpio": "05051",
+    "nombre": "ARBOLETES",
+    "bbox": [
+      -76.4270567981,
+      8.85056773431
+    ]
+  },
+  {
+    "cod_dpto": "05",
+    "cod_mpio": "05055",
+    "nombre": "ARGELIA",
+    "bbox": [
+      -75.1417414563,
+      5.7306718788
+    ]
+  },
+  {
+    "cod_dpto": "05",
+    "cod_mpio": "05059",
+    "nombre": "ARMENIA",
+    "bbox": [
+      -75.7868378278,
+      6.15581872915
+    ]
+  },
+  {
+    "cod_dpto": "05",
+    "cod_mpio": "05079",
+    "nombre": "BARBOSA",
+    "bbox": [
+      -75.3316442322,
+      6.43922688162
+    ]
+  },
+  {
+    "cod_dpto": "05",
+    "cod_mpio": "05086",
+    "nombre": "BELMIRA",
+    "bbox": [
+      -75.6673741337,
+      6.60615950206
+    ]
+  },
+  {
+    "cod_dpto": "05",
+    "cod_mpio": "05088",
+    "nombre": "BELLO",
+    "bbox": [
+      -75.554665073,
+      6.33406883641
+    ]
+  },
+  {
+    "cod_dpto": "05",
+    "cod_mpio": "05091",
+    "nombre": "BETANIA",
+    "bbox": [
+      -75.97554408,
+      5.74474717984
+    ]
+  },
+  {
+    "cod_dpto": "05",
+    "cod_mpio": "05093",
+    "nombre": "BETULIA",
+    "bbox": [
+      -75.9845158732,
+      6.11525559427
+    ]
+  },
+  {
+    "cod_dpto": "05",
+    "cod_mpio": "05101",
+    "nombre": "CIUDAD BOLÍVAR",
+    "bbox": [
+      -76.021509205,
+      5.85027323212
+    ]
+  },
+  {
+    "cod_dpto": "05",
+    "cod_mpio": "05107",
+    "nombre": "BRICEÑO",
+    "bbox": [
+      -75.5481302168,
+      7.11488294739
+    ]
+  },
+  {
+    "cod_dpto": "05",
+    "cod_mpio": "05113",
+    "nombre": "BURITICÁ",
+    "bbox": [
+      -75.9075347298,
+      6.71973517464
+    ]
+  },
+  {
+    "cod_dpto": "05",
+    "cod_mpio": "05120",
+    "nombre": "CÁCERES",
+    "bbox": [
+      -75.3523574868,
+      7.5783154508
+    ]
+  },
+  {
+    "cod_dpto": "05",
+    "cod_mpio": "05125",
+    "nombre": "CAICEDO",
+    "bbox": [
+      -75.9828188939,
+      6.40556700301
+    ]
+  },
+  {
+    "cod_dpto": "05",
+    "cod_mpio": "05129",
+    "nombre": "CALDAS",
+    "bbox": [
+      -75.6336187219,
+      6.09129696608
+    ]
+  },
+  {
+    "cod_dpto": "05",
+    "cod_mpio": "05134",
+    "nombre": "CAMPAMENTO",
+    "bbox": [
+      -75.2980884258,
+      6.97977768219
+    ]
+  },
+  {
+    "cod_dpto": "05",
+    "cod_mpio": "05138",
+    "nombre": "CAÑASGORDAS",
+    "bbox": [
+      -76.032209943,
+      6.75947768445
+    ]
+  },
+  {
+    "cod_dpto": "05",
+    "cod_mpio": "05142",
+    "nombre": "CARACOLÍ",
+    "bbox": [
+      -74.7574494413,
+      6.40985472681
+    ]
+  },
+  {
+    "cod_dpto": "05",
+    "cod_mpio": "05145",
+    "nombre": "CARAMANTA",
+    "bbox": [
+      -75.6438684536,
+      5.54853040415
+    ]
+  },
+  {
+    "cod_dpto": "05",
+    "cod_mpio": "05147",
+    "nombre": "CAREPA",
+    "bbox": [
+      -76.6532103356,
+      7.75511634554
+    ]
+  },
+  {
+    "cod_dpto": "05",
+    "cod_mpio": "05148",
+    "nombre": "EL CARMEN DE VIBORAL",
+    "bbox": [
+      -75.3353624585,
+      6.08455151564
+    ]
+  },
+  {
+    "cod_dpto": "05",
+    "cod_mpio": "05150",
+    "nombre": "CAROLINA",
+    "bbox": [
+      -75.2831701138,
+      6.72597714593
+    ]
+  },
+  {
+    "cod_dpto": "05",
+    "cod_mpio": "05154",
+    "nombre": "CAUCASIA",
+    "bbox": [
+      -75.1982903265,
+      7.97736233321
+    ]
+  },
+  {
+    "cod_dpto": "05",
+    "cod_mpio": "05172",
+    "nombre": "CHIGORODÓ",
+    "bbox": [
+      -76.6812163995,
+      7.66630043881
+    ]
+  },
+  {
+    "cod_dpto": "05",
+    "cod_mpio": "05190",
+    "nombre": "CISNEROS",
+    "bbox": [
+      -75.0872076079,
+      6.53776195685
+    ]
+  },
+  {
+    "cod_dpto": "05",
+    "cod_mpio": "05197",
+    "nombre": "COCORNÁ",
+    "bbox": [
+      -75.185481011,
+      6.05830633507
+    ]
+  },
+  {
+    "cod_dpto": "05",
+    "cod_mpio": "05206",
+    "nombre": "CONCEPCIÓN",
+    "bbox": [
+      -75.2576027037,
+      6.39434709534
+    ]
+  },
+  {
+    "cod_dpto": "05",
+    "cod_mpio": "05209",
+    "nombre": "CONCORDIA",
+    "bbox": [
+      -75.9075047222,
+      6.04656857348
+    ]
+  },
+  {
+    "cod_dpto": "05",
+    "cod_mpio": "05212",
+    "nombre": "COPACABANA",
+    "bbox": [
+      -75.5093439031,
+      6.34864054523
+    ]
+  },
+  {
+    "cod_dpto": "05",
+    "cod_mpio": "05234",
+    "nombre": "DABEIBA",
+    "bbox": [
+      -76.2629766474,
+      7.00032193981
+    ]
+  },
+  {
+    "cod_dpto": "05",
+    "cod_mpio": "05237",
+    "nombre": "DONMATÍAS",
+    "bbox": [
+      -75.3927240596,
+      6.48446995712
+    ]
+  },
+  {
+    "cod_dpto": "05",
+    "cod_mpio": "05240",
+    "nombre": "EBÉJICO",
+    "bbox": [
+      -75.7662204715,
+      6.32605665759
+    ]
+  },
+  {
+    "cod_dpto": "05",
+    "cod_mpio": "05250",
+    "nombre": "EL BAGRE",
+    "bbox": [
+      -74.799097289,
+      7.5975217942
+    ]
+  },
+  {
+    "cod_dpto": "05",
+    "cod_mpio": "05264",
+    "nombre": "ENTRERRÍOS",
+    "bbox": [
+      -75.5178008012,
+      6.56648144846
+    ]
+  },
+  {
+    "cod_dpto": "05",
+    "cod_mpio": "05266",
+    "nombre": "ENVIGADO",
+    "bbox": [
+      -75.5830101409,
+      6.16700455162
+    ]
+  },
+  {
+    "cod_dpto": "05",
+    "cod_mpio": "05282",
+    "nombre": "FREDONIA",
+    "bbox": [
+      -75.6705063969,
+      5.92436800588
+    ]
+  },
+  {
+    "cod_dpto": "05",
+    "cod_mpio": "05284",
+    "nombre": "FRONTINO",
+    "bbox": [
+      -76.1307651388,
+      6.77606591161
+    ]
+  },
+  {
+    "cod_dpto": "05",
+    "cod_mpio": "05306",
+    "nombre": "GIRALDO",
+    "bbox": [
+      -75.9521575645,
+      6.68080801628
+    ]
+  },
+  {
+    "cod_dpto": "05",
+    "cod_mpio": "05308",
+    "nombre": "GIRARDOTA",
+    "bbox": [
+      -75.444462208,
+      6.37961383411
+    ]
+  },
+  {
+    "cod_dpto": "05",
+    "cod_mpio": "05310",
+    "nombre": "GÓMEZ PLATA",
+    "bbox": [
+      -75.2200381981,
+      6.68328758565
+    ]
+  },
+  {
+    "cod_dpto": "05",
+    "cod_mpio": "05313",
+    "nombre": "GRANADA",
+    "bbox": [
+      -75.1844450829,
+      6.14289666655
+    ]
+  },
+  {
+    "cod_dpto": "05",
+    "cod_mpio": "05315",
+    "nombre": "GUADALUPE",
+    "bbox": [
+      -75.2400185907,
+      6.81426345539
+    ]
+  },
+  {
+    "cod_dpto": "05",
+    "cod_mpio": "05318",
+    "nombre": "GUARNE",
+    "bbox": [
+      -75.441653922,
+      6.2780640767
+    ]
+  },
+  {
+    "cod_dpto": "05",
+    "cod_mpio": "05321",
+    "nombre": "GUATAPÉ",
+    "bbox": [
+      -75.1622925892,
+      6.23259270739
+    ]
+  },
+  {
+    "cod_dpto": "05",
+    "cod_mpio": "05347",
+    "nombre": "HELICONIA",
+    "bbox": [
+      -75.7343223837,
+      6.20675746119
+    ]
+  },
+  {
+    "cod_dpto": "05",
+    "cod_mpio": "05353",
+    "nombre": "HISPANIA",
+    "bbox": [
+      -75.9065882653,
+      5.79946157519
+    ]
+  },
+  {
+    "cod_dpto": "05",
+    "cod_mpio": "05360",
+    "nombre": "ITAGÜÍ",
+    "bbox": [
+      -75.6143587142,
+      6.16959762893
+    ]
+  },
+  {
+    "cod_dpto": "05",
+    "cod_mpio": "05361",
+    "nombre": "ITUANGO",
+    "bbox": [
+      -75.7646731654,
+      7.17162902996
+    ]
+  },
+  {
+    "cod_dpto": "05",
+    "cod_mpio": "05364",
+    "nombre": "JARDÍN",
+    "bbox": [
+      -75.8189809206,
+      5.59754174066
+    ]
+  },
+  {
+    "cod_dpto": "05",
+    "cod_mpio": "05368",
+    "nombre": "JERICÓ",
+    "bbox": [
+      -75.7854985547,
+      5.78974793122
+    ]
+  },
+  {
+    "cod_dpto": "05",
+    "cod_mpio": "05376",
+    "nombre": "LA CEJA",
+    "bbox": [
+      -75.4294308862,
+      6.02805574408
+    ]
+  },
+  {
+    "cod_dpto": "05",
+    "cod_mpio": "05380",
+    "nombre": "LA ESTRELLA",
+    "bbox": [
+      -75.6451903823,
+      6.15841974028
+    ]
+  },
+  {
+    "cod_dpto": "05",
+    "cod_mpio": "05390",
+    "nombre": "LA PINTADA",
+    "bbox": [
+      -75.6078102611,
+      5.74380747913
+    ]
+  },
+  {
+    "cod_dpto": "05",
+    "cod_mpio": "05400",
+    "nombre": "LA UNIÓN",
+    "bbox": [
+      -75.3608659043,
+      5.97386821834
+    ]
+  },
+  {
+    "cod_dpto": "05",
+    "cod_mpio": "05411",
+    "nombre": "LIBORINA",
+    "bbox": [
+      -75.8128322684,
+      6.67732305342
+    ]
+  },
+  {
+    "cod_dpto": "05",
+    "cod_mpio": "05425",
+    "nombre": "MACEO",
+    "bbox": [
+      -74.7871614805,
+      6.55211691287
+    ]
+  },
+  {
+    "cod_dpto": "05",
+    "cod_mpio": "05440",
+    "nombre": "MARINILLA",
+    "bbox": [
+      -75.3394778776,
+      6.17226925482
+    ]
+  },
+  {
+    "cod_dpto": "05",
+    "cod_mpio": "05467",
+    "nombre": "MONTEBELLO",
+    "bbox": [
+      -75.5235109116,
+      5.94632556697
+    ]
+  },
+  {
+    "cod_dpto": "05",
+    "cod_mpio": "05475",
+    "nombre": "MURINDÓ",
+    "bbox": [
+      -76.8174580606,
+      6.9776918531
+    ]
+  },
+  {
+    "cod_dpto": "05",
+    "cod_mpio": "05480",
+    "nombre": "MUTATÁ",
+    "bbox": [
+      -76.4358754017,
+      7.24287505724
+    ]
+  },
+  {
+    "cod_dpto": "05",
+    "cod_mpio": "05483",
+    "nombre": "NARIÑO",
+    "bbox": [
+      -75.1762613179,
+      5.61077458468
+    ]
+  },
+  {
+    "cod_dpto": "05",
+    "cod_mpio": "05490",
+    "nombre": "NECOCLÍ",
+    "bbox": [
+      -76.7845744975,
+      8.42613598349
+    ]
+  },
+  {
+    "cod_dpto": "05",
+    "cod_mpio": "05495",
+    "nombre": "NECHÍ",
+    "bbox": [
+      -74.7764701215,
+      8.09412866101
+    ]
+  },
+  {
+    "cod_dpto": "05",
+    "cod_mpio": "05501",
+    "nombre": "OLAYA",
+    "bbox": [
+      -75.8122987303,
+      6.62752573822
+    ]
+  },
+  {
+    "cod_dpto": "05",
+    "cod_mpio": "05541",
+    "nombre": "PEÑOL",
+    "bbox": [
+      -75.2428217137,
+      6.2194505492
+    ]
+  },
+  {
+    "cod_dpto": "05",
+    "cod_mpio": "05543",
+    "nombre": "PEQUE",
+    "bbox": [
+      -75.9103455573,
+      7.02101791754
+    ]
+  },
+  {
+    "cod_dpto": "05",
+    "cod_mpio": "05576",
+    "nombre": "PUEBLORRICO",
+    "bbox": [
+      -75.8407735524,
+      5.7917860324
+    ]
+  },
+  {
+    "cod_dpto": "05",
+    "cod_mpio": "05579",
+    "nombre": "PUERTO BERRÍO",
+    "bbox": [
+      -74.4099455275,
+      6.48704114044
+    ]
+  },
+  {
+    "cod_dpto": "05",
+    "cod_mpio": "05585",
+    "nombre": "PUERTO NARE",
+    "bbox": [
+      -74.5830120144,
+      6.18602482798
+    ]
+  },
+  {
+    "cod_dpto": "05",
+    "cod_mpio": "05591",
+    "nombre": "PUERTO TRIUNFO",
+    "bbox": [
+      -74.6412629307,
+      5.87121295851
+    ]
+  },
+  {
+    "cod_dpto": "05",
+    "cod_mpio": "05604",
+    "nombre": "REMEDIOS",
+    "bbox": [
+      -74.695944258,
+      7.0260940527
+    ]
+  },
+  {
+    "cod_dpto": "05",
+    "cod_mpio": "05607",
+    "nombre": "RETIRO",
+    "bbox": [
+      -75.5013751615,
+      6.06337995392
+    ]
+  },
+  {
+    "cod_dpto": "05",
+    "cod_mpio": "05615",
+    "nombre": "RIONEGRO",
+    "bbox": [
+      -75.3767693823,
+      6.14722409002
+    ]
+  },
+  {
+    "cod_dpto": "05",
+    "cod_mpio": "05628",
+    "nombre": "SABANALARGA",
+    "bbox": [
+      -75.8166460917,
+      6.85002588958
+    ]
+  },
+  {
+    "cod_dpto": "05",
+    "cod_mpio": "05631",
+    "nombre": "SABANETA",
+    "bbox": [
+      -75.6155852932,
+      6.15097018093
+    ]
+  },
+  {
+    "cod_dpto": "05",
+    "cod_mpio": "05642",
+    "nombre": "SALGAR",
+    "bbox": [
+      -75.9820485436,
+      5.96564031015
+    ]
+  },
+  {
+    "cod_dpto": "05",
+    "cod_mpio": "05647",
+    "nombre": "SAN ANDRÉS DE CUERQUÍA",
+    "bbox": [
+      -75.6747325261,
+      6.9168085123
+    ]
+  },
+  {
+    "cod_dpto": "05",
+    "cod_mpio": "05649",
+    "nombre": "SAN CARLOS",
+    "bbox": [
+      -74.9879525625,
+      6.18799156886
+    ]
+  },
+  {
+    "cod_dpto": "05",
+    "cod_mpio": "05652",
+    "nombre": "SAN FRANCISCO",
+    "bbox": [
+      -75.1026869656,
+      5.96407913115
+    ]
+  },
+  {
+    "cod_dpto": "05",
+    "cod_mpio": "05656",
+    "nombre": "SAN JERÓNIMO",
+    "bbox": [
+      -75.7270005793,
+      6.44806660759
+    ]
+  },
+  {
+    "cod_dpto": "05",
+    "cod_mpio": "05658",
+    "nombre": "SAN JOSÉ DE LA MONTAÑA",
+    "bbox": [
+      -75.6833516268,
+      6.85009029903
+    ]
+  },
+  {
+    "cod_dpto": "05",
+    "cod_mpio": "05659",
+    "nombre": "SAN JUAN DE URABÁ",
+    "bbox": [
+      -76.5287943448,
+      8.75934180098
+    ]
+  },
+  {
+    "cod_dpto": "05",
+    "cod_mpio": "05660",
+    "nombre": "SAN LUIS",
+    "bbox": [
+      -74.993641001,
+      6.04298328495
+    ]
+  },
+  {
+    "cod_dpto": "05",
+    "cod_mpio": "05664",
+    "nombre": "SAN PEDRO DE LOS MILAGROS",
+    "bbox": [
+      -75.5567191507,
+      6.46013859862
+    ]
+  },
+  {
+    "cod_dpto": "05",
+    "cod_mpio": "05665",
+    "nombre": "SAN PEDRO DE URABÁ",
+    "bbox": [
+      -76.380577886,
+      8.27688666409
+    ]
+  },
+  {
+    "cod_dpto": "05",
+    "cod_mpio": "05667",
+    "nombre": "SAN RAFAEL",
+    "bbox": [
+      -75.0279838158,
+      6.29375487579
+    ]
+  },
+  {
+    "cod_dpto": "05",
+    "cod_mpio": "05670",
+    "nombre": "SAN ROQUE",
+    "bbox": [
+      -75.019157568,
+      6.48594893629
+    ]
+  },
+  {
+    "cod_dpto": "05",
+    "cod_mpio": "05674",
+    "nombre": "SAN VICENTE FERRER",
+    "bbox": [
+      -75.3326138129,
+      6.28215585171
+    ]
+  },
+  {
+    "cod_dpto": "05",
+    "cod_mpio": "05679",
+    "nombre": "SANTA BÁRBARA",
+    "bbox": [
+      -75.5673517822,
+      5.87553339785
+    ]
+  },
+  {
+    "cod_dpto": "05",
+    "cod_mpio": "05686",
+    "nombre": "SANTA ROSA DE OSOS",
+    "bbox": [
+      -75.4607450191,
+      6.64332600099
+    ]
+  },
+  {
+    "cod_dpto": "05",
+    "cod_mpio": "05690",
+    "nombre": "SANTO DOMINGO",
+    "bbox": [
+      -75.1677837076,
+      6.47484329288
+    ]
+  },
+  {
+    "cod_dpto": "05",
+    "cod_mpio": "05697",
+    "nombre": "EL SANTUARIO",
+    "bbox": [
+      -75.2658497944,
+      6.13704685813
+    ]
+  },
+  {
+    "cod_dpto": "05",
+    "cod_mpio": "05736",
+    "nombre": "SEGOVIA",
+    "bbox": [
+      -74.7015910715,
+      7.07963967923
+    ]
+  },
+  {
+    "cod_dpto": "05",
+    "cod_mpio": "05756",
+    "nombre": "SONSÓN",
+    "bbox": [
+      -75.3093951469,
+      5.71481164114
+    ]
+  },
+  {
+    "cod_dpto": "05",
+    "cod_mpio": "05761",
+    "nombre": "SOPETRÁN",
+    "bbox": [
+      -75.7472563632,
+      6.50098577268
+    ]
+  },
+  {
+    "cod_dpto": "05",
+    "cod_mpio": "05789",
+    "nombre": "TÁMESIS",
+    "bbox": [
+      -75.7143206871,
+      5.66446663613
+    ]
+  },
+  {
+    "cod_dpto": "05",
+    "cod_mpio": "05790",
+    "nombre": "TARAZÁ",
+    "bbox": [
+      -75.4014059617,
+      7.58012081462
+    ]
+  },
+  {
+    "cod_dpto": "05",
+    "cod_mpio": "05792",
+    "nombre": "TARSO",
+    "bbox": [
+      -75.8232144828,
+      5.8632957508
+    ]
+  },
+  {
+    "cod_dpto": "05",
+    "cod_mpio": "05809",
+    "nombre": "TITIRIBÍ",
+    "bbox": [
+      -75.7915490064,
+      6.06098008157
+    ]
+  },
+  {
+    "cod_dpto": "05",
+    "cod_mpio": "05819",
+    "nombre": "TOLEDO",
+    "bbox": [
+      -75.6914424126,
+      7.01015402899
+    ]
+  },
+  {
+    "cod_dpto": "05",
+    "cod_mpio": "05837",
+    "nombre": "TURBO",
+    "bbox": [
+      -76.7291584376,
+      8.08911641099
+    ]
+  },
+  {
+    "cod_dpto": "05",
+    "cod_mpio": "05842",
+    "nombre": "URAMITA",
+    "bbox": [
+      -76.1734091601,
+      6.89849411111
+    ]
+  },
+  {
+    "cod_dpto": "05",
+    "cod_mpio": "05847",
+    "nombre": "URRAO",
+    "bbox": [
+      -76.133948666,
+      6.31731959103
+    ]
+  },
+  {
+    "cod_dpto": "05",
+    "cod_mpio": "05854",
+    "nombre": "VALDIVIA",
+    "bbox": [
+      -75.4391984392,
+      7.16533999984
+    ]
+  },
+  {
+    "cod_dpto": "05",
+    "cod_mpio": "05856",
+    "nombre": "VALPARAÍSO",
+    "bbox": [
+      -75.624458885,
+      5.61455072464
+    ]
+  },
+  {
+    "cod_dpto": "05",
+    "cod_mpio": "05858",
+    "nombre": "VEGACHÍ",
+    "bbox": [
+      -74.7987269491,
+      6.77344631959
+    ]
+  },
+  {
+    "cod_dpto": "05",
+    "cod_mpio": "05861",
+    "nombre": "VENECIA",
+    "bbox": [
+      -75.7355032394,
+      5.96473358309
+    ]
+  },
+  {
+    "cod_dpto": "05",
+    "cod_mpio": "05873",
+    "nombre": "VIGÍA DEL FUERTE",
+    "bbox": [
+      -76.8961869797,
+      6.58811984466
+    ]
+  },
+  {
+    "cod_dpto": "05",
+    "cod_mpio": "05885",
+    "nombre": "YALÍ",
+    "bbox": [
+      -74.8400467259,
+      6.67656727216
+    ]
+  },
+  {
+    "cod_dpto": "05",
+    "cod_mpio": "05887",
+    "nombre": "YARUMAL",
+    "bbox": [
+      -75.4188331376,
+      6.96387235163
+    ]
+  },
+  {
+    "cod_dpto": "05",
+    "cod_mpio": "05890",
+    "nombre": "YOLOMBÓ",
+    "bbox": [
+      -75.0133505772,
+      6.59459243359
+    ]
+  },
+  {
+    "cod_dpto": "05",
+    "cod_mpio": "05893",
+    "nombre": "YONDÓ",
+    "bbox": [
+      -73.9124579456,
+      7.00394073438
+    ]
+  },
+  {
+    "cod_dpto": "05",
+    "cod_mpio": "05895",
+    "nombre": "ZARAGOZA",
+    "bbox": [
+      -74.8670747123,
+      7.48858307465
+    ]
+  },
+  {
+    "cod_dpto": "08",
+    "cod_mpio": "08001",
+    "nombre": "BARRANQUILLA",
+    "bbox": [
+      -74.7952590482,
+      10.9759268186
+    ]
+  },
+  {
+    "cod_dpto": "08",
+    "cod_mpio": "08078",
+    "nombre": "BARANOA",
+    "bbox": [
+      -74.9160998139,
+      10.7948804772
+    ]
+  },
+  {
+    "cod_dpto": "08",
+    "cod_mpio": "08137",
+    "nombre": "CAMPO DE LA CRUZ",
+    "bbox": [
+      -74.8831517334,
+      10.3792401344
+    ]
+  },
+  {
+    "cod_dpto": "08",
+    "cod_mpio": "08141",
+    "nombre": "CANDELARIA",
+    "bbox": [
+      -74.879912602,
+      10.4612172348
+    ]
+  },
+  {
+    "cod_dpto": "08",
+    "cod_mpio": "08296",
+    "nombre": "GALAPA",
+    "bbox": [
+      -74.8669380999,
+      10.9196410045
+    ]
+  },
+  {
+    "cod_dpto": "08",
+    "cod_mpio": "08372",
+    "nombre": "JUAN DE ACOSTA",
+    "bbox": [
+      -75.0407991406,
+      10.8301822336
+    ]
+  },
+  {
+    "cod_dpto": "08",
+    "cod_mpio": "08421",
+    "nombre": "LURUACO",
+    "bbox": [
+      -75.1422461432,
+      10.6111164196
+    ]
+  },
+  {
+    "cod_dpto": "08",
+    "cod_mpio": "08433",
+    "nombre": "MALAMBO",
+    "bbox": [
+      -74.7742405717,
+      10.8562872414
+    ]
+  },
+  {
+    "cod_dpto": "08",
+    "cod_mpio": "08436",
+    "nombre": "MANATÍ",
+    "bbox": [
+      -74.9570349911,
+      10.4489623783
+    ]
+  },
+  {
+    "cod_dpto": "08",
+    "cod_mpio": "08520",
+    "nombre": "PALMAR DE VARELA",
+    "bbox": [
+      -74.7547578946,
+      10.7385832606
+    ]
+  },
+  {
+    "cod_dpto": "08",
+    "cod_mpio": "08549",
+    "nombre": "PIOJÓ",
+    "bbox": [
+      -75.1074701179,
+      10.7493444169
+    ]
+  },
+  {
+    "cod_dpto": "08",
+    "cod_mpio": "08558",
+    "nombre": "POLONUEVO",
+    "bbox": [
+      -74.8542572499,
+      10.7777245089
+    ]
+  },
+  {
+    "cod_dpto": "08",
+    "cod_mpio": "08560",
+    "nombre": "PONEDERA",
+    "bbox": [
+      -74.7539004396,
+      10.6417959278
+    ]
+  },
+  {
+    "cod_dpto": "08",
+    "cod_mpio": "08573",
+    "nombre": "PUERTO COLOMBIA",
+    "bbox": [
+      -74.851963565,
+      11.0229400539
+    ]
+  },
+  {
+    "cod_dpto": "08",
+    "cod_mpio": "08606",
+    "nombre": "REPELÓN",
+    "bbox": [
+      -75.1254816202,
+      10.4933416667
+    ]
+  },
+  {
+    "cod_dpto": "08",
+    "cod_mpio": "08634",
+    "nombre": "SABANAGRANDE",
+    "bbox": [
+      -74.758507205,
+      10.7910759492
+    ]
+  },
+  {
+    "cod_dpto": "08",
+    "cod_mpio": "08638",
+    "nombre": "SABANALARGA",
+    "bbox": [
+      -74.9210936808,
+      10.6328352305
+    ]
+  },
+  {
+    "cod_dpto": "08",
+    "cod_mpio": "08675",
+    "nombre": "SANTA LUCÍA",
+    "bbox": [
+      -74.9589714527,
+      10.3232732128
+    ]
+  },
+  {
+    "cod_dpto": "08",
+    "cod_mpio": "08685",
+    "nombre": "SANTO TOMÁS",
+    "bbox": [
+      -74.7541118585,
+      10.756056293
+    ]
+  },
+  {
+    "cod_dpto": "08",
+    "cod_mpio": "08758",
+    "nombre": "SOLEDAD",
+    "bbox": [
+      -74.784833384,
+      10.9101744673
+    ]
+  },
+  {
+    "cod_dpto": "08",
+    "cod_mpio": "08770",
+    "nombre": "SUAN",
+    "bbox": [
+      -74.8816874806,
+      10.335431376
+    ]
+  },
+  {
+    "cod_dpto": "08",
+    "cod_mpio": "08832",
+    "nombre": "TUBARÁ",
+    "bbox": [
+      -74.9786794721,
+      10.873647738
+    ]
+  },
+  {
+    "cod_dpto": "08",
+    "cod_mpio": "08849",
+    "nombre": "USIACURÍ",
+    "bbox": [
+      -74.9769826088,
+      10.7429781944
+    ]
+  },
+  {
+    "cod_dpto": 11,
+    "cod_mpio": 11001,
+    "nombre": "BOGOTÁ, D.C.",
+    "bbox": [
+      -74.1073590032,
+      4.65017303026
+    ]
+  },
+  {
+    "cod_dpto": 13,
+    "cod_mpio": 13001,
+    "nombre": "CARTAGENA DE INDIAS",
+    "bbox": [
+      -75.496431028,
+      10.3849855226
+    ]
+  },
+  {
+    "cod_dpto": 13,
+    "cod_mpio": 13006,
+    "nombre": "ACHÍ",
+    "bbox": [
+      -74.5570639545,
+      8.56911039303
+    ]
+  },
+  {
+    "cod_dpto": 13,
+    "cod_mpio": 13030,
+    "nombre": "ALTOS DEL ROSARIO",
+    "bbox": [
+      -74.1650494459,
+      8.79160639942
+    ]
+  },
+  {
+    "cod_dpto": 13,
+    "cod_mpio": 13042,
+    "nombre": "ARENAL",
+    "bbox": [
+      -73.9411158255,
+      8.45863043784
+    ]
+  },
+  {
+    "cod_dpto": 13,
+    "cod_mpio": 13052,
+    "nombre": "ARJONA",
+    "bbox": [
+      -75.3444884486,
+      10.2566315237
+    ]
+  },
+  {
+    "cod_dpto": 13,
+    "cod_mpio": 13062,
+    "nombre": "ARROYOHONDO",
+    "bbox": [
+      -75.0171926779,
+      10.2427984821
+    ]
+  },
+  {
+    "cod_dpto": 13,
+    "cod_mpio": 13074,
+    "nombre": "BARRANCO DE LOBA",
+    "bbox": [
+      -74.1052242834,
+      8.94773015812
+    ]
+  },
+  {
+    "cod_dpto": 13,
+    "cod_mpio": 13140,
+    "nombre": "CALAMAR",
+    "bbox": [
+      -74.9136292818,
+      10.2519633588
+    ]
+  },
+  {
+    "cod_dpto": 13,
+    "cod_mpio": 13160,
+    "nombre": "CANTAGALLO",
+    "bbox": [
+      -73.9146502355,
+      7.37831560048
+    ]
+  },
+  {
+    "cod_dpto": 13,
+    "cod_mpio": 13188,
+    "nombre": "CICUCO",
+    "bbox": [
+      -74.6454941915,
+      9.27474559753
+    ]
+  },
+  {
+    "cod_dpto": 13,
+    "cod_mpio": 13212,
+    "nombre": "CÓRDOBA",
+    "bbox": [
+      -74.8274626321,
+      9.58690791767
+    ]
+  },
+  {
+    "cod_dpto": 13,
+    "cod_mpio": 13222,
+    "nombre": "CLEMENCIA",
+    "bbox": [
+      -75.3285120131,
+      10.567541769
+    ]
+  },
+  {
+    "cod_dpto": 13,
+    "cod_mpio": 13244,
+    "nombre": "EL CARMEN DE BOLÍVAR",
+    "bbox": [
+      -75.1212157328,
+      9.71857986447
+    ]
+  },
+  {
+    "cod_dpto": 13,
+    "cod_mpio": 13248,
+    "nombre": "EL GUAMO",
+    "bbox": [
+      -74.976113566,
+      10.0309129767
+    ]
+  },
+  {
+    "cod_dpto": 13,
+    "cod_mpio": 13268,
+    "nombre": "EL PEÑÓN",
+    "bbox": [
+      -73.9494155005,
+      8.98821947575
+    ]
+  },
+  {
+    "cod_dpto": 13,
+    "cod_mpio": 13300,
+    "nombre": "HATILLO DE LOBA",
+    "bbox": [
+      -74.0783647121,
+      8.95561489131
+    ]
+  },
+  {
+    "cod_dpto": 13,
+    "cod_mpio": 13430,
+    "nombre": "MAGANGUÉ",
+    "bbox": [
+      -74.7701745713,
+      9.26856379448
+    ]
+  },
+  {
+    "cod_dpto": 13,
+    "cod_mpio": 13433,
+    "nombre": "MAHATES",
+    "bbox": [
+      -75.1913365877,
+      10.2332545168
+    ]
+  },
+  {
+    "cod_dpto": 13,
+    "cod_mpio": 13440,
+    "nombre": "MARGARITA",
+    "bbox": [
+      -74.2808217575,
+      9.15555047248
+    ]
+  },
+  {
+    "cod_dpto": 13,
+    "cod_mpio": 13442,
+    "nombre": "MARÍA LA BAJA",
+    "bbox": [
+      -75.3007593485,
+      9.98264551708
+    ]
+  },
+  {
+    "cod_dpto": 13,
+    "cod_mpio": 13458,
+    "nombre": "MONTECRISTO",
+    "bbox": [
+      -74.471703852,
+      8.29713627502
+    ]
+  },
+  {
+    "cod_dpto": 13,
+    "cod_mpio": 13468,
+    "nombre": "SANTA CRUZ DE MOMPOX",
+    "bbox": [
+      -74.4278664177,
+      9.24388375713
+    ]
+  },
+  {
+    "cod_dpto": 13,
+    "cod_mpio": 13473,
+    "nombre": "MORALES",
+    "bbox": [
+      -73.8681404847,
+      8.27630677134
+    ]
+  },
+  {
+    "cod_dpto": 13,
+    "cod_mpio": 13490,
+    "nombre": "NOROSÍ",
+    "bbox": [
+      -74.0380591313,
+      8.52598078728
+    ]
+  },
+  {
+    "cod_dpto": 13,
+    "cod_mpio": 13549,
+    "nombre": "PINILLOS",
+    "bbox": [
+      -74.4624035436,
+      8.91545223353
+    ]
+  },
+  {
+    "cod_dpto": 13,
+    "cod_mpio": 13580,
+    "nombre": "REGIDOR",
+    "bbox": [
+      -73.8216380238,
+      8.66625772801
+    ]
+  },
+  {
+    "cod_dpto": 13,
+    "cod_mpio": 13600,
+    "nombre": "RÍO VIEJO",
+    "bbox": [
+      -73.8399454858,
+      8.58762771185
+    ]
+  },
+  {
+    "cod_dpto": 13,
+    "cod_mpio": 13620,
+    "nombre": "SAN CRISTÓBAL",
+    "bbox": [
+      -75.0655341715,
+      10.3928557722
+    ]
+  },
+  {
+    "cod_dpto": 13,
+    "cod_mpio": 13647,
+    "nombre": "SAN ESTANISLAO",
+    "bbox": [
+      -75.153257919,
+      10.3984757022
+    ]
+  },
+  {
+    "cod_dpto": 13,
+    "cod_mpio": 13650,
+    "nombre": "SAN FERNANDO",
+    "bbox": [
+      -74.3238666453,
+      9.21417906541
+    ]
+  },
+  {
+    "cod_dpto": 13,
+    "cod_mpio": 13654,
+    "nombre": "SAN JACINTO",
+    "bbox": [
+      -75.1210888007,
+      9.83021907275
+    ]
+  },
+  {
+    "cod_dpto": 13,
+    "cod_mpio": 13655,
+    "nombre": "SAN JACINTO DEL CAUCA",
+    "bbox": [
+      -74.720826427,
+      8.25173932101
+    ]
+  },
+  {
+    "cod_dpto": 13,
+    "cod_mpio": 13657,
+    "nombre": "SAN JUAN NEPOMUCENO",
+    "bbox": [
+      -75.0813529279,
+      9.95345438771
+    ]
+  },
+  {
+    "cod_dpto": 13,
+    "cod_mpio": 13667,
+    "nombre": "SAN MARTÍN DE LOBA",
+    "bbox": [
+      -74.0390117481,
+      8.93709081139
+    ]
+  },
+  {
+    "cod_dpto": 13,
+    "cod_mpio": 13670,
+    "nombre": "SAN PABLO",
+    "bbox": [
+      -73.924168553,
+      7.47672067152
+    ]
+  },
+  {
+    "cod_dpto": 13,
+    "cod_mpio": 13673,
+    "nombre": "SANTA CATALINA",
+    "bbox": [
+      -75.2877641062,
+      10.6050560511
+    ]
+  },
+  {
+    "cod_dpto": 13,
+    "cod_mpio": 13683,
+    "nombre": "SANTA ROSA",
+    "bbox": [
+      -75.369831664,
+      10.4443960805
+    ]
+  },
+  {
+    "cod_dpto": 13,
+    "cod_mpio": 13688,
+    "nombre": "SANTA ROSA DEL SUR",
+    "bbox": [
+      -74.0528400072,
+      7.96285483059
+    ]
+  },
+  {
+    "cod_dpto": 13,
+    "cod_mpio": 13744,
+    "nombre": "SIMITÍ",
+    "bbox": [
+      -73.9473119566,
+      7.95417637554
+    ]
+  },
+  {
+    "cod_dpto": 13,
+    "cod_mpio": 13760,
+    "nombre": "SOPLAVIENTO",
+    "bbox": [
+      -75.136425507,
+      10.3884574255
+    ]
+  },
+  {
+    "cod_dpto": 13,
+    "cod_mpio": 13780,
+    "nombre": "TALAIGUA NUEVO",
+    "bbox": [
+      -74.5676280613,
+      9.30488932928
+    ]
+  },
+  {
+    "cod_dpto": 13,
+    "cod_mpio": 13810,
+    "nombre": "TIQUISIO",
+    "bbox": [
+      -74.2635468827,
+      8.55774111696
+    ]
+  },
+  {
+    "cod_dpto": 13,
+    "cod_mpio": 13836,
+    "nombre": "TURBACO",
+    "bbox": [
+      -75.4244091655,
+      10.3327691633
+    ]
+  },
+  {
+    "cod_dpto": 13,
+    "cod_mpio": 13838,
+    "nombre": "TURBANÁ",
+    "bbox": [
+      -75.4425024683,
+      10.2744020509
+    ]
+  },
+  {
+    "cod_dpto": 13,
+    "cod_mpio": 13873,
+    "nombre": "VILLANUEVA",
+    "bbox": [
+      -75.2747543876,
+      10.4444983316
+    ]
+  },
+  {
+    "cod_dpto": 13,
+    "cod_mpio": 13894,
+    "nombre": "ZAMBRANO",
+    "bbox": [
+      -74.8138396019,
+      9.74691390036
+    ]
+  },
+  {
+    "cod_dpto": 15,
+    "cod_mpio": 15001,
+    "nombre": "TUNJA",
+    "bbox": [
+      -73.3554887287,
+      5.53995323795
+    ]
+  },
+  {
+    "cod_dpto": 15,
+    "cod_mpio": 15022,
+    "nombre": "ALMEIDA",
+    "bbox": [
+      -73.3789331048,
+      4.97085650862
+    ]
+  },
+  {
+    "cod_dpto": 15,
+    "cod_mpio": 15047,
+    "nombre": "AQUITANIA",
+    "bbox": [
+      -72.8839848091,
+      5.51860354302
+    ]
+  },
+  {
+    "cod_dpto": 15,
+    "cod_mpio": 15051,
+    "nombre": "ARCABUCO",
+    "bbox": [
+      -73.4381847561,
+      5.75518426904
+    ]
+  },
+  {
+    "cod_dpto": 15,
+    "cod_mpio": 15087,
+    "nombre": "BELÉN",
+    "bbox": [
+      -72.9116195663,
+      5.98927786058
+    ]
+  },
+  {
+    "cod_dpto": 15,
+    "cod_mpio": 15090,
+    "nombre": "BERBEO",
+    "bbox": [
+      -73.1270321462,
+      5.22728723002
+    ]
+  },
+  {
+    "cod_dpto": 15,
+    "cod_mpio": 15092,
+    "nombre": "BETÉITIVA",
+    "bbox": [
+      -72.8090312025,
+      5.90990781839
+    ]
+  },
+  {
+    "cod_dpto": 15,
+    "cod_mpio": 15097,
+    "nombre": "BOAVITA",
+    "bbox": [
+      -72.5849593987,
+      6.33065256287
+    ]
+  },
+  {
+    "cod_dpto": 15,
+    "cod_mpio": 15104,
+    "nombre": "BOYACÁ",
+    "bbox": [
+      -73.3623027174,
+      5.45423716391
+    ]
+  },
+  {
+    "cod_dpto": 15,
+    "cod_mpio": 15106,
+    "nombre": "BRICEÑO",
+    "bbox": [
+      -73.9232596955,
+      5.69087889724
+    ]
+  },
+  {
+    "cod_dpto": 15,
+    "cod_mpio": 15109,
+    "nombre": "BUENAVISTA",
+    "bbox": [
+      -73.9423052248,
+      5.51243115138
+    ]
+  },
+  {
+    "cod_dpto": 15,
+    "cod_mpio": 15114,
+    "nombre": "BUSBANZÁ",
+    "bbox": [
+      -72.8841617543,
+      5.8313895322
+    ]
+  },
+  {
+    "cod_dpto": 15,
+    "cod_mpio": 15131,
+    "nombre": "CALDAS",
+    "bbox": [
+      -73.8655410006,
+      5.55457507858
+    ]
+  },
+  {
+    "cod_dpto": 15,
+    "cod_mpio": 15135,
+    "nombre": "CAMPOHERMOSO",
+    "bbox": [
+      -73.1041679174,
+      5.0316606812
+    ]
+  },
+  {
+    "cod_dpto": 15,
+    "cod_mpio": 15162,
+    "nombre": "CERINZA",
+    "bbox": [
+      -72.948275851,
+      5.95602818885
+    ]
+  },
+  {
+    "cod_dpto": 15,
+    "cod_mpio": 15172,
+    "nombre": "CHINAVITA",
+    "bbox": [
+      -73.3684764814,
+      5.16748382122
+    ]
+  },
+  {
+    "cod_dpto": 15,
+    "cod_mpio": 15176,
+    "nombre": "CHIQUINQUIRÁ",
+    "bbox": [
+      -73.8183876347,
+      5.61412789039
+    ]
+  },
+  {
+    "cod_dpto": 15,
+    "cod_mpio": 15180,
+    "nombre": "CHISCAS",
+    "bbox": [
+      -72.5018350718,
+      6.55405042828
+    ]
+  },
+  {
+    "cod_dpto": 15,
+    "cod_mpio": 15183,
+    "nombre": "CHITA",
+    "bbox": [
+      -72.4718923521,
+      6.18708299638
+    ]
+  },
+  {
+    "cod_dpto": 15,
+    "cod_mpio": 15185,
+    "nombre": "CHITARAQUE",
+    "bbox": [
+      -73.4471004029,
+      6.02742513316
+    ]
+  },
+  {
+    "cod_dpto": 15,
+    "cod_mpio": 15187,
+    "nombre": "CHIVATÁ",
+    "bbox": [
+      -73.2825294417,
+      5.55894884501
+    ]
+  },
+  {
+    "cod_dpto": 15,
+    "cod_mpio": 15189,
+    "nombre": "CIÉNEGA",
+    "bbox": [
+      -73.2960612914,
+      5.40870219185
+    ]
+  },
+  {
+    "cod_dpto": 15,
+    "cod_mpio": 15204,
+    "nombre": "CÓMBITA",
+    "bbox": [
+      -73.323956415,
+      5.63454531392
+    ]
+  },
+  {
+    "cod_dpto": 15,
+    "cod_mpio": 15212,
+    "nombre": "COPER",
+    "bbox": [
+      -74.0454607199,
+      5.47498301805
+    ]
+  },
+  {
+    "cod_dpto": 15,
+    "cod_mpio": 15215,
+    "nombre": "CORRALES",
+    "bbox": [
+      -72.8447948409,
+      5.82810220795
+    ]
+  },
+  {
+    "cod_dpto": 15,
+    "cod_mpio": 15218,
+    "nombre": "COVARACHÍA",
+    "bbox": [
+      -72.7389779335,
+      6.50017746022
+    ]
+  },
+  {
+    "cod_dpto": 15,
+    "cod_mpio": 15223,
+    "nombre": "CUBARÁ",
+    "bbox": [
+      -72.1106877551,
+      7.00009287529
+    ]
+  },
+  {
+    "cod_dpto": 15,
+    "cod_mpio": 15224,
+    "nombre": "CUCAITA",
+    "bbox": [
+      -73.4543376458,
+      5.54445155869
+    ]
+  },
+  {
+    "cod_dpto": 15,
+    "cod_mpio": 15226,
+    "nombre": "CUÍTIVA",
+    "bbox": [
+      -72.9659232314,
+      5.58036723016
+    ]
+  },
+  {
+    "cod_dpto": 15,
+    "cod_mpio": 15232,
+    "nombre": "CHÍQUIZA",
+    "bbox": [
+      -73.4494626143,
+      5.63983430511
+    ]
+  },
+  {
+    "cod_dpto": 15,
+    "cod_mpio": 15236,
+    "nombre": "CHIVOR",
+    "bbox": [
+      -73.3668937555,
+      4.8877816607
+    ]
+  },
+  {
+    "cod_dpto": 15,
+    "cod_mpio": 15238,
+    "nombre": "DUITAMA",
+    "bbox": [
+      -73.0306096702,
+      5.82298567975
+    ]
+  },
+  {
+    "cod_dpto": 15,
+    "cod_mpio": 15244,
+    "nombre": "EL COCUY",
+    "bbox": [
+      -72.4447293162,
+      6.40771623162
+    ]
+  },
+  {
+    "cod_dpto": 15,
+    "cod_mpio": 15248,
+    "nombre": "EL ESPINO",
+    "bbox": [
+      -72.4970073546,
+      6.48302740589
+    ]
+  },
+  {
+    "cod_dpto": 15,
+    "cod_mpio": 15272,
+    "nombre": "FIRAVITOBA",
+    "bbox": [
+      -72.9933614508,
+      5.66892215993
+    ]
+  },
+  {
+    "cod_dpto": 15,
+    "cod_mpio": 15276,
+    "nombre": "FLORESTA",
+    "bbox": [
+      -72.9181113126,
+      5.85951912431
+    ]
+  },
+  {
+    "cod_dpto": 15,
+    "cod_mpio": 15293,
+    "nombre": "GACHANTIVÁ",
+    "bbox": [
+      -73.5490923938,
+      5.75189108211
+    ]
+  },
+  {
+    "cod_dpto": 15,
+    "cod_mpio": 15296,
+    "nombre": "GÁMEZA",
+    "bbox": [
+      -72.805529354,
+      5.80233780495
+    ]
+  },
+  {
+    "cod_dpto": 15,
+    "cod_mpio": 15299,
+    "nombre": "GARAGOA",
+    "bbox": [
+      -73.3644275636,
+      5.08324346272
+    ]
+  },
+  {
+    "cod_dpto": 15,
+    "cod_mpio": 15317,
+    "nombre": "GUACAMAYAS",
+    "bbox": [
+      -72.5008119968,
+      6.4596665157
+    ]
+  },
+  {
+    "cod_dpto": 15,
+    "cod_mpio": 15322,
+    "nombre": "GUATEQUE",
+    "bbox": [
+      -73.4712069731,
+      5.00732089514
+    ]
+  },
+  {
+    "cod_dpto": 15,
+    "cod_mpio": 15325,
+    "nombre": "GUAYATÁ",
+    "bbox": [
+      -73.4896964004,
+      4.96712253068
+    ]
+  },
+  {
+    "cod_dpto": 15,
+    "cod_mpio": 15332,
+    "nombre": "GÜICÁN DE LA SIERRA",
+    "bbox": [
+      -72.4117626054,
+      6.46286375486
+    ]
+  },
+  {
+    "cod_dpto": 15,
+    "cod_mpio": 15362,
+    "nombre": "IZA",
+    "bbox": [
+      -72.9801762321,
+      5.61169613977
+    ]
+  },
+  {
+    "cod_dpto": 15,
+    "cod_mpio": 15367,
+    "nombre": "JENESANO",
+    "bbox": [
+      -73.3637375578,
+      5.38581284499
+    ]
+  },
+  {
+    "cod_dpto": 15,
+    "cod_mpio": 15368,
+    "nombre": "JERICÓ",
+    "bbox": [
+      -72.5707234868,
+      6.14592038332
+    ]
+  },
+  {
+    "cod_dpto": 15,
+    "cod_mpio": 15377,
+    "nombre": "LABRANZAGRANDE",
+    "bbox": [
+      -72.5777701202,
+      5.56268704797
+    ]
+  },
+  {
+    "cod_dpto": 15,
+    "cod_mpio": 15380,
+    "nombre": "LA CAPILLA",
+    "bbox": [
+      -73.4443474018,
+      5.09568699246
+    ]
+  },
+  {
+    "cod_dpto": 15,
+    "cod_mpio": 15401,
+    "nombre": "LA VICTORIA",
+    "bbox": [
+      -74.2343932245,
+      5.52379224002
+    ]
+  },
+  {
+    "cod_dpto": 15,
+    "cod_mpio": 15403,
+    "nombre": "LA UVITA",
+    "bbox": [
+      -72.5599847038,
+      6.3162064057
+    ]
+  },
+  {
+    "cod_dpto": 15,
+    "cod_mpio": 15407,
+    "nombre": "VILLA DE LEYVA",
+    "bbox": [
+      -73.5246845965,
+      5.63266184936
+    ]
+  },
+  {
+    "cod_dpto": 15,
+    "cod_mpio": 15425,
+    "nombre": "MACANAL",
+    "bbox": [
+      -73.3196422421,
+      4.97246606306
+    ]
+  },
+  {
+    "cod_dpto": 15,
+    "cod_mpio": 15442,
+    "nombre": "MARIPÍ",
+    "bbox": [
+      -74.0040499461,
+      5.55009070992
+    ]
+  },
+  {
+    "cod_dpto": 15,
+    "cod_mpio": 15455,
+    "nombre": "MIRAFLORES",
+    "bbox": [
+      -73.1456304805,
+      5.19651511498
+    ]
+  },
+  {
+    "cod_dpto": 15,
+    "cod_mpio": 15464,
+    "nombre": "MONGUA",
+    "bbox": [
+      -72.7980904867,
+      5.7542422283
+    ]
+  },
+  {
+    "cod_dpto": 15,
+    "cod_mpio": 15466,
+    "nombre": "MONGUÍ",
+    "bbox": [
+      -72.8492600099,
+      5.72340407154
+    ]
+  },
+  {
+    "cod_dpto": 15,
+    "cod_mpio": 15469,
+    "nombre": "MONIQUIRÁ",
+    "bbox": [
+      -73.5733703874,
+      5.8763348107
+    ]
+  },
+  {
+    "cod_dpto": 15,
+    "cod_mpio": 15476,
+    "nombre": "MOTAVITA",
+    "bbox": [
+      -73.3678410519,
+      5.57769959996
+    ]
+  },
+  {
+    "cod_dpto": 15,
+    "cod_mpio": 15480,
+    "nombre": "MUZO",
+    "bbox": [
+      -74.1027507754,
+      5.53246286737
+    ]
+  },
+  {
+    "cod_dpto": 15,
+    "cod_mpio": 15491,
+    "nombre": "NOBSA",
+    "bbox": [
+      -72.9398531722,
+      5.77104262442
+    ]
+  },
+  {
+    "cod_dpto": 15,
+    "cod_mpio": 15494,
+    "nombre": "NUEVO COLÓN",
+    "bbox": [
+      -73.457136184,
+      5.35514586429
+    ]
+  },
+  {
+    "cod_dpto": 15,
+    "cod_mpio": 15500,
+    "nombre": "OICATÁ",
+    "bbox": [
+      -73.3084039802,
+      5.59523423857
+    ]
+  },
+  {
+    "cod_dpto": 15,
+    "cod_mpio": 15507,
+    "nombre": "OTANCHE",
+    "bbox": [
+      -74.1809647364,
+      5.6575357131
+    ]
+  },
+  {
+    "cod_dpto": 15,
+    "cod_mpio": 15511,
+    "nombre": "PACHAVITA",
+    "bbox": [
+      -73.3969530625,
+      5.1400647313
+    ]
+  },
+  {
+    "cod_dpto": 15,
+    "cod_mpio": 15514,
+    "nombre": "PÁEZ",
+    "bbox": [
+      -73.0543103782,
+      5.09523463077
+    ]
+  },
+  {
+    "cod_dpto": 15,
+    "cod_mpio": 15516,
+    "nombre": "PAIPA",
+    "bbox": [
+      -73.1179168833,
+      5.77994187022
+    ]
+  },
+  {
+    "cod_dpto": 15,
+    "cod_mpio": 15518,
+    "nombre": "PAJARITO",
+    "bbox": [
+      -72.7032099199,
+      5.29366520638
+    ]
+  },
+  {
+    "cod_dpto": 15,
+    "cod_mpio": 15522,
+    "nombre": "PANQUEBA",
+    "bbox": [
+      -72.459200274,
+      6.4430754152
+    ]
+  },
+  {
+    "cod_dpto": 15,
+    "cod_mpio": 15531,
+    "nombre": "PAUNA",
+    "bbox": [
+      -73.9784487242,
+      5.65632269134
+    ]
+  },
+  {
+    "cod_dpto": 15,
+    "cod_mpio": 15533,
+    "nombre": "PAYA",
+    "bbox": [
+      -72.4237754102,
+      5.62569870723
+    ]
+  },
+  {
+    "cod_dpto": 15,
+    "cod_mpio": 15537,
+    "nombre": "PAZ DE RÍO",
+    "bbox": [
+      -72.7491373831,
+      5.98764490579
+    ]
+  },
+  {
+    "cod_dpto": 15,
+    "cod_mpio": 15542,
+    "nombre": "PESCA",
+    "bbox": [
+      -73.0508722377,
+      5.55880760918
+    ]
+  },
+  {
+    "cod_dpto": 15,
+    "cod_mpio": 15550,
+    "nombre": "PISBA",
+    "bbox": [
+      -72.4859468239,
+      5.72161511225
+    ]
+  },
+  {
+    "cod_dpto": 15,
+    "cod_mpio": 15572,
+    "nombre": "PUERTO BOYACÁ",
+    "bbox": [
+      -74.5879991859,
+      5.97793495174
+    ]
+  },
+  {
+    "cod_dpto": 15,
+    "cod_mpio": 15580,
+    "nombre": "QUÍPAMA",
+    "bbox": [
+      -74.1777293867,
+      5.51837038479
+    ]
+  },
+  {
+    "cod_dpto": 15,
+    "cod_mpio": 15599,
+    "nombre": "RAMIRIQUÍ",
+    "bbox": [
+      -73.3348689631,
+      5.40022164431
+    ]
+  },
+  {
+    "cod_dpto": 15,
+    "cod_mpio": 15600,
+    "nombre": "RÁQUIRA",
+    "bbox": [
+      -73.6324971571,
+      5.53906582743
+    ]
+  },
+  {
+    "cod_dpto": 15,
+    "cod_mpio": 15621,
+    "nombre": "RONDÓN",
+    "bbox": [
+      -73.2084739746,
+      5.35740011572
+    ]
+  },
+  {
+    "cod_dpto": 15,
+    "cod_mpio": 15632,
+    "nombre": "SABOYÁ",
+    "bbox": [
+      -73.7646606203,
+      5.69773343185
+    ]
+  },
+  {
+    "cod_dpto": 15,
+    "cod_mpio": 15638,
+    "nombre": "SÁCHICA",
+    "bbox": [
+      -73.5426344665,
+      5.5835924967
+    ]
+  },
+  {
+    "cod_dpto": 15,
+    "cod_mpio": 15646,
+    "nombre": "SAMACÁ",
+    "bbox": [
+      -73.4856435912,
+      5.49231459065
+    ]
+  },
+  {
+    "cod_dpto": 15,
+    "cod_mpio": 15660,
+    "nombre": "SAN EDUARDO",
+    "bbox": [
+      -73.0771429986,
+      5.22395593971
+    ]
+  },
+  {
+    "cod_dpto": 15,
+    "cod_mpio": 15664,
+    "nombre": "SAN JOSÉ DE PARE",
+    "bbox": [
+      -73.5453724498,
+      6.01897577141
+    ]
+  },
+  {
+    "cod_dpto": 15,
+    "cod_mpio": 15667,
+    "nombre": "SAN LUIS DE GACENO",
+    "bbox": [
+      -73.1683594198,
+      4.81969044706
+    ]
+  },
+  {
+    "cod_dpto": 15,
+    "cod_mpio": 15673,
+    "nombre": "SAN MATEO",
+    "bbox": [
+      -72.555264211,
+      6.40168331763
+    ]
+  },
+  {
+    "cod_dpto": 15,
+    "cod_mpio": 15676,
+    "nombre": "SAN MIGUEL DE SEMA",
+    "bbox": [
+      -73.7220048421,
+      5.51808638788
+    ]
+  },
+  {
+    "cod_dpto": 15,
+    "cod_mpio": 15681,
+    "nombre": "SAN PABLO DE BORBUR",
+    "bbox": [
+      -74.0699644758,
+      5.6506763959
+    ]
+  },
+  {
+    "cod_dpto": 15,
+    "cod_mpio": 15686,
+    "nombre": "SANTANA",
+    "bbox": [
+      -73.4812263191,
+      6.05741310683
+    ]
+  },
+  {
+    "cod_dpto": 15,
+    "cod_mpio": 15690,
+    "nombre": "SANTA MARÍA",
+    "bbox": [
+      -73.2635176558,
+      4.85719299476
+    ]
+  },
+  {
+    "cod_dpto": 15,
+    "cod_mpio": 15693,
+    "nombre": "SANTA ROSA DE VITERBO",
+    "bbox": [
+      -72.9824609238,
+      5.87455559736
+    ]
+  },
+  {
+    "cod_dpto": 15,
+    "cod_mpio": 15696,
+    "nombre": "SANTA SOFÍA",
+    "bbox": [
+      -73.6027071719,
+      5.71326942075
+    ]
+  },
+  {
+    "cod_dpto": 15,
+    "cod_mpio": 15720,
+    "nombre": "SATIVANORTE",
+    "bbox": [
+      -72.7084581556,
+      6.13113611074
+    ]
+  },
+  {
+    "cod_dpto": 15,
+    "cod_mpio": 15723,
+    "nombre": "SATIVASUR",
+    "bbox": [
+      -72.7124380793,
+      6.09318234349
+    ]
+  },
+  {
+    "cod_dpto": 15,
+    "cod_mpio": 15740,
+    "nombre": "SIACHOQUE",
+    "bbox": [
+      -73.2446490051,
+      5.51181505462
+    ]
+  },
+  {
+    "cod_dpto": 15,
+    "cod_mpio": 15753,
+    "nombre": "SOATÁ",
+    "bbox": [
+      -72.6840249822,
+      6.33191193659
+    ]
+  },
+  {
+    "cod_dpto": 15,
+    "cod_mpio": 15755,
+    "nombre": "SOCOTÁ",
+    "bbox": [
+      -72.6366533804,
+      6.04116183315
+    ]
+  },
+  {
+    "cod_dpto": 15,
+    "cod_mpio": 15757,
+    "nombre": "SOCHA",
+    "bbox": [
+      -72.6919658568,
+      5.99671302142
+    ]
+  },
+  {
+    "cod_dpto": 15,
+    "cod_mpio": 15759,
+    "nombre": "SOGAMOSO",
+    "bbox": [
+      -72.9230476859,
+      5.72568939005
+    ]
+  },
+  {
+    "cod_dpto": 15,
+    "cod_mpio": 15761,
+    "nombre": "SOMONDOCO",
+    "bbox": [
+      -73.433392983,
+      4.98572550723
+    ]
+  },
+  {
+    "cod_dpto": 15,
+    "cod_mpio": 15762,
+    "nombre": "SORA",
+    "bbox": [
+      -73.4501527774,
+      5.56683979702
+    ]
+  },
+  {
+    "cod_dpto": 15,
+    "cod_mpio": 15763,
+    "nombre": "SOTAQUIRÁ",
+    "bbox": [
+      -73.2473344815,
+      5.76523077368
+    ]
+  },
+  {
+    "cod_dpto": 15,
+    "cod_mpio": 15764,
+    "nombre": "SORACÁ",
+    "bbox": [
+      -73.332805627,
+      5.50090483119
+    ]
+  },
+  {
+    "cod_dpto": 15,
+    "cod_mpio": 15774,
+    "nombre": "SUSACÓN",
+    "bbox": [
+      -72.6902892468,
+      6.23033207437
+    ]
+  },
+  {
+    "cod_dpto": 15,
+    "cod_mpio": 15776,
+    "nombre": "SUTAMARCHÁN",
+    "bbox": [
+      -73.6205860962,
+      5.61978141908
+    ]
+  },
+  {
+    "cod_dpto": 15,
+    "cod_mpio": 15778,
+    "nombre": "SUTATENZA",
+    "bbox": [
+      -73.4523171398,
+      5.02298899355
+    ]
+  },
+  {
+    "cod_dpto": 15,
+    "cod_mpio": 15790,
+    "nombre": "TASCO",
+    "bbox": [
+      -72.7810111577,
+      5.90982103112
+    ]
+  },
+  {
+    "cod_dpto": 15,
+    "cod_mpio": 15798,
+    "nombre": "TENZA",
+    "bbox": [
+      -73.4205891075,
+      5.0770743509
+    ]
+  },
+  {
+    "cod_dpto": 15,
+    "cod_mpio": 15804,
+    "nombre": "TIBANÁ",
+    "bbox": [
+      -73.3964572213,
+      5.31725092439
+    ]
+  },
+  {
+    "cod_dpto": 15,
+    "cod_mpio": 15806,
+    "nombre": "TIBASOSA",
+    "bbox": [
+      -72.9994492099,
+      5.74722997688
+    ]
+  },
+  {
+    "cod_dpto": 15,
+    "cod_mpio": 15808,
+    "nombre": "TINJACÁ",
+    "bbox": [
+      -73.6468473359,
+      5.57971330972
+    ]
+  },
+  {
+    "cod_dpto": 15,
+    "cod_mpio": 15810,
+    "nombre": "TIPACOQUE",
+    "bbox": [
+      -72.6931726756,
+      6.41858580299
+    ]
+  },
+  {
+    "cod_dpto": 15,
+    "cod_mpio": 15814,
+    "nombre": "TOCA",
+    "bbox": [
+      -73.1847903357,
+      5.56646915043
+    ]
+  },
+  {
+    "cod_dpto": 15,
+    "cod_mpio": 15816,
+    "nombre": "TOGÜÍ",
+    "bbox": [
+      -73.5136550618,
+      5.93743822459
+    ]
+  },
+  {
+    "cod_dpto": 15,
+    "cod_mpio": 15820,
+    "nombre": "TÓPAGA",
+    "bbox": [
+      -72.832244934,
+      5.76820144934
+    ]
+  },
+  {
+    "cod_dpto": 15,
+    "cod_mpio": 15822,
+    "nombre": "TOTA",
+    "bbox": [
+      -72.9858981444,
+      5.56049737415
+    ]
+  },
+  {
+    "cod_dpto": 15,
+    "cod_mpio": 15832,
+    "nombre": "TUNUNGUÁ",
+    "bbox": [
+      -73.9331547966,
+      5.7305822083
+    ]
+  },
+  {
+    "cod_dpto": 15,
+    "cod_mpio": 15835,
+    "nombre": "TURMEQUÉ",
+    "bbox": [
+      -73.4918470184,
+      5.3232527677
+    ]
+  },
+  {
+    "cod_dpto": 15,
+    "cod_mpio": 15837,
+    "nombre": "TUTA",
+    "bbox": [
+      -73.2259729425,
+      5.69096824399
+    ]
+  },
+  {
+    "cod_dpto": 15,
+    "cod_mpio": 15839,
+    "nombre": "TUTAZÁ",
+    "bbox": [
+      -72.8560354807,
+      6.03260790273
+    ]
+  },
+  {
+    "cod_dpto": 15,
+    "cod_mpio": 15842,
+    "nombre": "ÚMBITA",
+    "bbox": [
+      -73.4569165722,
+      5.22117620092
+    ]
+  },
+  {
+    "cod_dpto": 15,
+    "cod_mpio": 15861,
+    "nombre": "VENTAQUEMADA",
+    "bbox": [
+      -73.5223732489,
+      5.36873397919
+    ]
+  },
+  {
+    "cod_dpto": 15,
+    "cod_mpio": 15879,
+    "nombre": "VIRACACHÁ",
+    "bbox": [
+      -73.2968996511,
+      5.43678853466
+    ]
+  },
+  {
+    "cod_dpto": 15,
+    "cod_mpio": 15897,
+    "nombre": "ZETAQUIRA",
+    "bbox": [
+      -73.1690520056,
+      5.28211605241
+    ]
+  },
+  {
+    "cod_dpto": 17,
+    "cod_mpio": 17001,
+    "nombre": "MANIZALES",
+    "bbox": [
+      -75.4910489848,
+      5.05768819705
+    ]
+  },
+  {
+    "cod_dpto": 17,
+    "cod_mpio": 17013,
+    "nombre": "AGUADAS",
+    "bbox": [
+      -75.4548696699,
+      5.61024445592
+    ]
+  },
+  {
+    "cod_dpto": 17,
+    "cod_mpio": 17042,
+    "nombre": "ANSERMA",
+    "bbox": [
+      -75.7843426615,
+      5.23647439108
+    ]
+  },
+  {
+    "cod_dpto": 17,
+    "cod_mpio": 17050,
+    "nombre": "ARANZAZU",
+    "bbox": [
+      -75.4912546148,
+      5.27114176848
+    ]
+  },
+  {
+    "cod_dpto": 17,
+    "cod_mpio": 17088,
+    "nombre": "BELALCÁZAR",
+    "bbox": [
+      -75.8119182955,
+      4.99379389997
+    ]
+  },
+  {
+    "cod_dpto": 17,
+    "cod_mpio": 17174,
+    "nombre": "CHINCHINÁ",
+    "bbox": [
+      -75.6074807289,
+      4.98581286197
+    ]
+  },
+  {
+    "cod_dpto": 17,
+    "cod_mpio": 17272,
+    "nombre": "FILADELFIA",
+    "bbox": [
+      -75.5624740599,
+      5.29709070967
+    ]
+  },
+  {
+    "cod_dpto": 17,
+    "cod_mpio": 17380,
+    "nombre": "LA DORADA",
+    "bbox": [
+      -74.6582056212,
+      5.44440609816
+    ]
+  },
+  {
+    "cod_dpto": 17,
+    "cod_mpio": 17388,
+    "nombre": "LA MERCED",
+    "bbox": [
+      -75.5479078855,
+      5.39477940954
+    ]
+  },
+  {
+    "cod_dpto": 17,
+    "cod_mpio": 17433,
+    "nombre": "MANZANARES",
+    "bbox": [
+      -75.1528288516,
+      5.25572025339
+    ]
+  },
+  {
+    "cod_dpto": 17,
+    "cod_mpio": 17442,
+    "nombre": "MARMATO",
+    "bbox": [
+      -75.6002416244,
+      5.47400482007
+    ]
+  },
+  {
+    "cod_dpto": 17,
+    "cod_mpio": 17444,
+    "nombre": "MARQUETALIA",
+    "bbox": [
+      -75.0530970305,
+      5.29752456061
+    ]
+  },
+  {
+    "cod_dpto": 17,
+    "cod_mpio": 17446,
+    "nombre": "MARULANDA",
+    "bbox": [
+      -75.2594025313,
+      5.28433046388
+    ]
+  },
+  {
+    "cod_dpto": 17,
+    "cod_mpio": 17486,
+    "nombre": "NEIRA",
+    "bbox": [
+      -75.5198420752,
+      5.16670570261
+    ]
+  },
+  {
+    "cod_dpto": 17,
+    "cod_mpio": 17495,
+    "nombre": "NORCASIA",
+    "bbox": [
+      -74.8895440794,
+      5.57479539319
+    ]
+  },
+  {
+    "cod_dpto": 17,
+    "cod_mpio": 17513,
+    "nombre": "PÁCORA",
+    "bbox": [
+      -75.4596212622,
+      5.52717173309
+    ]
+  },
+  {
+    "cod_dpto": 17,
+    "cod_mpio": 17524,
+    "nombre": "PALESTINA",
+    "bbox": [
+      -75.6215025571,
+      5.02057116803
+    ]
+  },
+  {
+    "cod_dpto": 17,
+    "cod_mpio": 17541,
+    "nombre": "PENSILVANIA",
+    "bbox": [
+      -75.1602985189,
+      5.38328059422
+    ]
+  },
+  {
+    "cod_dpto": 17,
+    "cod_mpio": 17614,
+    "nombre": "RIOSUCIO",
+    "bbox": [
+      -75.7020697129,
+      5.42368091314
+    ]
+  },
+  {
+    "cod_dpto": 17,
+    "cod_mpio": 17616,
+    "nombre": "RISARALDA",
+    "bbox": [
+      -75.7672195365,
+      5.16450895652
+    ]
+  },
+  {
+    "cod_dpto": 17,
+    "cod_mpio": 17653,
+    "nombre": "SALAMINA",
+    "bbox": [
+      -75.4872224433,
+      5.40302451457
+    ]
+  },
+  {
+    "cod_dpto": 17,
+    "cod_mpio": 17662,
+    "nombre": "SAMANÁ",
+    "bbox": [
+      -74.9922577601,
+      5.41308630139
+    ]
+  },
+  {
+    "cod_dpto": 17,
+    "cod_mpio": 17665,
+    "nombre": "SAN JOSÉ",
+    "bbox": [
+      -75.7920044375,
+      5.08156947455
+    ]
+  },
+  {
+    "cod_dpto": 17,
+    "cod_mpio": 17777,
+    "nombre": "SUPÍA",
+    "bbox": [
+      -75.6496603124,
+      5.44684298212
+    ]
+  },
+  {
+    "cod_dpto": 17,
+    "cod_mpio": 17867,
+    "nombre": "VICTORIA",
+    "bbox": [
+      -74.9111530426,
+      5.31742020018
+    ]
+  },
+  {
+    "cod_dpto": 17,
+    "cod_mpio": 17873,
+    "nombre": "VILLAMARÍA",
+    "bbox": [
+      -75.5137606023,
+      5.04380668643
+    ]
+  },
+  {
+    "cod_dpto": 17,
+    "cod_mpio": 17877,
+    "nombre": "VITERBO",
+    "bbox": [
+      -75.8706098599,
+      5.06266423587
+    ]
+  },
+  {
+    "cod_dpto": 18,
+    "cod_mpio": 18001,
+    "nombre": "FLORENCIA",
+    "bbox": [
+      -75.6085604324,
+      1.6179229304
+    ]
+  },
+  {
+    "cod_dpto": 18,
+    "cod_mpio": 18029,
+    "nombre": "ALBANIA",
+    "bbox": [
+      -75.878370537,
+      1.32852208792
+    ]
+  },
+  {
+    "cod_dpto": 18,
+    "cod_mpio": 18094,
+    "nombre": "BELÉN DE LOS ANDAQUÍES",
+    "bbox": [
+      -75.8724739494,
+      1.41578644559
+    ]
+  },
+  {
+    "cod_dpto": 18,
+    "cod_mpio": 18150,
+    "nombre": "CARTAGENA DEL CHAIRÁ",
+    "bbox": [
+      -74.8471983686,
+      1.33513495491
+    ]
+  },
+  {
+    "cod_dpto": 18,
+    "cod_mpio": 18205,
+    "nombre": "CURILLO",
+    "bbox": [
+      -75.9192043462,
+      1.03347374762
+    ]
+  },
+  {
+    "cod_dpto": 18,
+    "cod_mpio": 18247,
+    "nombre": "EL DONCELLO",
+    "bbox": [
+      -75.2835628711,
+      1.67987247593
+    ]
+  },
+  {
+    "cod_dpto": 18,
+    "cod_mpio": 18256,
+    "nombre": "EL PAUJÍL",
+    "bbox": [
+      -75.3261234569,
+      1.5703732827
+    ]
+  },
+  {
+    "cod_dpto": 18,
+    "cod_mpio": 18410,
+    "nombre": "LA MONTAÑITA",
+    "bbox": [
+      -75.4364077628,
+      1.47917263471
+    ]
+  },
+  {
+    "cod_dpto": 18,
+    "cod_mpio": 18460,
+    "nombre": "MILÁN",
+    "bbox": [
+      -75.506962028,
+      1.29042720175
+    ]
+  },
+  {
+    "cod_dpto": 18,
+    "cod_mpio": 18479,
+    "nombre": "MORELIA",
+    "bbox": [
+      -75.724581403,
+      1.48762336882
+    ]
+  },
+  {
+    "cod_dpto": 18,
+    "cod_mpio": 18592,
+    "nombre": "PUERTO RICO",
+    "bbox": [
+      -75.1574887391,
+      1.9089350729
+    ]
+  },
+  {
+    "cod_dpto": 18,
+    "cod_mpio": 18610,
+    "nombre": "SAN JOSÉ DEL FRAGUA",
+    "bbox": [
+      -75.9735381035,
+      1.33194847974
+    ]
+  },
+  {
+    "cod_dpto": 18,
+    "cod_mpio": 18753,
+    "nombre": "SAN VICENTE DEL CAGUÁN",
+    "bbox": [
+      -74.7673405755,
+      2.11978613132
+    ]
+  },
+  {
+    "cod_dpto": 18,
+    "cod_mpio": 18756,
+    "nombre": "SOLANO",
+    "bbox": [
+      -75.2537043144,
+      0.698977525293
+    ]
+  },
+  {
+    "cod_dpto": 18,
+    "cod_mpio": 18785,
+    "nombre": "SOLITA",
+    "bbox": [
+      -75.6197340907,
+      0.876668003326
+    ]
+  },
+  {
+    "cod_dpto": 18,
+    "cod_mpio": 18860,
+    "nombre": "VALPARAÍSO",
+    "bbox": [
+      -75.7065835254,
+      1.19458303208
+    ]
+  },
+  {
+    "cod_dpto": 19,
+    "cod_mpio": 19001,
+    "nombre": "POPAYÁN",
+    "bbox": [
+      -76.5740646841,
+      2.48250339062
+    ]
+  },
+  {
+    "cod_dpto": 19,
+    "cod_mpio": 19022,
+    "nombre": "ALMAGUER",
+    "bbox": [
+      -76.8559244891,
+      1.91336023289
+    ]
+  },
+  {
+    "cod_dpto": 19,
+    "cod_mpio": 19050,
+    "nombre": "ARGELIA",
+    "bbox": [
+      -77.2494502806,
+      2.25675490871
+    ]
+  },
+  {
+    "cod_dpto": 19,
+    "cod_mpio": 19075,
+    "nombre": "BALBOA",
+    "bbox": [
+      -77.2158981426,
+      2.04047876828
+    ]
+  },
+  {
+    "cod_dpto": 19,
+    "cod_mpio": 19100,
+    "nombre": "BOLÍVAR",
+    "bbox": [
+      -76.9663120354,
+      1.83741640354
+    ]
+  },
+  {
+    "cod_dpto": 19,
+    "cod_mpio": 19110,
+    "nombre": "BUENOS AIRES",
+    "bbox": [
+      -76.6422805942,
+      3.01542682958
+    ]
+  },
+  {
+    "cod_dpto": 19,
+    "cod_mpio": 19130,
+    "nombre": "CAJIBÍO",
+    "bbox": [
+      -76.570884274,
+      2.62333825366
+    ]
+  },
+  {
+    "cod_dpto": 19,
+    "cod_mpio": 19137,
+    "nombre": "CALDONO",
+    "bbox": [
+      -76.4844478583,
+      2.79813082558
+    ]
+  },
+  {
+    "cod_dpto": 19,
+    "cod_mpio": 19142,
+    "nombre": "CALOTO",
+    "bbox": [
+      -76.4084870416,
+      3.03407077834
+    ]
+  },
+  {
+    "cod_dpto": 19,
+    "cod_mpio": 19212,
+    "nombre": "CORINTO",
+    "bbox": [
+      -76.2613141858,
+      3.17381545712
+    ]
+  },
+  {
+    "cod_dpto": 19,
+    "cod_mpio": 19256,
+    "nombre": "EL TAMBO",
+    "bbox": [
+      -76.8107722487,
+      2.4513713597
+    ]
+  },
+  {
+    "cod_dpto": 19,
+    "cod_mpio": 19290,
+    "nombre": "FLORENCIA",
+    "bbox": [
+      -77.0725342556,
+      1.68252246324
+    ]
+  },
+  {
+    "cod_dpto": 19,
+    "cod_mpio": 19300,
+    "nombre": "GUACHENÉ",
+    "bbox": [
+      -76.3921887379,
+      3.13415329544
+    ]
+  },
+  {
+    "cod_dpto": 19,
+    "cod_mpio": 19318,
+    "nombre": "GUAPI",
+    "bbox": [
+      -77.8880334723,
+      2.57291836569
+    ]
+  },
+  {
+    "cod_dpto": 19,
+    "cod_mpio": 19355,
+    "nombre": "INZÁ",
+    "bbox": [
+      -76.0635027215,
+      2.54918298431
+    ]
+  },
+  {
+    "cod_dpto": 19,
+    "cod_mpio": 19364,
+    "nombre": "JAMBALÓ",
+    "bbox": [
+      -76.3238781841,
+      2.77783734662
+    ]
+  },
+  {
+    "cod_dpto": 19,
+    "cod_mpio": 19392,
+    "nombre": "LA SIERRA",
+    "bbox": [
+      -76.7632090797,
+      2.1793224055
+    ]
+  },
+  {
+    "cod_dpto": 19,
+    "cod_mpio": 19397,
+    "nombre": "LA VEGA",
+    "bbox": [
+      -76.7788973014,
+      2.00110922351
+    ]
+  },
+  {
+    "cod_dpto": 19,
+    "cod_mpio": 19418,
+    "nombre": "LÓPEZ DE MICAY",
+    "bbox": [
+      -77.2476915421,
+      2.84671593199
+    ]
+  },
+  {
+    "cod_dpto": 19,
+    "cod_mpio": 19450,
+    "nombre": "MERCADERES",
+    "bbox": [
+      -77.1658443228,
+      1.7757724953
+    ]
+  },
+  {
+    "cod_dpto": 19,
+    "cod_mpio": 19455,
+    "nombre": "MIRANDA",
+    "bbox": [
+      -76.2288698651,
+      3.25309540523
+    ]
+  },
+  {
+    "cod_dpto": 19,
+    "cod_mpio": 19473,
+    "nombre": "MORALES",
+    "bbox": [
+      -76.6292205639,
+      2.75455856722
+    ]
+  },
+  {
+    "cod_dpto": 19,
+    "cod_mpio": 19513,
+    "nombre": "PADILLA",
+    "bbox": [
+      -76.3132908947,
+      3.22085383574
+    ]
+  },
+  {
+    "cod_dpto": 19,
+    "cod_mpio": 19517,
+    "nombre": "PÁEZ",
+    "bbox": [
+      -75.9719645112,
+      2.64136676756
+    ]
+  },
+  {
+    "cod_dpto": 19,
+    "cod_mpio": 19532,
+    "nombre": "PATÍA",
+    "bbox": [
+      -76.980978593,
+      2.1156702266
+    ]
+  },
+  {
+    "cod_dpto": 19,
+    "cod_mpio": 19533,
+    "nombre": "PIAMONTE",
+    "bbox": [
+      -76.3257642468,
+      1.11719778195
+    ]
+  },
+  {
+    "cod_dpto": 19,
+    "cod_mpio": 19548,
+    "nombre": "PIENDAMÓ - TUNÍA",
+    "bbox": [
+      -76.528505916,
+      2.64198757766
+    ]
+  },
+  {
+    "cod_dpto": 19,
+    "cod_mpio": 19573,
+    "nombre": "PUERTO TEJADA",
+    "bbox": [
+      -76.4173077964,
+      3.23329412702
+    ]
+  },
+  {
+    "cod_dpto": 19,
+    "cod_mpio": 19585,
+    "nombre": "PURACÉ",
+    "bbox": [
+      -76.4956389436,
+      2.34264404738
+    ]
+  },
+  {
+    "cod_dpto": 19,
+    "cod_mpio": 19622,
+    "nombre": "ROSAS",
+    "bbox": [
+      -76.7403518701,
+      2.26097969885
+    ]
+  },
+  {
+    "cod_dpto": 19,
+    "cod_mpio": 19693,
+    "nombre": "SAN SEBASTIÁN",
+    "bbox": [
+      -76.7693316013,
+      1.83837388745
+    ]
+  },
+  {
+    "cod_dpto": 19,
+    "cod_mpio": 19698,
+    "nombre": "SANTANDER DE QUILICHAO",
+    "bbox": [
+      -76.4853702902,
+      3.01605390077
+    ]
+  },
+  {
+    "cod_dpto": 19,
+    "cod_mpio": 19701,
+    "nombre": "SANTA ROSA",
+    "bbox": [
+      -76.5739729713,
+      1.70242028367
+    ]
+  },
+  {
+    "cod_dpto": 19,
+    "cod_mpio": 19743,
+    "nombre": "SILVIA",
+    "bbox": [
+      -76.3795704195,
+      2.61181564498
+    ]
+  },
+  {
+    "cod_dpto": 19,
+    "cod_mpio": 19760,
+    "nombre": "SOTARÁ PAISPAMBA",
+    "bbox": [
+      -76.6132981543,
+      2.25313406728
+    ]
+  },
+  {
+    "cod_dpto": 19,
+    "cod_mpio": 19780,
+    "nombre": "SUÁREZ",
+    "bbox": [
+      -76.6934471137,
+      2.9597015369
+    ]
+  },
+  {
+    "cod_dpto": 19,
+    "cod_mpio": 19785,
+    "nombre": "SUCRE",
+    "bbox": [
+      -76.9262773071,
+      2.03825139668
+    ]
+  },
+  {
+    "cod_dpto": 19,
+    "cod_mpio": 19807,
+    "nombre": "TIMBÍO",
+    "bbox": [
+      -76.6842387889,
+      2.34997642507
+    ]
+  },
+  {
+    "cod_dpto": 19,
+    "cod_mpio": 19809,
+    "nombre": "TIMBIQUÍ",
+    "bbox": [
+      -77.6675652428,
+      2.77741370208
+    ]
+  },
+  {
+    "cod_dpto": 19,
+    "cod_mpio": 19821,
+    "nombre": "TORIBÍO",
+    "bbox": [
+      -76.271127213,
+      2.95145040911
+    ]
+  },
+  {
+    "cod_dpto": 19,
+    "cod_mpio": 19824,
+    "nombre": "TOTORÓ",
+    "bbox": [
+      -76.4024425093,
+      2.51022919252
+    ]
+  },
+  {
+    "cod_dpto": 19,
+    "cod_mpio": 19845,
+    "nombre": "VILLA RICA",
+    "bbox": [
+      -76.457872658,
+      3.17757792648
+    ]
+  },
+  {
+    "cod_dpto": 20,
+    "cod_mpio": 20001,
+    "nombre": "VALLEDUPAR",
+    "bbox": [
+      -73.259389309,
+      10.4604812152
+    ]
+  },
+  {
+    "cod_dpto": 20,
+    "cod_mpio": 20011,
+    "nombre": "AGUACHICA",
+    "bbox": [
+      -73.599028585,
+      8.31033695838
+    ]
+  },
+  {
+    "cod_dpto": 20,
+    "cod_mpio": 20013,
+    "nombre": "AGUSTÍN CODAZZI",
+    "bbox": [
+      -73.2383961682,
+      10.0404579941
+    ]
+  },
+  {
+    "cod_dpto": 20,
+    "cod_mpio": 20032,
+    "nombre": "ASTREA",
+    "bbox": [
+      -73.9758637993,
+      9.49816110765
+    ]
+  },
+  {
+    "cod_dpto": 20,
+    "cod_mpio": 20045,
+    "nombre": "BECERRIL",
+    "bbox": [
+      -73.2792316745,
+      9.70460611578
+    ]
+  },
+  {
+    "cod_dpto": 20,
+    "cod_mpio": 20060,
+    "nombre": "BOSCONIA",
+    "bbox": [
+      -73.8887676643,
+      9.97509470036
+    ]
+  },
+  {
+    "cod_dpto": 20,
+    "cod_mpio": 20175,
+    "nombre": "CHIMICHAGUA",
+    "bbox": [
+      -73.8133284455,
+      9.25827144037
+    ]
+  },
+  {
+    "cod_dpto": 20,
+    "cod_mpio": 20178,
+    "nombre": "CHIRIGUANÁ",
+    "bbox": [
+      -73.6001444386,
+      9.36118961071
+    ]
+  },
+  {
+    "cod_dpto": 20,
+    "cod_mpio": 20228,
+    "nombre": "CURUMANÍ",
+    "bbox": [
+      -73.5409865164,
+      9.20181059219
+    ]
+  },
+  {
+    "cod_dpto": 20,
+    "cod_mpio": 20238,
+    "nombre": "EL COPEY",
+    "bbox": [
+      -73.9627174377,
+      10.1495254346
+    ]
+  },
+  {
+    "cod_dpto": 20,
+    "cod_mpio": 20250,
+    "nombre": "EL PASO",
+    "bbox": [
+      -73.7417884838,
+      9.668470391
+    ]
+  },
+  {
+    "cod_dpto": 20,
+    "cod_mpio": 20295,
+    "nombre": "GAMARRA",
+    "bbox": [
+      -73.7437599973,
+      8.32044905058
+    ]
+  },
+  {
+    "cod_dpto": 20,
+    "cod_mpio": 20310,
+    "nombre": "GONZÁLEZ",
+    "bbox": [
+      -73.3800398618,
+      8.38960409745
+    ]
+  },
+  {
+    "cod_dpto": 20,
+    "cod_mpio": 20383,
+    "nombre": "LA GLORIA",
+    "bbox": [
+      -73.8032101165,
+      8.61929787819
+    ]
+  },
+  {
+    "cod_dpto": 20,
+    "cod_mpio": 20400,
+    "nombre": "LA JAGUA DE IBIRICO",
+    "bbox": [
+      -73.3342279147,
+      9.56388730036
+    ]
+  },
+  {
+    "cod_dpto": 20,
+    "cod_mpio": 20443,
+    "nombre": "MANAURE BALCÓN DEL CESAR",
+    "bbox": [
+      -73.0283204603,
+      10.3908986424
+    ]
+  },
+  {
+    "cod_dpto": 20,
+    "cod_mpio": 20517,
+    "nombre": "PAILITAS",
+    "bbox": [
+      -73.6258166827,
+      8.95603320557
+    ]
+  },
+  {
+    "cod_dpto": 20,
+    "cod_mpio": 20550,
+    "nombre": "PELAYA",
+    "bbox": [
+      -73.666354865,
+      8.68865096387
+    ]
+  },
+  {
+    "cod_dpto": 20,
+    "cod_mpio": 20570,
+    "nombre": "PUEBLO BELLO",
+    "bbox": [
+      -73.5890106167,
+      10.4150615983
+    ]
+  },
+  {
+    "cod_dpto": 20,
+    "cod_mpio": 20614,
+    "nombre": "RÍO DE ORO",
+    "bbox": [
+      -73.3863951998,
+      8.29228738416
+    ]
+  },
+  {
+    "cod_dpto": 20,
+    "cod_mpio": 20621,
+    "nombre": "LA PAZ",
+    "bbox": [
+      -73.1713629126,
+      10.3874895364
+    ]
+  },
+  {
+    "cod_dpto": 20,
+    "cod_mpio": 20710,
+    "nombre": "SAN ALBERTO",
+    "bbox": [
+      -73.394225336,
+      7.76082642
+    ]
+  },
+  {
+    "cod_dpto": 20,
+    "cod_mpio": 20750,
+    "nombre": "SAN DIEGO",
+    "bbox": [
+      -73.1812180784,
+      10.3330328571
+    ]
+  },
+  {
+    "cod_dpto": 20,
+    "cod_mpio": 20770,
+    "nombre": "SAN MARTÍN",
+    "bbox": [
+      -73.510975182,
+      7.99989545861
+    ]
+  },
+  {
+    "cod_dpto": 20,
+    "cod_mpio": 20787,
+    "nombre": "TAMALAMEQUE",
+    "bbox": [
+      -73.8121727977,
+      8.86172498622
+    ]
+  },
+  {
+    "cod_dpto": 23,
+    "cod_mpio": 23001,
+    "nombre": "MONTERÍA",
+    "bbox": [
+      -75.8755779091,
+      8.7451325909
+    ]
+  },
+  {
+    "cod_dpto": 23,
+    "cod_mpio": 23068,
+    "nombre": "AYAPEL",
+    "bbox": [
+      -75.1462907587,
+      8.31444662901
+    ]
+  },
+  {
+    "cod_dpto": 23,
+    "cod_mpio": 23079,
+    "nombre": "BUENAVISTA",
+    "bbox": [
+      -75.4808987065,
+      8.22116555415
+    ]
+  },
+  {
+    "cod_dpto": 23,
+    "cod_mpio": 23090,
+    "nombre": "CANALETE",
+    "bbox": [
+      -76.2413965182,
+      8.78694452257
+    ]
+  },
+  {
+    "cod_dpto": 23,
+    "cod_mpio": 23162,
+    "nombre": "CERETÉ",
+    "bbox": [
+      -75.7962165157,
+      8.88861181239
+    ]
+  },
+  {
+    "cod_dpto": 23,
+    "cod_mpio": 23168,
+    "nombre": "CHIMÁ",
+    "bbox": [
+      -75.6268955144,
+      9.14948045696
+    ]
+  },
+  {
+    "cod_dpto": 23,
+    "cod_mpio": 23182,
+    "nombre": "CHINÚ",
+    "bbox": [
+      -75.3997196232,
+      9.10529408935
+    ]
+  },
+  {
+    "cod_dpto": 23,
+    "cod_mpio": 23189,
+    "nombre": "CIÉNAGA DE ORO",
+    "bbox": [
+      -75.6207866383,
+      8.87550224563
+    ]
+  },
+  {
+    "cod_dpto": 23,
+    "cod_mpio": 23300,
+    "nombre": "COTORRA",
+    "bbox": [
+      -75.79914949,
+      9.03708805117
+    ]
+  },
+  {
+    "cod_dpto": 23,
+    "cod_mpio": 23350,
+    "nombre": "LA APARTADA",
+    "bbox": [
+      -75.339016306,
+      8.05245366011
+    ]
+  },
+  {
+    "cod_dpto": 23,
+    "cod_mpio": 23417,
+    "nombre": "LORICA",
+    "bbox": [
+      -75.8159953999,
+      9.24085514265
+    ]
+  },
+  {
+    "cod_dpto": 23,
+    "cod_mpio": 23419,
+    "nombre": "LOS CÓRDOBAS",
+    "bbox": [
+      -76.3551928772,
+      8.8921689971
+    ]
+  },
+  {
+    "cod_dpto": 23,
+    "cod_mpio": 23464,
+    "nombre": "MOMIL",
+    "bbox": [
+      -75.677960621,
+      9.24071191662
+    ]
+  },
+  {
+    "cod_dpto": 23,
+    "cod_mpio": 23466,
+    "nombre": "MONTELÍBANO",
+    "bbox": [
+      -75.4168181275,
+      7.97377724432
+    ]
+  },
+  {
+    "cod_dpto": 23,
+    "cod_mpio": 23500,
+    "nombre": "MOÑITOS",
+    "bbox": [
+      -76.1293961872,
+      9.24528029275
+    ]
+  },
+  {
+    "cod_dpto": 23,
+    "cod_mpio": 23555,
+    "nombre": "PLANETA RICA",
+    "bbox": [
+      -75.5832429853,
+      8.4082025621
+    ]
+  },
+  {
+    "cod_dpto": 23,
+    "cod_mpio": 23570,
+    "nombre": "PUEBLO NUEVO",
+    "bbox": [
+      -75.5079713776,
+      8.50400329721
+    ]
+  },
+  {
+    "cod_dpto": 23,
+    "cod_mpio": 23574,
+    "nombre": "PUERTO ESCONDIDO",
+    "bbox": [
+      -76.2604110803,
+      9.00537217768
+    ]
+  },
+  {
+    "cod_dpto": 23,
+    "cod_mpio": 23580,
+    "nombre": "PUERTO LIBERTADOR",
+    "bbox": [
+      -75.6717997497,
+      7.88883481477
+    ]
+  },
+  {
+    "cod_dpto": 23,
+    "cod_mpio": 23586,
+    "nombre": "PURÍSIMA DE LA CONCEPCIÓN",
+    "bbox": [
+      -75.724885256,
+      9.23929907899
+    ]
+  },
+  {
+    "cod_dpto": 23,
+    "cod_mpio": 23660,
+    "nombre": "SAHAGÚN",
+    "bbox": [
+      -75.4459203022,
+      8.94312541611
+    ]
+  },
+  {
+    "cod_dpto": 23,
+    "cod_mpio": 23670,
+    "nombre": "SAN ANDRÉS DE SOTAVENTO",
+    "bbox": [
+      -75.5088938958,
+      9.14516294312
+    ]
+  },
+  {
+    "cod_dpto": 23,
+    "cod_mpio": 23672,
+    "nombre": "SAN ANTERO",
+    "bbox": [
+      -75.7607729685,
+      9.37621734505
+    ]
+  },
+  {
+    "cod_dpto": 23,
+    "cod_mpio": 23675,
+    "nombre": "SAN BERNARDO DEL VIENTO",
+    "bbox": [
+      -75.954743869,
+      9.35230198865
+    ]
+  },
+  {
+    "cod_dpto": 23,
+    "cod_mpio": 23678,
+    "nombre": "SAN CARLOS",
+    "bbox": [
+      -75.698845486,
+      8.7991065915
+    ]
+  },
+  {
+    "cod_dpto": 23,
+    "cod_mpio": 23682,
+    "nombre": "SAN JOSÉ DE URÉ",
+    "bbox": [
+      -75.5331329003,
+      7.78718514987
+    ]
+  },
+  {
+    "cod_dpto": 23,
+    "cod_mpio": 23686,
+    "nombre": "SAN PELAYO",
+    "bbox": [
+      -75.835125523,
+      8.95801032102
+    ]
+  },
+  {
+    "cod_dpto": 23,
+    "cod_mpio": 23807,
+    "nombre": "TIERRALTA",
+    "bbox": [
+      -76.0596965873,
+      8.17037868433
+    ]
+  },
+  {
+    "cod_dpto": 23,
+    "cod_mpio": 23815,
+    "nombre": "TUCHÍN",
+    "bbox": [
+      -75.5544509193,
+      9.18696587527
+    ]
+  },
+  {
+    "cod_dpto": 23,
+    "cod_mpio": 23855,
+    "nombre": "VALENCIA",
+    "bbox": [
+      -76.1507186857,
+      8.25501658365
+    ]
+  },
+  {
+    "cod_dpto": 25,
+    "cod_mpio": 25001,
+    "nombre": "AGUA DE DIOS",
+    "bbox": [
+      -74.6692177783,
+      4.37531201654
+    ]
+  },
+  {
+    "cod_dpto": 25,
+    "cod_mpio": 25019,
+    "nombre": "ALBÁN",
+    "bbox": [
+      -74.4382610949,
+      4.87802212342
+    ]
+  },
+  {
+    "cod_dpto": 25,
+    "cod_mpio": 25035,
+    "nombre": "ANAPOIMA",
+    "bbox": [
+      -74.5285175294,
+      4.56295617479
+    ]
+  },
+  {
+    "cod_dpto": 25,
+    "cod_mpio": 25040,
+    "nombre": "ANOLAIMA",
+    "bbox": [
+      -74.4638420299,
+      4.76169521336
+    ]
+  },
+  {
+    "cod_dpto": 25,
+    "cod_mpio": 25053,
+    "nombre": "ARBELÁEZ",
+    "bbox": [
+      -74.4148256203,
+      4.27248167219
+    ]
+  },
+  {
+    "cod_dpto": 25,
+    "cod_mpio": 25086,
+    "nombre": "BELTRÁN",
+    "bbox": [
+      -74.7418023007,
+      4.80281145918
+    ]
+  },
+  {
+    "cod_dpto": 25,
+    "cod_mpio": 25095,
+    "nombre": "BITUIMA",
+    "bbox": [
+      -74.5396189325,
+      4.87223433854
+    ]
+  },
+  {
+    "cod_dpto": 25,
+    "cod_mpio": 25099,
+    "nombre": "BOJACÁ",
+    "bbox": [
+      -74.348491637,
+      4.74175811774
+    ]
+  },
+  {
+    "cod_dpto": 25,
+    "cod_mpio": 25120,
+    "nombre": "CABRERA",
+    "bbox": [
+      -74.4841872343,
+      3.98461913986
+    ]
+  },
+  {
+    "cod_dpto": 25,
+    "cod_mpio": 25123,
+    "nombre": "CACHIPAY",
+    "bbox": [
+      -74.4357071003,
+      4.73095462855
+    ]
+  },
+  {
+    "cod_dpto": 25,
+    "cod_mpio": 25126,
+    "nombre": "CAJICÁ",
+    "bbox": [
+      -74.0234539659,
+      4.92080905869
+    ]
+  },
+  {
+    "cod_dpto": 25,
+    "cod_mpio": 25148,
+    "nombre": "CAPARRAPÍ",
+    "bbox": [
+      -74.491119562,
+      5.34794329475
+    ]
+  },
+  {
+    "cod_dpto": 25,
+    "cod_mpio": 25151,
+    "nombre": "CÁQUEZA",
+    "bbox": [
+      -73.946474203,
+      4.40410105992
+    ]
+  },
+  {
+    "cod_dpto": 25,
+    "cod_mpio": 25154,
+    "nombre": "CARMEN DE CARUPA",
+    "bbox": [
+      -73.9015737647,
+      5.34911575799
+    ]
+  },
+  {
+    "cod_dpto": 25,
+    "cod_mpio": 25168,
+    "nombre": "CHAGUANÍ",
+    "bbox": [
+      -74.5934552918,
+      4.9489158269
+    ]
+  },
+  {
+    "cod_dpto": 25,
+    "cod_mpio": 25175,
+    "nombre": "CHÍA",
+    "bbox": [
+      -74.0503468211,
+      4.86606542368
+    ]
+  },
+  {
+    "cod_dpto": 25,
+    "cod_mpio": 25178,
+    "nombre": "CHIPAQUE",
+    "bbox": [
+      -74.0448756309,
+      4.44267101655
+    ]
+  },
+  {
+    "cod_dpto": 25,
+    "cod_mpio": 25181,
+    "nombre": "CHOACHÍ",
+    "bbox": [
+      -73.9228944808,
+      4.52704792092
+    ]
+  },
+  {
+    "cod_dpto": 25,
+    "cod_mpio": 25183,
+    "nombre": "CHOCONTÁ",
+    "bbox": [
+      -73.6835234355,
+      5.14522389367
+    ]
+  },
+  {
+    "cod_dpto": 25,
+    "cod_mpio": 25200,
+    "nombre": "COGUA",
+    "bbox": [
+      -73.9784966905,
+      5.06184179776
+    ]
+  },
+  {
+    "cod_dpto": 25,
+    "cod_mpio": 25214,
+    "nombre": "COTA",
+    "bbox": [
+      -74.1027264632,
+      4.81298776927
+    ]
+  },
+  {
+    "cod_dpto": 25,
+    "cod_mpio": 25224,
+    "nombre": "CUCUNUBÁ",
+    "bbox": [
+      -73.7662153323,
+      5.249767987
+    ]
+  },
+  {
+    "cod_dpto": 25,
+    "cod_mpio": 25245,
+    "nombre": "EL COLEGIO",
+    "bbox": [
+      -74.4425516884,
+      4.57945966153
+    ]
+  },
+  {
+    "cod_dpto": 25,
+    "cod_mpio": 25258,
+    "nombre": "EL PEÑÓN",
+    "bbox": [
+      -74.2912859352,
+      5.24914117123
+    ]
+  },
+  {
+    "cod_dpto": 25,
+    "cod_mpio": 25260,
+    "nombre": "EL ROSAL",
+    "bbox": [
+      -74.2636673864,
+      4.85221427507
+    ]
+  },
+  {
+    "cod_dpto": 25,
+    "cod_mpio": 25269,
+    "nombre": "FACATATIVÁ",
+    "bbox": [
+      -74.3502279311,
+      4.81306417837
+    ]
+  },
+  {
+    "cod_dpto": 25,
+    "cod_mpio": 25279,
+    "nombre": "FÓMEQUE",
+    "bbox": [
+      -73.8925225919,
+      4.48547434467
+    ]
+  },
+  {
+    "cod_dpto": 25,
+    "cod_mpio": 25281,
+    "nombre": "FOSCA",
+    "bbox": [
+      -73.939020362,
+      4.33909284456
+    ]
+  },
+  {
+    "cod_dpto": 25,
+    "cod_mpio": 25286,
+    "nombre": "FUNZA",
+    "bbox": [
+      -74.2115250018,
+      4.7127630154
+    ]
+  },
+  {
+    "cod_dpto": 25,
+    "cod_mpio": 25288,
+    "nombre": "FÚQUENE",
+    "bbox": [
+      -73.7958554311,
+      5.40404076647
+    ]
+  },
+  {
+    "cod_dpto": 25,
+    "cod_mpio": 25290,
+    "nombre": "FUSAGASUGÁ",
+    "bbox": [
+      -74.3663339328,
+      4.33848085051
+    ]
+  },
+  {
+    "cod_dpto": 25,
+    "cod_mpio": 25293,
+    "nombre": "GACHALÁ",
+    "bbox": [
+      -73.520161361,
+      4.69357867212
+    ]
+  },
+  {
+    "cod_dpto": 25,
+    "cod_mpio": 25295,
+    "nombre": "GACHANCIPÁ",
+    "bbox": [
+      -73.8734692187,
+      4.99091817204
+    ]
+  },
+  {
+    "cod_dpto": 25,
+    "cod_mpio": 25297,
+    "nombre": "GACHETÁ",
+    "bbox": [
+      -73.6370065098,
+      4.81702216214
+    ]
+  },
+  {
+    "cod_dpto": 25,
+    "cod_mpio": 25299,
+    "nombre": "GAMA",
+    "bbox": [
+      -73.6110289432,
+      4.7633382001
+    ]
+  },
+  {
+    "cod_dpto": 25,
+    "cod_mpio": 25307,
+    "nombre": "GIRARDOT",
+    "bbox": [
+      -74.797794594,
+      4.3130783365
+    ]
+  },
+  {
+    "cod_dpto": 25,
+    "cod_mpio": 25312,
+    "nombre": "GRANADA",
+    "bbox": [
+      -74.3507661124,
+      4.51976347261
+    ]
+  },
+  {
+    "cod_dpto": 25,
+    "cod_mpio": 25317,
+    "nombre": "GUACHETÁ",
+    "bbox": [
+      -73.6870982163,
+      5.3837411919
+    ]
+  },
+  {
+    "cod_dpto": 25,
+    "cod_mpio": 25320,
+    "nombre": "GUADUAS",
+    "bbox": [
+      -74.6029562704,
+      5.0718705327
+    ]
+  },
+  {
+    "cod_dpto": 25,
+    "cod_mpio": 25322,
+    "nombre": "GUASCA",
+    "bbox": [
+      -73.8771434385,
+      4.86671914717
+    ]
+  },
+  {
+    "cod_dpto": 25,
+    "cod_mpio": 25324,
+    "nombre": "GUATAQUÍ",
+    "bbox": [
+      -74.7899687799,
+      4.51741723492
+    ]
+  },
+  {
+    "cod_dpto": 25,
+    "cod_mpio": 25326,
+    "nombre": "GUATAVITA",
+    "bbox": [
+      -73.8328740383,
+      4.93413970308
+    ]
+  },
+  {
+    "cod_dpto": 25,
+    "cod_mpio": 25328,
+    "nombre": "GUAYABAL DE SÍQUIMA",
+    "bbox": [
+      -74.4674373333,
+      4.87796813442
+    ]
+  },
+  {
+    "cod_dpto": 25,
+    "cod_mpio": 25335,
+    "nombre": "GUAYABETAL",
+    "bbox": [
+      -73.815093758,
+      4.21529662874
+    ]
+  },
+  {
+    "cod_dpto": 25,
+    "cod_mpio": 25339,
+    "nombre": "GUTIÉRREZ",
+    "bbox": [
+      -74.0030419006,
+      4.25467886744
+    ]
+  },
+  {
+    "cod_dpto": 25,
+    "cod_mpio": 25368,
+    "nombre": "JERUSALÉN",
+    "bbox": [
+      -74.695419232,
+      4.56230826721
+    ]
+  },
+  {
+    "cod_dpto": 25,
+    "cod_mpio": 25372,
+    "nombre": "JUNÍN",
+    "bbox": [
+      -73.6629245458,
+      4.79037997406
+    ]
+  },
+  {
+    "cod_dpto": 25,
+    "cod_mpio": 25377,
+    "nombre": "LA CALERA",
+    "bbox": [
+      -73.9697449587,
+      4.72034452148
+    ]
+  },
+  {
+    "cod_dpto": 25,
+    "cod_mpio": 25386,
+    "nombre": "LA MESA",
+    "bbox": [
+      -74.4615447441,
+      4.631044239
+    ]
+  },
+  {
+    "cod_dpto": 25,
+    "cod_mpio": 25394,
+    "nombre": "LA PALMA",
+    "bbox": [
+      -74.3910201655,
+      5.35881671072
+    ]
+  },
+  {
+    "cod_dpto": 25,
+    "cod_mpio": 25398,
+    "nombre": "LA PEÑA",
+    "bbox": [
+      -74.3930887331,
+      5.20021114693
+    ]
+  },
+  {
+    "cod_dpto": 25,
+    "cod_mpio": 25402,
+    "nombre": "LA VEGA",
+    "bbox": [
+      -74.3311382109,
+      4.99307703418
+    ]
+  },
+  {
+    "cod_dpto": 25,
+    "cod_mpio": 25407,
+    "nombre": "LENGUAZAQUE",
+    "bbox": [
+      -73.7114935355,
+      5.30614349852
+    ]
+  },
+  {
+    "cod_dpto": 25,
+    "cod_mpio": 25426,
+    "nombre": "MACHETÁ",
+    "bbox": [
+      -73.6083249966,
+      5.08019892124
+    ]
+  },
+  {
+    "cod_dpto": 25,
+    "cod_mpio": 25430,
+    "nombre": "MADRID",
+    "bbox": [
+      -74.2656257663,
+      4.73612976558
+    ]
+  },
+  {
+    "cod_dpto": 25,
+    "cod_mpio": 25436,
+    "nombre": "MANTA",
+    "bbox": [
+      -73.5405024653,
+      5.00905838893
+    ]
+  },
+  {
+    "cod_dpto": 25,
+    "cod_mpio": 25438,
+    "nombre": "MEDINA",
+    "bbox": [
+      -73.349122722,
+      4.50661493013
+    ]
+  },
+  {
+    "cod_dpto": 25,
+    "cod_mpio": 25473,
+    "nombre": "MOSQUERA",
+    "bbox": [
+      -74.2317750849,
+      4.71137120122
+    ]
+  },
+  {
+    "cod_dpto": 25,
+    "cod_mpio": 25483,
+    "nombre": "NARIÑO",
+    "bbox": [
+      -74.8247317885,
+      4.39983679943
+    ]
+  },
+  {
+    "cod_dpto": 25,
+    "cod_mpio": 25486,
+    "nombre": "NEMOCÓN",
+    "bbox": [
+      -73.8796297366,
+      5.06736463787
+    ]
+  },
+  {
+    "cod_dpto": 25,
+    "cod_mpio": 25488,
+    "nombre": "NILO",
+    "bbox": [
+      -74.6199658722,
+      4.3058014209
+    ]
+  },
+  {
+    "cod_dpto": 25,
+    "cod_mpio": 25489,
+    "nombre": "NIMAIMA",
+    "bbox": [
+      -74.3860073831,
+      5.12602624761
+    ]
+  },
+  {
+    "cod_dpto": 25,
+    "cod_mpio": 25491,
+    "nombre": "NOCAIMA",
+    "bbox": [
+      -74.3777279564,
+      5.06893301864
+    ]
+  },
+  {
+    "cod_dpto": 25,
+    "cod_mpio": 25506,
+    "nombre": "VENECIA",
+    "bbox": [
+      -74.4781782099,
+      4.08896094329
+    ]
+  },
+  {
+    "cod_dpto": 25,
+    "cod_mpio": 25513,
+    "nombre": "PACHO",
+    "bbox": [
+      -74.1561166248,
+      5.13694229685
+    ]
+  },
+  {
+    "cod_dpto": 25,
+    "cod_mpio": 25518,
+    "nombre": "PAIME",
+    "bbox": [
+      -74.1522128773,
+      5.37048740987
+    ]
+  },
+  {
+    "cod_dpto": 25,
+    "cod_mpio": 25524,
+    "nombre": "PANDI",
+    "bbox": [
+      -74.4866412755,
+      4.19039256127
+    ]
+  },
+  {
+    "cod_dpto": 25,
+    "cod_mpio": 25530,
+    "nombre": "PARATEBUENO",
+    "bbox": [
+      -73.2128272365,
+      4.37483278131
+    ]
+  },
+  {
+    "cod_dpto": 25,
+    "cod_mpio": 25535,
+    "nombre": "PASCA",
+    "bbox": [
+      -74.3054599341,
+      4.30985441175
+    ]
+  },
+  {
+    "cod_dpto": 25,
+    "cod_mpio": 25572,
+    "nombre": "PUERTO SALGAR",
+    "bbox": [
+      -74.6528007002,
+      5.46495604399
+    ]
+  },
+  {
+    "cod_dpto": 25,
+    "cod_mpio": 25580,
+    "nombre": "PULÍ",
+    "bbox": [
+      -74.7144764597,
+      4.681785104
+    ]
+  },
+  {
+    "cod_dpto": 25,
+    "cod_mpio": 25592,
+    "nombre": "QUEBRADANEGRA",
+    "bbox": [
+      -74.480145011,
+      5.11807100487
+    ]
+  },
+  {
+    "cod_dpto": 25,
+    "cod_mpio": 25594,
+    "nombre": "QUETAME",
+    "bbox": [
+      -73.8631138797,
+      4.32982560247
+    ]
+  },
+  {
+    "cod_dpto": 25,
+    "cod_mpio": 25596,
+    "nombre": "QUIPILE",
+    "bbox": [
+      -74.5337050069,
+      4.74480989336
+    ]
+  },
+  {
+    "cod_dpto": 25,
+    "cod_mpio": 25599,
+    "nombre": "APULO",
+    "bbox": [
+      -74.5938045381,
+      4.52034721895
+    ]
+  },
+  {
+    "cod_dpto": 25,
+    "cod_mpio": 25612,
+    "nombre": "RICAURTE",
+    "bbox": [
+      -74.7845429695,
+      4.29394974668
+    ]
+  },
+  {
+    "cod_dpto": 25,
+    "cod_mpio": 25645,
+    "nombre": "SAN ANTONIO DEL TEQUENDAMA",
+    "bbox": [
+      -74.3514426858,
+      4.61613804533
+    ]
+  },
+  {
+    "cod_dpto": 25,
+    "cod_mpio": 25649,
+    "nombre": "SAN BERNARDO",
+    "bbox": [
+      -74.4229624182,
+      4.17943236251
+    ]
+  },
+  {
+    "cod_dpto": 25,
+    "cod_mpio": 25653,
+    "nombre": "SAN CAYETANO",
+    "bbox": [
+      -74.0247539737,
+      5.33293754523
+    ]
+  },
+  {
+    "cod_dpto": 25,
+    "cod_mpio": 25658,
+    "nombre": "SAN FRANCISCO",
+    "bbox": [
+      -74.2896719804,
+      4.97291693996
+    ]
+  },
+  {
+    "cod_dpto": 25,
+    "cod_mpio": 25662,
+    "nombre": "SAN JUAN DE RIOSECO",
+    "bbox": [
+      -74.6219147166,
+      4.84757599913
+    ]
+  },
+  {
+    "cod_dpto": 25,
+    "cod_mpio": 25718,
+    "nombre": "SASAIMA",
+    "bbox": [
+      -74.4326279484,
+      4.96216698742
+    ]
+  },
+  {
+    "cod_dpto": 25,
+    "cod_mpio": 25736,
+    "nombre": "SESQUILÉ",
+    "bbox": [
+      -73.796127833,
+      5.04472961298
+    ]
+  },
+  {
+    "cod_dpto": 25,
+    "cod_mpio": 25740,
+    "nombre": "SIBATÉ",
+    "bbox": [
+      -74.2589922464,
+      4.48976359282
+    ]
+  },
+  {
+    "cod_dpto": 25,
+    "cod_mpio": 25743,
+    "nombre": "SILVANIA",
+    "bbox": [
+      -74.4055282051,
+      4.38194115676
+    ]
+  },
+  {
+    "cod_dpto": 25,
+    "cod_mpio": 25745,
+    "nombre": "SIMIJACA",
+    "bbox": [
+      -73.8503203464,
+      5.50542809823
+    ]
+  },
+  {
+    "cod_dpto": 25,
+    "cod_mpio": 25754,
+    "nombre": "SOACHA",
+    "bbox": [
+      -74.2145275305,
+      4.58549165821
+    ]
+  },
+  {
+    "cod_dpto": 25,
+    "cod_mpio": 25758,
+    "nombre": "SOPÓ",
+    "bbox": [
+      -73.9457748929,
+      4.90633080922
+    ]
+  },
+  {
+    "cod_dpto": 25,
+    "cod_mpio": 25769,
+    "nombre": "SUBACHOQUE",
+    "bbox": [
+      -74.1727084609,
+      4.92907928898
+    ]
+  },
+  {
+    "cod_dpto": 25,
+    "cod_mpio": 25772,
+    "nombre": "SUESCA",
+    "bbox": [
+      -73.7982897825,
+      5.10351683913
+    ]
+  },
+  {
+    "cod_dpto": 25,
+    "cod_mpio": 25777,
+    "nombre": "SUPATÁ",
+    "bbox": [
+      -74.2354030066,
+      5.0616195474
+    ]
+  },
+  {
+    "cod_dpto": 25,
+    "cod_mpio": 25779,
+    "nombre": "SUSA",
+    "bbox": [
+      -73.8140032455,
+      5.45486800416
+    ]
+  },
+  {
+    "cod_dpto": 25,
+    "cod_mpio": 25781,
+    "nombre": "SUTATAUSA",
+    "bbox": [
+      -73.8531588919,
+      5.24748231326
+    ]
+  },
+  {
+    "cod_dpto": 25,
+    "cod_mpio": 25785,
+    "nombre": "TABIO",
+    "bbox": [
+      -74.0961833908,
+      4.91720219183
+    ]
+  },
+  {
+    "cod_dpto": 25,
+    "cod_mpio": 25793,
+    "nombre": "TAUSA",
+    "bbox": [
+      -73.8864726745,
+      5.19655503948
+    ]
+  },
+  {
+    "cod_dpto": 25,
+    "cod_mpio": 25797,
+    "nombre": "TENA",
+    "bbox": [
+      -74.3895331213,
+      4.65533915338
+    ]
+  },
+  {
+    "cod_dpto": 25,
+    "cod_mpio": 25799,
+    "nombre": "TENJO",
+    "bbox": [
+      -74.1439562115,
+      4.87196053725
+    ]
+  },
+  {
+    "cod_dpto": 25,
+    "cod_mpio": 25805,
+    "nombre": "TIBACUY",
+    "bbox": [
+      -74.4523435167,
+      4.34831465919
+    ]
+  },
+  {
+    "cod_dpto": 25,
+    "cod_mpio": 25807,
+    "nombre": "TIBIRITA",
+    "bbox": [
+      -73.5045140252,
+      5.05227783785
+    ]
+  },
+  {
+    "cod_dpto": 25,
+    "cod_mpio": 25815,
+    "nombre": "TOCAIMA",
+    "bbox": [
+      -74.6363049188,
+      4.45927086386
+    ]
+  },
+  {
+    "cod_dpto": 25,
+    "cod_mpio": 25817,
+    "nombre": "TOCANCIPÁ",
+    "bbox": [
+      -73.9120912065,
+      4.96478635371
+    ]
+  },
+  {
+    "cod_dpto": 25,
+    "cod_mpio": 25823,
+    "nombre": "TOPAIPÍ",
+    "bbox": [
+      -74.3026879682,
+      5.33597334979
+    ]
+  },
+  {
+    "cod_dpto": 25,
+    "cod_mpio": 25839,
+    "nombre": "UBALÁ",
+    "bbox": [
+      -73.5339799298,
+      4.74390140812
+    ]
+  },
+  {
+    "cod_dpto": 25,
+    "cod_mpio": 25841,
+    "nombre": "UBAQUE",
+    "bbox": [
+      -73.9334608709,
+      4.48380209489
+    ]
+  },
+  {
+    "cod_dpto": 25,
+    "cod_mpio": 25843,
+    "nombre": "VILLA DE SAN DIEGO DE UBATÉ",
+    "bbox": [
+      -73.8143463395,
+      5.30754098383
+    ]
+  },
+  {
+    "cod_dpto": 25,
+    "cod_mpio": 25845,
+    "nombre": "UNE",
+    "bbox": [
+      -74.0251822579,
+      4.40245039297
+    ]
+  },
+  {
+    "cod_dpto": 25,
+    "cod_mpio": 25851,
+    "nombre": "ÚTICA",
+    "bbox": [
+      -74.4831202894,
+      5.19059010435
+    ]
+  },
+  {
+    "cod_dpto": 25,
+    "cod_mpio": 25862,
+    "nombre": "VERGARA",
+    "bbox": [
+      -74.3463604317,
+      5.11730456845
+    ]
+  },
+  {
+    "cod_dpto": 25,
+    "cod_mpio": 25867,
+    "nombre": "VIANÍ",
+    "bbox": [
+      -74.5613266223,
+      4.87520521745
+    ]
+  },
+  {
+    "cod_dpto": 25,
+    "cod_mpio": 25871,
+    "nombre": "VILLAGÓMEZ",
+    "bbox": [
+      -74.1951454569,
+      5.27302375544
+    ]
+  },
+  {
+    "cod_dpto": 25,
+    "cod_mpio": 25873,
+    "nombre": "VILLAPINZÓN",
+    "bbox": [
+      -73.5953546674,
+      5.21643837183
+    ]
+  },
+  {
+    "cod_dpto": 25,
+    "cod_mpio": 25875,
+    "nombre": "VILLETA",
+    "bbox": [
+      -74.469704945,
+      5.01279063928
+    ]
+  },
+  {
+    "cod_dpto": 25,
+    "cod_mpio": 25878,
+    "nombre": "VIOTÁ",
+    "bbox": [
+      -74.5231603183,
+      4.43935581422
+    ]
+  },
+  {
+    "cod_dpto": 25,
+    "cod_mpio": 25885,
+    "nombre": "YACOPÍ",
+    "bbox": [
+      -74.3380243467,
+      5.45929034118
+    ]
+  },
+  {
+    "cod_dpto": 25,
+    "cod_mpio": 25898,
+    "nombre": "ZIPACÓN",
+    "bbox": [
+      -74.3795914182,
+      4.75992488622
+    ]
+  },
+  {
+    "cod_dpto": 25,
+    "cod_mpio": 25899,
+    "nombre": "ZIPAQUIRÁ",
+    "bbox": [
+      -73.9944712419,
+      5.02547168537
+    ]
+  },
+  {
+    "cod_dpto": 27,
+    "cod_mpio": 27001,
+    "nombre": "QUIBDÓ",
+    "bbox": [
+      -76.6259693555,
+      5.69219518726
+    ]
+  },
+  {
+    "cod_dpto": 27,
+    "cod_mpio": 27006,
+    "nombre": "ACANDÍ",
+    "bbox": [
+      -77.28009788,
+      8.51140595152
+    ]
+  },
+  {
+    "cod_dpto": 27,
+    "cod_mpio": 27025,
+    "nombre": "ALTO BAUDÓ",
+    "bbox": [
+      -76.974399188,
+      5.51630986891
+    ]
+  },
+  {
+    "cod_dpto": 27,
+    "cod_mpio": 27050,
+    "nombre": "ATRATO",
+    "bbox": [
+      -76.635037458,
+      5.53137351138
+    ]
+  },
+  {
+    "cod_dpto": 27,
+    "cod_mpio": 27073,
+    "nombre": "BAGADÓ",
+    "bbox": [
+      -76.4152929877,
+      5.41055495984
+    ]
+  },
+  {
+    "cod_dpto": 27,
+    "cod_mpio": 27075,
+    "nombre": "BAHÍA SOLANO",
+    "bbox": [
+      -77.4027503497,
+      6.22224546046
+    ]
+  },
+  {
+    "cod_dpto": 27,
+    "cod_mpio": 27077,
+    "nombre": "BAJO BAUDÓ",
+    "bbox": [
+      -77.3654099858,
+      4.95462667208
+    ]
+  },
+  {
+    "cod_dpto": 27,
+    "cod_mpio": 27099,
+    "nombre": "BOJAYÁ",
+    "bbox": [
+      -76.8834694949,
+      6.55625744373
+    ]
+  },
+  {
+    "cod_dpto": 27,
+    "cod_mpio": 27135,
+    "nombre": "EL CANTÓN DEL SAN PABLO",
+    "bbox": [
+      -76.7268500506,
+      5.33533532037
+    ]
+  },
+  {
+    "cod_dpto": 27,
+    "cod_mpio": 27150,
+    "nombre": "CARMEN DEL DARIÉN",
+    "bbox": [
+      -76.9707169669,
+      7.15840296592
+    ]
+  },
+  {
+    "cod_dpto": 27,
+    "cod_mpio": 27160,
+    "nombre": "CÉRTEGUI",
+    "bbox": [
+      -76.6080212077,
+      5.37041379046
+    ]
+  },
+  {
+    "cod_dpto": 27,
+    "cod_mpio": 27205,
+    "nombre": "CONDOTO",
+    "bbox": [
+      -76.650682657,
+      5.09100320813
+    ]
+  },
+  {
+    "cod_dpto": 27,
+    "cod_mpio": 27245,
+    "nombre": "EL CARMEN DE ATRATO",
+    "bbox": [
+      -76.1422298644,
+      5.89975136084
+    ]
+  },
+  {
+    "cod_dpto": 27,
+    "cod_mpio": 27250,
+    "nombre": "EL LITORAL DEL SAN JUAN",
+    "bbox": [
+      -77.3598378367,
+      4.25676670562
+    ]
+  },
+  {
+    "cod_dpto": 27,
+    "cod_mpio": 27361,
+    "nombre": "ISTMINA",
+    "bbox": [
+      -76.6851803224,
+      5.15394649553
+    ]
+  },
+  {
+    "cod_dpto": 27,
+    "cod_mpio": 27372,
+    "nombre": "JURADÓ",
+    "bbox": [
+      -77.7627509172,
+      7.10361908265
+    ]
+  },
+  {
+    "cod_dpto": 27,
+    "cod_mpio": 27413,
+    "nombre": "LLORÓ",
+    "bbox": [
+      -76.5452106324,
+      5.49815080132
+    ]
+  },
+  {
+    "cod_dpto": 27,
+    "cod_mpio": 27425,
+    "nombre": "MEDIO ATRATO",
+    "bbox": [
+      -76.7824142234,
+      5.99483547118
+    ]
+  },
+  {
+    "cod_dpto": 27,
+    "cod_mpio": 27430,
+    "nombre": "MEDIO BAUDÓ",
+    "bbox": [
+      -76.9496060384,
+      5.19356395371
+    ]
+  },
+  {
+    "cod_dpto": 27,
+    "cod_mpio": 27450,
+    "nombre": "MEDIO SAN JUAN",
+    "bbox": [
+      -76.6933579369,
+      5.10024074741
+    ]
+  },
+  {
+    "cod_dpto": 27,
+    "cod_mpio": 27491,
+    "nombre": "NÓVITA",
+    "bbox": [
+      -76.6071181355,
+      4.95609700877
+    ]
+  },
+  {
+    "cod_dpto": 27,
+    "cod_mpio": 27495,
+    "nombre": "NUQUÍ",
+    "bbox": [
+      -77.2629034621,
+      5.71195723614
+    ]
+  },
+  {
+    "cod_dpto": 27,
+    "cod_mpio": 27580,
+    "nombre": "RÍO IRÓ",
+    "bbox": [
+      -76.4729247918,
+      5.1862997941
+    ]
+  },
+  {
+    "cod_dpto": 27,
+    "cod_mpio": 27600,
+    "nombre": "RÍO QUITO",
+    "bbox": [
+      -76.7410165609,
+      5.48372775133
+    ]
+  },
+  {
+    "cod_dpto": 27,
+    "cod_mpio": 27615,
+    "nombre": "RIOSUCIO",
+    "bbox": [
+      -77.1131095942,
+      7.4366315522
+    ]
+  },
+  {
+    "cod_dpto": 27,
+    "cod_mpio": 27660,
+    "nombre": "SAN JOSÉ DEL PALMAR",
+    "bbox": [
+      -76.2328488246,
+      4.89759307986
+    ]
+  },
+  {
+    "cod_dpto": 27,
+    "cod_mpio": 27745,
+    "nombre": "SIPÍ",
+    "bbox": [
+      -76.644403889,
+      4.65120415155
+    ]
+  },
+  {
+    "cod_dpto": 27,
+    "cod_mpio": 27787,
+    "nombre": "TADÓ",
+    "bbox": [
+      -76.5587660173,
+      5.2641399492
+    ]
+  },
+  {
+    "cod_dpto": 27,
+    "cod_mpio": 27800,
+    "nombre": "UNGUÍA",
+    "bbox": [
+      -77.0917530276,
+      8.04276078238
+    ]
+  },
+  {
+    "cod_dpto": 27,
+    "cod_mpio": 27810,
+    "nombre": "UNIÓN PANAMERICANA",
+    "bbox": [
+      -76.6284060686,
+      5.28109585159
+    ]
+  },
+  {
+    "cod_dpto": 41,
+    "cod_mpio": 41001,
+    "nombre": "NEIVA",
+    "bbox": [
+      -75.2777225856,
+      2.93560441491
+    ]
+  },
+  {
+    "cod_dpto": 41,
+    "cod_mpio": 41006,
+    "nombre": "ACEVEDO",
+    "bbox": [
+      -75.8885315631,
+      1.80526322752
+    ]
+  },
+  {
+    "cod_dpto": 41,
+    "cod_mpio": 41013,
+    "nombre": "AGRADO",
+    "bbox": [
+      -75.771903578,
+      2.2597293939
+    ]
+  },
+  {
+    "cod_dpto": 41,
+    "cod_mpio": 41016,
+    "nombre": "AIPE",
+    "bbox": [
+      -75.2390311845,
+      3.22359756208
+    ]
+  },
+  {
+    "cod_dpto": 41,
+    "cod_mpio": 41020,
+    "nombre": "ALGECIRAS",
+    "bbox": [
+      -75.3153728821,
+      2.52244759678
+    ]
+  },
+  {
+    "cod_dpto": 41,
+    "cod_mpio": 41026,
+    "nombre": "ALTAMIRA",
+    "bbox": [
+      -75.7883629026,
+      2.06371088635
+    ]
+  },
+  {
+    "cod_dpto": 41,
+    "cod_mpio": 41078,
+    "nombre": "BARAYA",
+    "bbox": [
+      -75.0542702546,
+      3.15319854148
+    ]
+  },
+  {
+    "cod_dpto": 41,
+    "cod_mpio": 41132,
+    "nombre": "CAMPOALEGRE",
+    "bbox": [
+      -75.3257354624,
+      2.68682740076
+    ]
+  },
+  {
+    "cod_dpto": 41,
+    "cod_mpio": 41206,
+    "nombre": "COLOMBIA",
+    "bbox": [
+      -74.8028131807,
+      3.37697712859
+    ]
+  },
+  {
+    "cod_dpto": 41,
+    "cod_mpio": 41244,
+    "nombre": "ELÍAS",
+    "bbox": [
+      -75.9380108384,
+      2.0126970942
+    ]
+  },
+  {
+    "cod_dpto": 41,
+    "cod_mpio": 41298,
+    "nombre": "GARZÓN",
+    "bbox": [
+      -75.6276937365,
+      2.19699442096
+    ]
+  },
+  {
+    "cod_dpto": 41,
+    "cod_mpio": 41306,
+    "nombre": "GIGANTE",
+    "bbox": [
+      -75.5412198856,
+      2.38823562547
+    ]
+  },
+  {
+    "cod_dpto": 41,
+    "cod_mpio": 41319,
+    "nombre": "GUADALUPE",
+    "bbox": [
+      -75.7550282522,
+      2.02515732255
+    ]
+  },
+  {
+    "cod_dpto": 41,
+    "cod_mpio": 41349,
+    "nombre": "HOBO",
+    "bbox": [
+      -75.4511509705,
+      2.58286797558
+    ]
+  },
+  {
+    "cod_dpto": 41,
+    "cod_mpio": 41357,
+    "nombre": "ÍQUIRA",
+    "bbox": [
+      -75.6344974837,
+      2.64935907046
+    ]
+  },
+  {
+    "cod_dpto": 41,
+    "cod_mpio": 41359,
+    "nombre": "ISNOS",
+    "bbox": [
+      -76.2176374469,
+      1.92946706016
+    ]
+  },
+  {
+    "cod_dpto": 41,
+    "cod_mpio": 41378,
+    "nombre": "LA ARGENTINA",
+    "bbox": [
+      -75.9797684232,
+      2.19824625206
+    ]
+  },
+  {
+    "cod_dpto": 41,
+    "cod_mpio": 41396,
+    "nombre": "LA PLATA",
+    "bbox": [
+      -75.8914513146,
+      2.38964669414
+    ]
+  },
+  {
+    "cod_dpto": 41,
+    "cod_mpio": 41483,
+    "nombre": "NÁTAGA",
+    "bbox": [
+      -75.808785321,
+      2.54535290122
+    ]
+  },
+  {
+    "cod_dpto": 41,
+    "cod_mpio": 41503,
+    "nombre": "OPORAPA",
+    "bbox": [
+      -75.9951778073,
+      2.02505400214
+    ]
+  },
+  {
+    "cod_dpto": 41,
+    "cod_mpio": 41518,
+    "nombre": "PAICOL",
+    "bbox": [
+      -75.7729923197,
+      2.44954894922
+    ]
+  },
+  {
+    "cod_dpto": 41,
+    "cod_mpio": 41524,
+    "nombre": "PALERMO",
+    "bbox": [
+      -75.4337191172,
+      2.88840623576
+    ]
+  },
+  {
+    "cod_dpto": 41,
+    "cod_mpio": 41530,
+    "nombre": "PALESTINA",
+    "bbox": [
+      -76.1331223473,
+      1.7234441812
+    ]
+  },
+  {
+    "cod_dpto": 41,
+    "cod_mpio": 41548,
+    "nombre": "PITAL",
+    "bbox": [
+      -75.8040049225,
+      2.26667937625
+    ]
+  },
+  {
+    "cod_dpto": 41,
+    "cod_mpio": 41551,
+    "nombre": "PITALITO",
+    "bbox": [
+      -76.0487449016,
+      1.85257835541
+    ]
+  },
+  {
+    "cod_dpto": 41,
+    "cod_mpio": 41615,
+    "nombre": "RIVERA",
+    "bbox": [
+      -75.258546723,
+      2.77757051597
+    ]
+  },
+  {
+    "cod_dpto": 41,
+    "cod_mpio": 41660,
+    "nombre": "SALADOBLANCO",
+    "bbox": [
+      -76.0441412612,
+      1.99249488113
+    ]
+  },
+  {
+    "cod_dpto": 41,
+    "cod_mpio": 41668,
+    "nombre": "SAN AGUSTÍN",
+    "bbox": [
+      -76.2703596812,
+      1.88108129836
+    ]
+  },
+  {
+    "cod_dpto": 41,
+    "cod_mpio": 41676,
+    "nombre": "SANTA MARÍA",
+    "bbox": [
+      -75.5861159397,
+      2.93975522323
+    ]
+  },
+  {
+    "cod_dpto": 41,
+    "cod_mpio": 41770,
+    "nombre": "SUAZA",
+    "bbox": [
+      -75.7950558039,
+      1.97584609003
+    ]
+  },
+  {
+    "cod_dpto": 41,
+    "cod_mpio": 41791,
+    "nombre": "TARQUI",
+    "bbox": [
+      -75.8235750758,
+      2.11132110249
+    ]
+  },
+  {
+    "cod_dpto": 41,
+    "cod_mpio": 41797,
+    "nombre": "TESALIA",
+    "bbox": [
+      -75.7298401662,
+      2.48605026371
+    ]
+  },
+  {
+    "cod_dpto": 41,
+    "cod_mpio": 41799,
+    "nombre": "TELLO",
+    "bbox": [
+      -75.1387730361,
+      3.06753809501
+    ]
+  },
+  {
+    "cod_dpto": 41,
+    "cod_mpio": 41801,
+    "nombre": "TERUEL",
+    "bbox": [
+      -75.5670342459,
+      2.74096841626
+    ]
+  },
+  {
+    "cod_dpto": 41,
+    "cod_mpio": 41807,
+    "nombre": "TIMANÁ",
+    "bbox": [
+      -75.932086996,
+      1.9742244433
+    ]
+  },
+  {
+    "cod_dpto": 41,
+    "cod_mpio": 41872,
+    "nombre": "VILLAVIEJA",
+    "bbox": [
+      -75.2172443445,
+      3.22076758985
+    ]
+  },
+  {
+    "cod_dpto": 41,
+    "cod_mpio": 41885,
+    "nombre": "YAGUARÁ",
+    "bbox": [
+      -75.5180232943,
+      2.66469421287
+    ]
+  },
+  {
+    "cod_dpto": 44,
+    "cod_mpio": 44001,
+    "nombre": "RIOHACHA",
+    "bbox": [
+      -72.911488911,
+      11.5287513839
+    ]
+  },
+  {
+    "cod_dpto": 44,
+    "cod_mpio": 44035,
+    "nombre": "ALBANIA",
+    "bbox": [
+      -72.5985216275,
+      11.1574886487
+    ]
+  },
+  {
+    "cod_dpto": 44,
+    "cod_mpio": 44078,
+    "nombre": "BARRANCAS",
+    "bbox": [
+      -72.7935756661,
+      10.9586667142
+    ]
+  },
+  {
+    "cod_dpto": 44,
+    "cod_mpio": 44090,
+    "nombre": "DIBULLA",
+    "bbox": [
+      -73.3076197893,
+      11.2715694012
+    ]
+  },
+  {
+    "cod_dpto": 44,
+    "cod_mpio": 44098,
+    "nombre": "DISTRACCIÓN",
+    "bbox": [
+      -72.8873926829,
+      10.8984725868
+    ]
+  },
+  {
+    "cod_dpto": 44,
+    "cod_mpio": 44110,
+    "nombre": "EL MOLINO",
+    "bbox": [
+      -72.9267433428,
+      10.6535025126
+    ]
+  },
+  {
+    "cod_dpto": 44,
+    "cod_mpio": 44279,
+    "nombre": "FONSECA",
+    "bbox": [
+      -72.84666224,
+      10.884300668
+    ]
+  },
+  {
+    "cod_dpto": 44,
+    "cod_mpio": 44378,
+    "nombre": "HATONUEVO",
+    "bbox": [
+      -72.7590165832,
+      11.068743033
+    ]
+  },
+  {
+    "cod_dpto": 44,
+    "cod_mpio": 44420,
+    "nombre": "LA JAGUA DEL PILAR",
+    "bbox": [
+      -73.07167902,
+      10.5102140463
+    ]
+  },
+  {
+    "cod_dpto": 44,
+    "cod_mpio": 44430,
+    "nombre": "MAICAO",
+    "bbox": [
+      -72.24190502,
+      11.3783267846
+    ]
+  },
+  {
+    "cod_dpto": 44,
+    "cod_mpio": 44560,
+    "nombre": "MANAURE",
+    "bbox": [
+      -72.4396673679,
+      11.7740565859
+    ]
+  },
+  {
+    "cod_dpto": 44,
+    "cod_mpio": 44650,
+    "nombre": "SAN JUAN DEL CESAR",
+    "bbox": [
+      -73.0005932132,
+      10.7695786836
+    ]
+  },
+  {
+    "cod_dpto": 44,
+    "cod_mpio": 44847,
+    "nombre": "URIBIA",
+    "bbox": [
+      -72.2647606333,
+      11.7146458229
+    ]
+  },
+  {
+    "cod_dpto": 44,
+    "cod_mpio": 44855,
+    "nombre": "URUMITA",
+    "bbox": [
+      -73.0125067869,
+      10.5601686422
+    ]
+  },
+  {
+    "cod_dpto": 44,
+    "cod_mpio": 44874,
+    "nombre": "VILLANUEVA",
+    "bbox": [
+      -72.9776227799,
+      10.6088116901
+    ]
+  },
+  {
+    "cod_dpto": 47,
+    "cod_mpio": 47001,
+    "nombre": "SANTA MARTA",
+    "bbox": [
+      -74.1908941206,
+      11.2294335041
+    ]
+  },
+  {
+    "cod_dpto": 47,
+    "cod_mpio": 47030,
+    "nombre": "ALGARROBO",
+    "bbox": [
+      -74.0611324498,
+      10.1880388607
+    ]
+  },
+  {
+    "cod_dpto": 47,
+    "cod_mpio": 47053,
+    "nombre": "ARACATACA",
+    "bbox": [
+      -74.1867628365,
+      10.589800014
+    ]
+  },
+  {
+    "cod_dpto": 47,
+    "cod_mpio": 47058,
+    "nombre": "ARIGUANÍ",
+    "bbox": [
+      -74.2364988872,
+      9.84705707582
+    ]
+  },
+  {
+    "cod_dpto": 47,
+    "cod_mpio": 47161,
+    "nombre": "CERRO DE SAN ANTONIO",
+    "bbox": [
+      -74.8684730007,
+      10.3256594262
+    ]
+  },
+  {
+    "cod_dpto": 47,
+    "cod_mpio": 47170,
+    "nombre": "CHIVOLO",
+    "bbox": [
+      -74.623137943,
+      10.0268411585
+    ]
+  },
+  {
+    "cod_dpto": 47,
+    "cod_mpio": 47189,
+    "nombre": "CIÉNAGA",
+    "bbox": [
+      -74.2412861592,
+      11.0066568813
+    ]
+  },
+  {
+    "cod_dpto": 47,
+    "cod_mpio": 47205,
+    "nombre": "CONCORDIA",
+    "bbox": [
+      -74.8330298987,
+      10.2573106144
+    ]
+  },
+  {
+    "cod_dpto": 47,
+    "cod_mpio": 47245,
+    "nombre": "EL BANCO",
+    "bbox": [
+      -73.9742812074,
+      9.00873300892
+    ]
+  },
+  {
+    "cod_dpto": 47,
+    "cod_mpio": 47258,
+    "nombre": "EL PIÑÓN",
+    "bbox": [
+      -74.8232910908,
+      10.403094542
+    ]
+  },
+  {
+    "cod_dpto": 47,
+    "cod_mpio": 47268,
+    "nombre": "EL RETÉN",
+    "bbox": [
+      -74.2684560983,
+      10.6106676606
+    ]
+  },
+  {
+    "cod_dpto": 47,
+    "cod_mpio": 47288,
+    "nombre": "FUNDACIÓN",
+    "bbox": [
+      -74.1913434578,
+      10.5140924032
+    ]
+  },
+  {
+    "cod_dpto": 47,
+    "cod_mpio": 47318,
+    "nombre": "GUAMAL",
+    "bbox": [
+      -74.2236992781,
+      9.14438583174
+    ]
+  },
+  {
+    "cod_dpto": 47,
+    "cod_mpio": 47460,
+    "nombre": "NUEVA GRANADA",
+    "bbox": [
+      -74.3922356416,
+      9.80154797096
+    ]
+  },
+  {
+    "cod_dpto": 47,
+    "cod_mpio": 47541,
+    "nombre": "PEDRAZA",
+    "bbox": [
+      -74.9154577312,
+      10.1882057785
+    ]
+  },
+  {
+    "cod_dpto": 47,
+    "cod_mpio": 47545,
+    "nombre": "PIJIÑO DEL CARMEN",
+    "bbox": [
+      -74.4582182382,
+      9.33195311235
+    ]
+  },
+  {
+    "cod_dpto": 47,
+    "cod_mpio": 47551,
+    "nombre": "PIVIJAY",
+    "bbox": [
+      -74.6135179463,
+      10.4606932421
+    ]
+  },
+  {
+    "cod_dpto": 47,
+    "cod_mpio": 47555,
+    "nombre": "PLATO",
+    "bbox": [
+      -74.7846828554,
+      9.79676986843
+    ]
+  },
+  {
+    "cod_dpto": 47,
+    "cod_mpio": 47570,
+    "nombre": "PUEBLOVIEJO",
+    "bbox": [
+      -74.2824842344,
+      10.9948296498
+    ]
+  },
+  {
+    "cod_dpto": 47,
+    "cod_mpio": 47605,
+    "nombre": "REMOLINO",
+    "bbox": [
+      -74.7161404672,
+      10.7021700527
+    ]
+  },
+  {
+    "cod_dpto": 47,
+    "cod_mpio": 47660,
+    "nombre": "SABANAS DE SAN ÁNGEL",
+    "bbox": [
+      -74.2139388964,
+      10.0325360146
+    ]
+  },
+  {
+    "cod_dpto": 47,
+    "cod_mpio": 47675,
+    "nombre": "SALAMINA",
+    "bbox": [
+      -74.7941889188,
+      10.4912290396
+    ]
+  },
+  {
+    "cod_dpto": 47,
+    "cod_mpio": 47692,
+    "nombre": "SAN SEBASTIÁN DE BUENAVISTA",
+    "bbox": [
+      -74.3516751417,
+      9.24050524972
+    ]
+  },
+  {
+    "cod_dpto": 47,
+    "cod_mpio": 47703,
+    "nombre": "SAN ZENÓN",
+    "bbox": [
+      -74.4989915024,
+      9.24506060276
+    ]
+  },
+  {
+    "cod_dpto": 47,
+    "cod_mpio": 47707,
+    "nombre": "SANTA ANA",
+    "bbox": [
+      -74.5676576229,
+      9.32183785903
+    ]
+  },
+  {
+    "cod_dpto": 47,
+    "cod_mpio": 47720,
+    "nombre": "SANTA BÁRBARA DE PINTO",
+    "bbox": [
+      -74.704685823,
+      9.43225713696
+    ]
+  },
+  {
+    "cod_dpto": 47,
+    "cod_mpio": 47745,
+    "nombre": "SITIONUEVO",
+    "bbox": [
+      -74.7201692105,
+      10.7754096368
+    ]
+  },
+  {
+    "cod_dpto": 47,
+    "cod_mpio": 47798,
+    "nombre": "TENERIFE",
+    "bbox": [
+      -74.8607751961,
+      9.89778714086
+    ]
+  },
+  {
+    "cod_dpto": 47,
+    "cod_mpio": 47960,
+    "nombre": "ZAPAYÁN",
+    "bbox": [
+      -74.716877967,
+      10.1682967093
+    ]
+  },
+  {
+    "cod_dpto": 47,
+    "cod_mpio": 47980,
+    "nombre": "ZONA BANANERA",
+    "bbox": [
+      -74.140081844,
+      10.7630268185
+    ]
+  },
+  {
+    "cod_dpto": 50,
+    "cod_mpio": 50001,
+    "nombre": "VILLAVICENCIO",
+    "bbox": [
+      -73.6270920374,
+      4.12386149961
+    ]
+  },
+  {
+    "cod_dpto": 50,
+    "cod_mpio": 50006,
+    "nombre": "ACACÍAS",
+    "bbox": [
+      -73.765936654,
+      3.99012066334
+    ]
+  },
+  {
+    "cod_dpto": 50,
+    "cod_mpio": 50110,
+    "nombre": "BARRANCA DE UPÍA",
+    "bbox": [
+      -72.9643338065,
+      4.57062297077
+    ]
+  },
+  {
+    "cod_dpto": 50,
+    "cod_mpio": 50124,
+    "nombre": "CABUYARO",
+    "bbox": [
+      -72.7919787759,
+      4.28592384781
+    ]
+  },
+  {
+    "cod_dpto": 50,
+    "cod_mpio": 50150,
+    "nombre": "CASTILLA LA NUEVA",
+    "bbox": [
+      -73.688129602,
+      3.82804035208
+    ]
+  },
+  {
+    "cod_dpto": 50,
+    "cod_mpio": 50223,
+    "nombre": "CUBARRAL",
+    "bbox": [
+      -73.8392134871,
+      3.79408946456
+    ]
+  },
+  {
+    "cod_dpto": 50,
+    "cod_mpio": 50226,
+    "nombre": "CUMARAL",
+    "bbox": [
+      -73.4861087817,
+      4.26953776576
+    ]
+  },
+  {
+    "cod_dpto": 50,
+    "cod_mpio": 50245,
+    "nombre": "EL CALVARIO",
+    "bbox": [
+      -73.7133287874,
+      4.35262205297
+    ]
+  },
+  {
+    "cod_dpto": 50,
+    "cod_mpio": 50251,
+    "nombre": "EL CASTILLO",
+    "bbox": [
+      -73.7940127553,
+      3.56383401942
+    ]
+  },
+  {
+    "cod_dpto": 50,
+    "cod_mpio": 50270,
+    "nombre": "EL DORADO",
+    "bbox": [
+      -73.8350120047,
+      3.74000407753
+    ]
+  },
+  {
+    "cod_dpto": 50,
+    "cod_mpio": 50287,
+    "nombre": "FUENTEDEORO",
+    "bbox": [
+      -73.6179816101,
+      3.46286803084
+    ]
+  },
+  {
+    "cod_dpto": 50,
+    "cod_mpio": 50313,
+    "nombre": "GRANADA",
+    "bbox": [
+      -73.7057153275,
+      3.54669472368
+    ]
+  },
+  {
+    "cod_dpto": 50,
+    "cod_mpio": 50318,
+    "nombre": "GUAMAL",
+    "bbox": [
+      -73.7703386303,
+      3.88063859949
+    ]
+  },
+  {
+    "cod_dpto": 50,
+    "cod_mpio": 50325,
+    "nombre": "MAPIRIPÁN",
+    "bbox": [
+      -72.1356448727,
+      2.89643913676
+    ]
+  },
+  {
+    "cod_dpto": 50,
+    "cod_mpio": 50330,
+    "nombre": "MESETAS",
+    "bbox": [
+      -74.0436808546,
+      3.38392476102
+    ]
+  },
+  {
+    "cod_dpto": 50,
+    "cod_mpio": 50350,
+    "nombre": "LA MACARENA",
+    "bbox": [
+      -73.7870688164,
+      2.17821426987
+    ]
+  },
+  {
+    "cod_dpto": 50,
+    "cod_mpio": 50370,
+    "nombre": "URIBE",
+    "bbox": [
+      -74.3515453533,
+      3.23965299669
+    ]
+  },
+  {
+    "cod_dpto": 50,
+    "cod_mpio": 50400,
+    "nombre": "LEJANÍAS",
+    "bbox": [
+      -74.0240219993,
+      3.52591984483
+    ]
+  },
+  {
+    "cod_dpto": 50,
+    "cod_mpio": 50450,
+    "nombre": "PUERTO CONCORDIA",
+    "bbox": [
+      -72.7600475939,
+      2.62308215282
+    ]
+  },
+  {
+    "cod_dpto": 50,
+    "cod_mpio": 50568,
+    "nombre": "PUERTO GAITÁN",
+    "bbox": [
+      -72.0830789361,
+      4.31448745543
+    ]
+  },
+  {
+    "cod_dpto": 50,
+    "cod_mpio": 50573,
+    "nombre": "PUERTO LÓPEZ",
+    "bbox": [
+      -72.9574362618,
+      4.09340642527
+    ]
+  },
+  {
+    "cod_dpto": 50,
+    "cod_mpio": 50577,
+    "nombre": "PUERTO LLERAS",
+    "bbox": [
+      -73.3737434266,
+      3.2697324386
+    ]
+  },
+  {
+    "cod_dpto": 50,
+    "cod_mpio": 50590,
+    "nombre": "PUERTO RICO",
+    "bbox": [
+      -73.2065133275,
+      2.93974367593
+    ]
+  },
+  {
+    "cod_dpto": 50,
+    "cod_mpio": 50606,
+    "nombre": "RESTREPO",
+    "bbox": [
+      -73.5646041828,
+      4.26073199369
+    ]
+  },
+  {
+    "cod_dpto": 50,
+    "cod_mpio": 50680,
+    "nombre": "SAN CARLOS DE GUAROA",
+    "bbox": [
+      -73.2414091237,
+      3.71053663955
+    ]
+  },
+  {
+    "cod_dpto": 50,
+    "cod_mpio": 50683,
+    "nombre": "SAN JUAN DE ARAMA",
+    "bbox": [
+      -73.875831539,
+      3.37372787444
+    ]
+  },
+  {
+    "cod_dpto": 50,
+    "cod_mpio": 50686,
+    "nombre": "SAN JUANITO",
+    "bbox": [
+      -73.6766990281,
+      4.4581800051
+    ]
+  },
+  {
+    "cod_dpto": 50,
+    "cod_mpio": 50689,
+    "nombre": "SAN MARTÍN",
+    "bbox": [
+      -73.6956178151,
+      3.70187987616
+    ]
+  },
+  {
+    "cod_dpto": 50,
+    "cod_mpio": 50711,
+    "nombre": "VISTAHERMOSA",
+    "bbox": [
+      -73.7511667597,
+      3.12575209958
+    ]
+  },
+  {
+    "cod_dpto": 52,
+    "cod_mpio": 52001,
+    "nombre": "PASTO",
+    "bbox": [
+      -77.2785763476,
+      1.21212436525
+    ]
+  },
+  {
+    "cod_dpto": 52,
+    "cod_mpio": 52019,
+    "nombre": "ALBÁN",
+    "bbox": [
+      -77.0807123296,
+      1.47497801502
+    ]
+  },
+  {
+    "cod_dpto": 52,
+    "cod_mpio": 52022,
+    "nombre": "ALDANA",
+    "bbox": [
+      -77.7003565562,
+      0.882181194607
+    ]
+  },
+  {
+    "cod_dpto": 52,
+    "cod_mpio": 52036,
+    "nombre": "ANCUYA",
+    "bbox": [
+      -77.5145132877,
+      1.26329997691
+    ]
+  },
+  {
+    "cod_dpto": 52,
+    "cod_mpio": 52051,
+    "nombre": "ARBOLEDA",
+    "bbox": [
+      -77.1353988936,
+      1.50353656396
+    ]
+  },
+  {
+    "cod_dpto": 52,
+    "cod_mpio": 52079,
+    "nombre": "BARBACOAS",
+    "bbox": [
+      -78.1398949317,
+      1.67034519398
+    ]
+  },
+  {
+    "cod_dpto": 52,
+    "cod_mpio": 52083,
+    "nombre": "BELÉN",
+    "bbox": [
+      -77.0156657294,
+      1.5956760655
+    ]
+  },
+  {
+    "cod_dpto": 52,
+    "cod_mpio": 52110,
+    "nombre": "BUESACO",
+    "bbox": [
+      -77.1564797524,
+      1.38143441547
+    ]
+  },
+  {
+    "cod_dpto": 52,
+    "cod_mpio": 52203,
+    "nombre": "COLÓN",
+    "bbox": [
+      -77.0197770431,
+      1.64387430246
+    ]
+  },
+  {
+    "cod_dpto": 52,
+    "cod_mpio": 52207,
+    "nombre": "CONSACÁ",
+    "bbox": [
+      -77.4651021135,
+      1.20762305606
+    ]
+  },
+  {
+    "cod_dpto": 52,
+    "cod_mpio": 52210,
+    "nombre": "CONTADERO",
+    "bbox": [
+      -77.5494090245,
+      0.91045786274
+    ]
+  },
+  {
+    "cod_dpto": 52,
+    "cod_mpio": 52215,
+    "nombre": "CÓRDOBA",
+    "bbox": [
+      -77.5178965606,
+      0.854564417514
+    ]
+  },
+  {
+    "cod_dpto": 52,
+    "cod_mpio": 52224,
+    "nombre": "CUASPUD CARLOSAMA",
+    "bbox": [
+      -77.728946826,
+      0.862978103157
+    ]
+  },
+  {
+    "cod_dpto": 52,
+    "cod_mpio": 52227,
+    "nombre": "CUMBAL",
+    "bbox": [
+      -77.7922766205,
+      0.906185360866
+    ]
+  },
+  {
+    "cod_dpto": 52,
+    "cod_mpio": 52233,
+    "nombre": "CUMBITARA",
+    "bbox": [
+      -77.5781467265,
+      1.64684597096
+    ]
+  },
+  {
+    "cod_dpto": 52,
+    "cod_mpio": 52240,
+    "nombre": "CHACHAGÜÍ",
+    "bbox": [
+      -77.2817014441,
+      1.36032801952
+    ]
+  },
+  {
+    "cod_dpto": 52,
+    "cod_mpio": 52250,
+    "nombre": "EL CHARCO",
+    "bbox": [
+      -78.1098489985,
+      2.47755059299
+    ]
+  },
+  {
+    "cod_dpto": 52,
+    "cod_mpio": 52254,
+    "nombre": "EL PEÑOL",
+    "bbox": [
+      -77.4378593689,
+      1.45289260091
+    ]
+  },
+  {
+    "cod_dpto": 52,
+    "cod_mpio": 52256,
+    "nombre": "EL ROSARIO",
+    "bbox": [
+      -77.3345655563,
+      1.74247570539
+    ]
+  },
+  {
+    "cod_dpto": 52,
+    "cod_mpio": 52258,
+    "nombre": "EL TABLÓN DE GÓMEZ",
+    "bbox": [
+      -77.0967308309,
+      1.42705403082
+    ]
+  },
+  {
+    "cod_dpto": 52,
+    "cod_mpio": 52260,
+    "nombre": "EL TAMBO",
+    "bbox": [
+      -77.3902046633,
+      1.40764342171
+    ]
+  },
+  {
+    "cod_dpto": 52,
+    "cod_mpio": 52287,
+    "nombre": "FUNES",
+    "bbox": [
+      -77.4489785975,
+      1.00113518084
+    ]
+  },
+  {
+    "cod_dpto": 52,
+    "cod_mpio": 52317,
+    "nombre": "GUACHUCAL",
+    "bbox": [
+      -77.7315898616,
+      0.959743484374
+    ]
+  },
+  {
+    "cod_dpto": 52,
+    "cod_mpio": 52320,
+    "nombre": "GUAITARILLA",
+    "bbox": [
+      -77.5496888153,
+      1.12963250374
+    ]
+  },
+  {
+    "cod_dpto": 52,
+    "cod_mpio": 52323,
+    "nombre": "GUALMATÁN",
+    "bbox": [
+      -77.566815123,
+      0.919802909677
+    ]
+  },
+  {
+    "cod_dpto": 52,
+    "cod_mpio": 52352,
+    "nombre": "ILES",
+    "bbox": [
+      -77.5209759031,
+      0.969205286695
+    ]
+  },
+  {
+    "cod_dpto": 52,
+    "cod_mpio": 52354,
+    "nombre": "IMUÉS",
+    "bbox": [
+      -77.4961781598,
+      1.05513770884
+    ]
+  },
+  {
+    "cod_dpto": 52,
+    "cod_mpio": 52356,
+    "nombre": "IPIALES",
+    "bbox": [
+      -77.6464007453,
+      0.827734241442
+    ]
+  },
+  {
+    "cod_dpto": 52,
+    "cod_mpio": 52378,
+    "nombre": "LA CRUZ",
+    "bbox": [
+      -76.9705317398,
+      1.60133931406
+    ]
+  },
+  {
+    "cod_dpto": 52,
+    "cod_mpio": 52381,
+    "nombre": "LA FLORIDA",
+    "bbox": [
+      -77.4064308396,
+      1.29919223184
+    ]
+  },
+  {
+    "cod_dpto": 52,
+    "cod_mpio": 52385,
+    "nombre": "LA LLANADA",
+    "bbox": [
+      -77.5807116469,
+      1.4726361966
+    ]
+  },
+  {
+    "cod_dpto": 52,
+    "cod_mpio": 52390,
+    "nombre": "LA TOLA",
+    "bbox": [
+      -78.1903920526,
+      2.39821219074
+    ]
+  },
+  {
+    "cod_dpto": 52,
+    "cod_mpio": 52399,
+    "nombre": "LA UNIÓN",
+    "bbox": [
+      -77.1311543535,
+      1.60026861271
+    ]
+  },
+  {
+    "cod_dpto": 52,
+    "cod_mpio": 52405,
+    "nombre": "LEIVA",
+    "bbox": [
+      -77.306213783,
+      1.93451621385
+    ]
+  },
+  {
+    "cod_dpto": 52,
+    "cod_mpio": 52411,
+    "nombre": "LINARES",
+    "bbox": [
+      -77.5219399584,
+      1.35114507269
+    ]
+  },
+  {
+    "cod_dpto": 52,
+    "cod_mpio": 52418,
+    "nombre": "LOS ANDES",
+    "bbox": [
+      -77.521325957,
+      1.49454740484
+    ]
+  },
+  {
+    "cod_dpto": 52,
+    "cod_mpio": 52427,
+    "nombre": "MAGÜÍ",
+    "bbox": [
+      -78.1810607778,
+      1.76531367129
+    ]
+  },
+  {
+    "cod_dpto": 52,
+    "cod_mpio": 52435,
+    "nombre": "MALLAMA",
+    "bbox": [
+      -77.8644282911,
+      1.14083897014
+    ]
+  },
+  {
+    "cod_dpto": 52,
+    "cod_mpio": 52473,
+    "nombre": "MOSQUERA",
+    "bbox": [
+      -78.4529854062,
+      2.50711641409
+    ]
+  },
+  {
+    "cod_dpto": 52,
+    "cod_mpio": 52480,
+    "nombre": "NARIÑO",
+    "bbox": [
+      -77.3579721275,
+      1.28897899199
+    ]
+  },
+  {
+    "cod_dpto": 52,
+    "cod_mpio": 52490,
+    "nombre": "OLAYA HERRERA",
+    "bbox": [
+      -78.3256187091,
+      2.34758448833
+    ]
+  },
+  {
+    "cod_dpto": 52,
+    "cod_mpio": 52506,
+    "nombre": "OSPINA",
+    "bbox": [
+      -77.5660669806,
+      1.05849169084
+    ]
+  },
+  {
+    "cod_dpto": 52,
+    "cod_mpio": 52520,
+    "nombre": "FRANCISCO PIZARRO",
+    "bbox": [
+      -78.6581818738,
+      2.04080905599
+    ]
+  },
+  {
+    "cod_dpto": 52,
+    "cod_mpio": 52540,
+    "nombre": "POLICARPA",
+    "bbox": [
+      -77.4592653857,
+      1.62813871983
+    ]
+  },
+  {
+    "cod_dpto": 52,
+    "cod_mpio": 52560,
+    "nombre": "POTOSÍ",
+    "bbox": [
+      -77.5727917754,
+      0.806340416777
+    ]
+  },
+  {
+    "cod_dpto": 52,
+    "cod_mpio": 52565,
+    "nombre": "PROVIDENCIA",
+    "bbox": [
+      -77.5965921517,
+      1.23769150376
+    ]
+  },
+  {
+    "cod_dpto": 52,
+    "cod_mpio": 52573,
+    "nombre": "PUERRES",
+    "bbox": [
+      -77.5042106489,
+      0.885125174787
+    ]
+  },
+  {
+    "cod_dpto": 52,
+    "cod_mpio": 52585,
+    "nombre": "PUPIALES",
+    "bbox": [
+      -77.6335044303,
+      0.867139627792
+    ]
+  },
+  {
+    "cod_dpto": 52,
+    "cod_mpio": 52612,
+    "nombre": "RICAURTE",
+    "bbox": [
+      -77.9954448723,
+      1.21293145822
+    ]
+  },
+  {
+    "cod_dpto": 52,
+    "cod_mpio": 52621,
+    "nombre": "ROBERTO PAYÁN",
+    "bbox": [
+      -78.2456625248,
+      1.69774476771
+    ]
+  },
+  {
+    "cod_dpto": 52,
+    "cod_mpio": 52678,
+    "nombre": "SAMANIEGO",
+    "bbox": [
+      -77.5944571324,
+      1.33535187859
+    ]
+  },
+  {
+    "cod_dpto": 52,
+    "cod_mpio": 52683,
+    "nombre": "SANDONÁ",
+    "bbox": [
+      -77.4695675667,
+      1.28613693018
+    ]
+  },
+  {
+    "cod_dpto": 52,
+    "cod_mpio": 52685,
+    "nombre": "SAN BERNARDO",
+    "bbox": [
+      -77.0474027666,
+      1.51425366607
+    ]
+  },
+  {
+    "cod_dpto": 52,
+    "cod_mpio": 52687,
+    "nombre": "SAN LORENZO",
+    "bbox": [
+      -77.2152316532,
+      1.5033409866
+    ]
+  },
+  {
+    "cod_dpto": 52,
+    "cod_mpio": 52693,
+    "nombre": "SAN PABLO",
+    "bbox": [
+      -77.0139243865,
+      1.66942689444
+    ]
+  },
+  {
+    "cod_dpto": 52,
+    "cod_mpio": 52694,
+    "nombre": "SAN PEDRO DE CARTAGO",
+    "bbox": [
+      -77.1191974964,
+      1.55165884418
+    ]
+  },
+  {
+    "cod_dpto": 52,
+    "cod_mpio": 52696,
+    "nombre": "SANTA BÁRBARA",
+    "bbox": [
+      -77.9790827832,
+      2.44954819379
+    ]
+  },
+  {
+    "cod_dpto": 52,
+    "cod_mpio": 52699,
+    "nombre": "SANTACRUZ",
+    "bbox": [
+      -77.6770222383,
+      1.22198591892
+    ]
+  },
+  {
+    "cod_dpto": 52,
+    "cod_mpio": 52720,
+    "nombre": "SAPUYES",
+    "bbox": [
+      -77.6203002674,
+      1.03752785633
+    ]
+  },
+  {
+    "cod_dpto": 52,
+    "cod_mpio": 52786,
+    "nombre": "TAMINANGO",
+    "bbox": [
+      -77.280221597,
+      1.57004776679
+    ]
+  },
+  {
+    "cod_dpto": 52,
+    "cod_mpio": 52788,
+    "nombre": "TANGUA",
+    "bbox": [
+      -77.3926941837,
+      1.09488051452
+    ]
+  },
+  {
+    "cod_dpto": 52,
+    "cod_mpio": 52835,
+    "nombre": "SAN ANDRÉS DE TUMACO",
+    "bbox": [
+      -78.7638541478,
+      1.80711725006
+    ]
+  },
+  {
+    "cod_dpto": 52,
+    "cod_mpio": 52838,
+    "nombre": "TÚQUERRES",
+    "bbox": [
+      -77.6168863825,
+      1.08519335919
+    ]
+  },
+  {
+    "cod_dpto": 52,
+    "cod_mpio": 52885,
+    "nombre": "YACUANQUER",
+    "bbox": [
+      -77.4028238217,
+      1.11455624108
+    ]
+  },
+  {
+    "cod_dpto": 54,
+    "cod_mpio": 54001,
+    "nombre": "CÚCUTA",
+    "bbox": [
+      -72.5082561962,
+      7.90530629465
+    ]
+  },
+  {
+    "cod_dpto": 54,
+    "cod_mpio": 54003,
+    "nombre": "ÁBREGO",
+    "bbox": [
+      -73.2217343999,
+      8.08178414123
+    ]
+  },
+  {
+    "cod_dpto": 54,
+    "cod_mpio": 54051,
+    "nombre": "ARBOLEDAS",
+    "bbox": [
+      -72.7988745246,
+      7.64297044033
+    ]
+  },
+  {
+    "cod_dpto": 54,
+    "cod_mpio": 54099,
+    "nombre": "BOCHALEMA",
+    "bbox": [
+      -72.6470380877,
+      7.61216805231
+    ]
+  },
+  {
+    "cod_dpto": 54,
+    "cod_mpio": 54109,
+    "nombre": "BUCARASICA",
+    "bbox": [
+      -72.8679543738,
+      8.0411673429
+    ]
+  },
+  {
+    "cod_dpto": 54,
+    "cod_mpio": 54125,
+    "nombre": "CÁCOTA",
+    "bbox": [
+      -72.6420588392,
+      7.26870546239
+    ]
+  },
+  {
+    "cod_dpto": 54,
+    "cod_mpio": 54128,
+    "nombre": "CÁCHIRA",
+    "bbox": [
+      -73.0487455245,
+      7.74090515785
+    ]
+  },
+  {
+    "cod_dpto": 54,
+    "cod_mpio": 54172,
+    "nombre": "CHINÁCOTA",
+    "bbox": [
+      -72.604678236,
+      7.60095766936
+    ]
+  },
+  {
+    "cod_dpto": 54,
+    "cod_mpio": 54174,
+    "nombre": "CHITAGÁ",
+    "bbox": [
+      -72.6654349244,
+      7.13812232389
+    ]
+  },
+  {
+    "cod_dpto": 54,
+    "cod_mpio": 54206,
+    "nombre": "CONVENCIÓN",
+    "bbox": [
+      -73.3372084478,
+      8.47036893328
+    ]
+  },
+  {
+    "cod_dpto": 54,
+    "cod_mpio": 54223,
+    "nombre": "CUCUTILLA",
+    "bbox": [
+      -72.7725719062,
+      7.53898713725
+    ]
+  },
+  {
+    "cod_dpto": 54,
+    "cod_mpio": 54239,
+    "nombre": "DURANIA",
+    "bbox": [
+      -72.6586046913,
+      7.71477962488
+    ]
+  },
+  {
+    "cod_dpto": 54,
+    "cod_mpio": 54245,
+    "nombre": "EL CARMEN",
+    "bbox": [
+      -73.4466871194,
+      8.510578756
+    ]
+  },
+  {
+    "cod_dpto": 54,
+    "cod_mpio": 54250,
+    "nombre": "EL TARRA",
+    "bbox": [
+      -73.0948459237,
+      8.57677136501
+    ]
+  },
+  {
+    "cod_dpto": 54,
+    "cod_mpio": 54261,
+    "nombre": "EL ZULIA",
+    "bbox": [
+      -72.6046681753,
+      7.9382294873
+    ]
+  },
+  {
+    "cod_dpto": 54,
+    "cod_mpio": 54313,
+    "nombre": "GRAMALOTE",
+    "bbox": [
+      -72.7868300565,
+      7.91658182359
+    ]
+  },
+  {
+    "cod_dpto": 54,
+    "cod_mpio": 54344,
+    "nombre": "HACARÍ",
+    "bbox": [
+      -73.1459753507,
+      8.32171456218
+    ]
+  },
+  {
+    "cod_dpto": 54,
+    "cod_mpio": 54347,
+    "nombre": "HERRÁN",
+    "bbox": [
+      -72.4835193432,
+      7.50654086497
+    ]
+  },
+  {
+    "cod_dpto": 54,
+    "cod_mpio": 54377,
+    "nombre": "LABATECA",
+    "bbox": [
+      -72.495874145,
+      7.29833925605
+    ]
+  },
+  {
+    "cod_dpto": 54,
+    "cod_mpio": 54385,
+    "nombre": "LA ESPERANZA",
+    "bbox": [
+      -73.3278974501,
+      7.63999091265
+    ]
+  },
+  {
+    "cod_dpto": 54,
+    "cod_mpio": 54398,
+    "nombre": "LA PLAYA",
+    "bbox": [
+      -73.2386486736,
+      8.21262710646
+    ]
+  },
+  {
+    "cod_dpto": 54,
+    "cod_mpio": 54405,
+    "nombre": "LOS PATIOS",
+    "bbox": [
+      -72.5057125591,
+      7.83325628875
+    ]
+  },
+  {
+    "cod_dpto": 54,
+    "cod_mpio": 54418,
+    "nombre": "LOURDES",
+    "bbox": [
+      -72.8325112619,
+      7.94451955703
+    ]
+  },
+  {
+    "cod_dpto": 54,
+    "cod_mpio": 54480,
+    "nombre": "MUTISCUA",
+    "bbox": [
+      -72.7471385364,
+      7.30028049935
+    ]
+  },
+  {
+    "cod_dpto": 54,
+    "cod_mpio": 54498,
+    "nombre": "OCAÑA",
+    "bbox": [
+      -73.3558144029,
+      8.24745379156
+    ]
+  },
+  {
+    "cod_dpto": 54,
+    "cod_mpio": 54518,
+    "nombre": "PAMPLONA",
+    "bbox": [
+      -72.6476814357,
+      7.37285018029
+    ]
+  },
+  {
+    "cod_dpto": 54,
+    "cod_mpio": 54520,
+    "nombre": "PAMPLONITA",
+    "bbox": [
+      -72.6392037624,
+      7.43674667982
+    ]
+  },
+  {
+    "cod_dpto": 54,
+    "cod_mpio": 54553,
+    "nombre": "PUERTO SANTANDER",
+    "bbox": [
+      -72.4103137832,
+      8.36094561495
+    ]
+  },
+  {
+    "cod_dpto": 54,
+    "cod_mpio": 54599,
+    "nombre": "RAGONVALIA",
+    "bbox": [
+      -72.4767082432,
+      7.57786141547
+    ]
+  },
+  {
+    "cod_dpto": 54,
+    "cod_mpio": 54660,
+    "nombre": "SALAZAR",
+    "bbox": [
+      -72.8131243454,
+      7.77367122814
+    ]
+  },
+  {
+    "cod_dpto": 54,
+    "cod_mpio": 54670,
+    "nombre": "SAN CALIXTO",
+    "bbox": [
+      -73.2060526939,
+      8.4001518896
+    ]
+  },
+  {
+    "cod_dpto": 54,
+    "cod_mpio": 54673,
+    "nombre": "SAN CAYETANO",
+    "bbox": [
+      -72.6254116336,
+      7.87553273914
+    ]
+  },
+  {
+    "cod_dpto": 54,
+    "cod_mpio": 54680,
+    "nombre": "SANTIAGO",
+    "bbox": [
+      -72.7166177702,
+      7.86516263954
+    ]
+  },
+  {
+    "cod_dpto": 54,
+    "cod_mpio": 54720,
+    "nombre": "SARDINATA",
+    "bbox": [
+      -72.8007583831,
+      8.0820136662
+    ]
+  },
+  {
+    "cod_dpto": 54,
+    "cod_mpio": 54743,
+    "nombre": "SILOS",
+    "bbox": [
+      -72.7570624841,
+      7.20478661471
+    ]
+  },
+  {
+    "cod_dpto": 54,
+    "cod_mpio": 54800,
+    "nombre": "TEORAMA",
+    "bbox": [
+      -73.2874092881,
+      8.43637733794
+    ]
+  },
+  {
+    "cod_dpto": 54,
+    "cod_mpio": 54810,
+    "nombre": "TIBÚ",
+    "bbox": [
+      -72.7359186314,
+      8.6395488525
+    ]
+  },
+  {
+    "cod_dpto": 54,
+    "cod_mpio": 54820,
+    "nombre": "TOLEDO",
+    "bbox": [
+      -72.4851073184,
+      7.31003182761
+    ]
+  },
+  {
+    "cod_dpto": 54,
+    "cod_mpio": 54871,
+    "nombre": "VILLA CARO",
+    "bbox": [
+      -72.973652389,
+      7.9142783046
+    ]
+  },
+  {
+    "cod_dpto": 54,
+    "cod_mpio": 54874,
+    "nombre": "VILLA DEL ROSARIO",
+    "bbox": [
+      -72.4700673416,
+      7.8474874315
+    ]
+  },
+  {
+    "cod_dpto": 63,
+    "cod_mpio": 63001,
+    "nombre": "ARMENIA",
+    "bbox": [
+      -75.6807507586,
+      4.53598950231
+    ]
+  },
+  {
+    "cod_dpto": 63,
+    "cod_mpio": 63111,
+    "nombre": "BUENAVISTA",
+    "bbox": [
+      -75.7393300642,
+      4.36032522473
+    ]
+  },
+  {
+    "cod_dpto": 63,
+    "cod_mpio": 63130,
+    "nombre": "CALARCÁ",
+    "bbox": [
+      -75.6490883624,
+      4.51528184598
+    ]
+  },
+  {
+    "cod_dpto": 63,
+    "cod_mpio": 63190,
+    "nombre": "CIRCASIA",
+    "bbox": [
+      -75.636528232,
+      4.61779204337
+    ]
+  },
+  {
+    "cod_dpto": 63,
+    "cod_mpio": 63212,
+    "nombre": "CÓRDOBA",
+    "bbox": [
+      -75.6878663583,
+      4.39248544874
+    ]
+  },
+  {
+    "cod_dpto": 63,
+    "cod_mpio": 63272,
+    "nombre": "FILANDIA",
+    "bbox": [
+      -75.6586858841,
+      4.67414557186
+    ]
+  },
+  {
+    "cod_dpto": 63,
+    "cod_mpio": 63302,
+    "nombre": "GÉNOVA",
+    "bbox": [
+      -75.7898166081,
+      4.20747788779
+    ]
+  },
+  {
+    "cod_dpto": 63,
+    "cod_mpio": 63401,
+    "nombre": "LA TEBAIDA",
+    "bbox": [
+      -75.7864601773,
+      4.45365041583
+    ]
+  },
+  {
+    "cod_dpto": 63,
+    "cod_mpio": 63470,
+    "nombre": "MONTENEGRO",
+    "bbox": [
+      -75.7518122369,
+      4.5629597433
+    ]
+  },
+  {
+    "cod_dpto": 63,
+    "cod_mpio": 63548,
+    "nombre": "PIJAO",
+    "bbox": [
+      -75.7033170007,
+      4.33503788959
+    ]
+  },
+  {
+    "cod_dpto": 63,
+    "cod_mpio": 63594,
+    "nombre": "QUIMBAYA",
+    "bbox": [
+      -75.7650742001,
+      4.62438608575
+    ]
+  },
+  {
+    "cod_dpto": 63,
+    "cod_mpio": 63690,
+    "nombre": "SALENTO",
+    "bbox": [
+      -75.570844186,
+      4.63715676098
+    ]
+  },
+  {
+    "cod_dpto": 66,
+    "cod_mpio": 66001,
+    "nombre": "PEREIRA",
+    "bbox": [
+      -75.7171230555,
+      4.80568026503
+    ]
+  },
+  {
+    "cod_dpto": 66,
+    "cod_mpio": 66045,
+    "nombre": "APÍA",
+    "bbox": [
+      -75.9419306936,
+      5.10573936698
+    ]
+  },
+  {
+    "cod_dpto": 66,
+    "cod_mpio": 66075,
+    "nombre": "BALBOA",
+    "bbox": [
+      -75.960221681,
+      4.94576919529
+    ]
+  },
+  {
+    "cod_dpto": 66,
+    "cod_mpio": 66088,
+    "nombre": "BELÉN DE UMBRÍA",
+    "bbox": [
+      -75.8682185239,
+      5.20064537648
+    ]
+  },
+  {
+    "cod_dpto": 66,
+    "cod_mpio": 66170,
+    "nombre": "DOSQUEBRADAS",
+    "bbox": [
+      -75.6824691212,
+      4.82718783235
+    ]
+  },
+  {
+    "cod_dpto": 66,
+    "cod_mpio": 66318,
+    "nombre": "GUÁTICA",
+    "bbox": [
+      -75.7993627966,
+      5.31620951216
+    ]
+  },
+  {
+    "cod_dpto": 66,
+    "cod_mpio": 66383,
+    "nombre": "LA CELIA",
+    "bbox": [
+      -76.0030756454,
+      5.00284730126
+    ]
+  },
+  {
+    "cod_dpto": 66,
+    "cod_mpio": 66400,
+    "nombre": "LA VIRGINIA",
+    "bbox": [
+      -75.8840584341,
+      4.89866695671
+    ]
+  },
+  {
+    "cod_dpto": 66,
+    "cod_mpio": 66440,
+    "nombre": "MARSELLA",
+    "bbox": [
+      -75.7385832636,
+      4.93555951856
+    ]
+  },
+  {
+    "cod_dpto": 66,
+    "cod_mpio": 66456,
+    "nombre": "MISTRATÓ",
+    "bbox": [
+      -75.8828604706,
+      5.29705906073
+    ]
+  },
+  {
+    "cod_dpto": 66,
+    "cod_mpio": 66572,
+    "nombre": "PUEBLO RICO",
+    "bbox": [
+      -76.0306681462,
+      5.22191210356
+    ]
+  },
+  {
+    "cod_dpto": 66,
+    "cod_mpio": 66594,
+    "nombre": "QUINCHÍA",
+    "bbox": [
+      -75.7304125955,
+      5.34044568012
+    ]
+  },
+  {
+    "cod_dpto": 66,
+    "cod_mpio": 66682,
+    "nombre": "SANTA ROSA DE CABAL",
+    "bbox": [
+      -75.6200106565,
+      4.86752645418
+    ]
+  },
+  {
+    "cod_dpto": 66,
+    "cod_mpio": 66687,
+    "nombre": "SANTUARIO",
+    "bbox": [
+      -75.9621155318,
+      5.07278113854
+    ]
+  },
+  {
+    "cod_dpto": 68,
+    "cod_mpio": 68001,
+    "nombre": "BUCARAMANGA",
+    "bbox": [
+      -73.1325981781,
+      7.11626727561
+    ]
+  },
+  {
+    "cod_dpto": 68,
+    "cod_mpio": 68013,
+    "nombre": "AGUADA",
+    "bbox": [
+      -73.5232368382,
+      6.16223753324
+    ]
+  },
+  {
+    "cod_dpto": 68,
+    "cod_mpio": 68020,
+    "nombre": "ALBANIA",
+    "bbox": [
+      -73.9138537689,
+      5.75887024027
+    ]
+  },
+  {
+    "cod_dpto": 68,
+    "cod_mpio": 68051,
+    "nombre": "ARATOCA",
+    "bbox": [
+      -73.017849893,
+      6.69443996593
+    ]
+  },
+  {
+    "cod_dpto": 68,
+    "cod_mpio": 68077,
+    "nombre": "BARBOSA",
+    "bbox": [
+      -73.6159988747,
+      5.93260987515
+    ]
+  },
+  {
+    "cod_dpto": 68,
+    "cod_mpio": 68079,
+    "nombre": "BARICHARA",
+    "bbox": [
+      -73.2230993262,
+      6.63422927306
+    ]
+  },
+  {
+    "cod_dpto": 68,
+    "cod_mpio": 68081,
+    "nombre": "BARRANCABERMEJA",
+    "bbox": [
+      -73.8499569753,
+      7.06496386399
+    ]
+  },
+  {
+    "cod_dpto": 68,
+    "cod_mpio": 68092,
+    "nombre": "BETULIA",
+    "bbox": [
+      -73.2836691291,
+      6.8995253646
+    ]
+  },
+  {
+    "cod_dpto": 68,
+    "cod_mpio": 68101,
+    "nombre": "BOLÍVAR",
+    "bbox": [
+      -73.7713464124,
+      5.98895261627
+    ]
+  },
+  {
+    "cod_dpto": 68,
+    "cod_mpio": 68121,
+    "nombre": "CABRERA",
+    "bbox": [
+      -73.2465028955,
+      6.59226080179
+    ]
+  },
+  {
+    "cod_dpto": 68,
+    "cod_mpio": 68132,
+    "nombre": "CALIFORNIA",
+    "bbox": [
+      -72.9463583004,
+      7.34788475118
+    ]
+  },
+  {
+    "cod_dpto": 68,
+    "cod_mpio": 68147,
+    "nombre": "CAPITANEJO",
+    "bbox": [
+      -72.6991995911,
+      6.53317998207
+    ]
+  },
+  {
+    "cod_dpto": 68,
+    "cod_mpio": 68152,
+    "nombre": "CARCASÍ",
+    "bbox": [
+      -72.6270828663,
+      6.62873240807
+    ]
+  },
+  {
+    "cod_dpto": 68,
+    "cod_mpio": 68160,
+    "nombre": "CEPITÁ",
+    "bbox": [
+      -72.9735364646,
+      6.75351840155
+    ]
+  },
+  {
+    "cod_dpto": 68,
+    "cod_mpio": 68162,
+    "nombre": "CERRITO",
+    "bbox": [
+      -72.692345347,
+      6.84424358158
+    ]
+  },
+  {
+    "cod_dpto": 68,
+    "cod_mpio": 68167,
+    "nombre": "CHARALÁ",
+    "bbox": [
+      -73.1468703911,
+      6.28434889708
+    ]
+  },
+  {
+    "cod_dpto": 68,
+    "cod_mpio": 68169,
+    "nombre": "CHARTA",
+    "bbox": [
+      -72.9687984566,
+      7.28082047249
+    ]
+  },
+  {
+    "cod_dpto": 68,
+    "cod_mpio": 68176,
+    "nombre": "CHIMA",
+    "bbox": [
+      -73.373747738,
+      6.34435172066
+    ]
+  },
+  {
+    "cod_dpto": 68,
+    "cod_mpio": 68179,
+    "nombre": "CHIPATÁ",
+    "bbox": [
+      -73.6371106396,
+      6.06252090352
+    ]
+  },
+  {
+    "cod_dpto": 68,
+    "cod_mpio": 68190,
+    "nombre": "CIMITARRA",
+    "bbox": [
+      -73.9525821232,
+      6.32068186747
+    ]
+  },
+  {
+    "cod_dpto": 68,
+    "cod_mpio": 68207,
+    "nombre": "CONCEPCIÓN",
+    "bbox": [
+      -72.6945942537,
+      6.76883652788
+    ]
+  },
+  {
+    "cod_dpto": 68,
+    "cod_mpio": 68209,
+    "nombre": "CONFINES",
+    "bbox": [
+      -73.2405538757,
+      6.35732748987
+    ]
+  },
+  {
+    "cod_dpto": 68,
+    "cod_mpio": 68211,
+    "nombre": "CONTRATACIÓN",
+    "bbox": [
+      -73.4744263671,
+      6.29056132834
+    ]
+  },
+  {
+    "cod_dpto": 68,
+    "cod_mpio": 68217,
+    "nombre": "COROMORO",
+    "bbox": [
+      -73.0408167488,
+      6.29499491408
+    ]
+  },
+  {
+    "cod_dpto": 68,
+    "cod_mpio": 68229,
+    "nombre": "CURITÍ",
+    "bbox": [
+      -73.0693905206,
+      6.60510678535
+    ]
+  },
+  {
+    "cod_dpto": 68,
+    "cod_mpio": 68235,
+    "nombre": "EL CARMEN DE CHUCURI",
+    "bbox": [
+      -73.5112677449,
+      6.69791145065
+    ]
+  },
+  {
+    "cod_dpto": 68,
+    "cod_mpio": 68245,
+    "nombre": "EL GUACAMAYO",
+    "bbox": [
+      -73.4968929085,
+      6.24511900714
+    ]
+  },
+  {
+    "cod_dpto": 68,
+    "cod_mpio": 68250,
+    "nombre": "EL PEÑÓN",
+    "bbox": [
+      -73.8169109182,
+      6.05427704585
+    ]
+  },
+  {
+    "cod_dpto": 68,
+    "cod_mpio": 68255,
+    "nombre": "EL PLAYÓN",
+    "bbox": [
+      -73.2028779315,
+      7.47071959264
+    ]
+  },
+  {
+    "cod_dpto": 68,
+    "cod_mpio": 68264,
+    "nombre": "ENCINO",
+    "bbox": [
+      -73.0987380213,
+      6.13740249683
+    ]
+  },
+  {
+    "cod_dpto": 68,
+    "cod_mpio": 68266,
+    "nombre": "ENCISO",
+    "bbox": [
+      -72.6996470353,
+      6.66803389035
+    ]
+  },
+  {
+    "cod_dpto": 68,
+    "cod_mpio": 68271,
+    "nombre": "FLORIÁN",
+    "bbox": [
+      -73.9714230675,
+      5.80466636826
+    ]
+  },
+  {
+    "cod_dpto": 68,
+    "cod_mpio": 68276,
+    "nombre": "FLORIDABLANCA",
+    "bbox": [
+      -73.0990326168,
+      7.07236040291
+    ]
+  },
+  {
+    "cod_dpto": 68,
+    "cod_mpio": 68296,
+    "nombre": "GALÁN",
+    "bbox": [
+      -73.2877647263,
+      6.63841500205
+    ]
+  },
+  {
+    "cod_dpto": 68,
+    "cod_mpio": 68298,
+    "nombre": "GÁMBITA",
+    "bbox": [
+      -73.3441835401,
+      5.94598120307
+    ]
+  },
+  {
+    "cod_dpto": 68,
+    "cod_mpio": 68307,
+    "nombre": "GIRÓN",
+    "bbox": [
+      -73.1682558736,
+      7.07277510908
+    ]
+  },
+  {
+    "cod_dpto": 68,
+    "cod_mpio": 68318,
+    "nombre": "GUACA",
+    "bbox": [
+      -72.8563220136,
+      6.87656345234
+    ]
+  },
+  {
+    "cod_dpto": 68,
+    "cod_mpio": 68320,
+    "nombre": "GUADALUPE",
+    "bbox": [
+      -73.4192920288,
+      6.24584676462
+    ]
+  },
+  {
+    "cod_dpto": 68,
+    "cod_mpio": 68322,
+    "nombre": "GUAPOTÁ",
+    "bbox": [
+      -73.3206990858,
+      6.30858801303
+    ]
+  },
+  {
+    "cod_dpto": 68,
+    "cod_mpio": 68324,
+    "nombre": "GUAVATÁ",
+    "bbox": [
+      -73.7008020955,
+      5.95413607642
+    ]
+  },
+  {
+    "cod_dpto": 68,
+    "cod_mpio": 68327,
+    "nombre": "GÜEPSA",
+    "bbox": [
+      -73.5753259533,
+      6.02484917625
+    ]
+  },
+  {
+    "cod_dpto": 68,
+    "cod_mpio": 68344,
+    "nombre": "HATO",
+    "bbox": [
+      -73.3081448099,
+      6.54296388647
+    ]
+  },
+  {
+    "cod_dpto": 68,
+    "cod_mpio": 68368,
+    "nombre": "JESÚS MARÍA",
+    "bbox": [
+      -73.7833281736,
+      5.87654346421
+    ]
+  },
+  {
+    "cod_dpto": 68,
+    "cod_mpio": 68370,
+    "nombre": "JORDÁN",
+    "bbox": [
+      -73.0960530621,
+      6.73272709478
+    ]
+  },
+  {
+    "cod_dpto": 68,
+    "cod_mpio": 68377,
+    "nombre": "LA BELLEZA",
+    "bbox": [
+      -73.9656258658,
+      5.85954984785
+    ]
+  },
+  {
+    "cod_dpto": 68,
+    "cod_mpio": 68385,
+    "nombre": "LANDÁZURI",
+    "bbox": [
+      -73.8110852764,
+      6.21874861486
+    ]
+  },
+  {
+    "cod_dpto": 68,
+    "cod_mpio": 68397,
+    "nombre": "LA PAZ",
+    "bbox": [
+      -73.5895900302,
+      6.17850932584
+    ]
+  },
+  {
+    "cod_dpto": 68,
+    "cod_mpio": 68406,
+    "nombre": "LEBRIJA",
+    "bbox": [
+      -73.2195514422,
+      7.11335608112
+    ]
+  },
+  {
+    "cod_dpto": 68,
+    "cod_mpio": 68418,
+    "nombre": "LOS SANTOS",
+    "bbox": [
+      -73.1026566715,
+      6.75517519378
+    ]
+  },
+  {
+    "cod_dpto": 68,
+    "cod_mpio": 68425,
+    "nombre": "MACARAVITA",
+    "bbox": [
+      -72.5931054586,
+      6.50658042814
+    ]
+  },
+  {
+    "cod_dpto": 68,
+    "cod_mpio": 68432,
+    "nombre": "MÁLAGA",
+    "bbox": [
+      -72.7323798046,
+      6.70305845778
+    ]
+  },
+  {
+    "cod_dpto": 68,
+    "cod_mpio": 68444,
+    "nombre": "MATANZA",
+    "bbox": [
+      -73.0155656446,
+      7.32317512433
+    ]
+  },
+  {
+    "cod_dpto": 68,
+    "cod_mpio": 68464,
+    "nombre": "MOGOTES",
+    "bbox": [
+      -72.9698137921,
+      6.47520995278
+    ]
+  },
+  {
+    "cod_dpto": 68,
+    "cod_mpio": 68468,
+    "nombre": "MOLAGAVITA",
+    "bbox": [
+      -72.8094722283,
+      6.6743572314
+    ]
+  },
+  {
+    "cod_dpto": 68,
+    "cod_mpio": 68498,
+    "nombre": "OCAMONTE",
+    "bbox": [
+      -73.1225630364,
+      6.33998772985
+    ]
+  },
+  {
+    "cod_dpto": 68,
+    "cod_mpio": 68500,
+    "nombre": "OIBA",
+    "bbox": [
+      -73.2997860153,
+      6.26517513253
+    ]
+  },
+  {
+    "cod_dpto": 68,
+    "cod_mpio": 68502,
+    "nombre": "ONZAGA",
+    "bbox": [
+      -72.816759844,
+      6.34409368538
+    ]
+  },
+  {
+    "cod_dpto": 68,
+    "cod_mpio": 68522,
+    "nombre": "PALMAR",
+    "bbox": [
+      -73.2910901782,
+      6.53778933221
+    ]
+  },
+  {
+    "cod_dpto": 68,
+    "cod_mpio": 68524,
+    "nombre": "PALMAS DEL SOCORRO",
+    "bbox": [
+      -73.2877639744,
+      6.40613865617
+    ]
+  },
+  {
+    "cod_dpto": 68,
+    "cod_mpio": 68533,
+    "nombre": "PÁRAMO",
+    "bbox": [
+      -73.1703995372,
+      6.41659237834
+    ]
+  },
+  {
+    "cod_dpto": 68,
+    "cod_mpio": 68547,
+    "nombre": "PIEDECUESTA",
+    "bbox": [
+      -73.054660853,
+      6.99747580407
+    ]
+  },
+  {
+    "cod_dpto": 68,
+    "cod_mpio": 68549,
+    "nombre": "PINCHOTE",
+    "bbox": [
+      -73.1729143168,
+      6.53206027037
+    ]
+  },
+  {
+    "cod_dpto": 68,
+    "cod_mpio": 68572,
+    "nombre": "PUENTE NACIONAL",
+    "bbox": [
+      -73.6781341024,
+      5.87796266544
+    ]
+  },
+  {
+    "cod_dpto": 68,
+    "cod_mpio": 68573,
+    "nombre": "PUERTO PARRA",
+    "bbox": [
+      -74.0560942894,
+      6.65080670207
+    ]
+  },
+  {
+    "cod_dpto": 68,
+    "cod_mpio": 68575,
+    "nombre": "PUERTO WILCHES",
+    "bbox": [
+      -73.8993340229,
+      7.34906614379
+    ]
+  },
+  {
+    "cod_dpto": 68,
+    "cod_mpio": 68615,
+    "nombre": "RIONEGRO",
+    "bbox": [
+      -73.1501469118,
+      7.26501048624
+    ]
+  },
+  {
+    "cod_dpto": 68,
+    "cod_mpio": 68655,
+    "nombre": "SABANA DE TORRES",
+    "bbox": [
+      -73.4990501608,
+      7.39191194418
+    ]
+  },
+  {
+    "cod_dpto": 68,
+    "cod_mpio": 68669,
+    "nombre": "SAN ANDRÉS",
+    "bbox": [
+      -72.8488042362,
+      6.81231015219
+    ]
+  },
+  {
+    "cod_dpto": 68,
+    "cod_mpio": 68673,
+    "nombre": "SAN BENITO",
+    "bbox": [
+      -73.5093873452,
+      6.12624458122
+    ]
+  },
+  {
+    "cod_dpto": 68,
+    "cod_mpio": 68679,
+    "nombre": "SAN GIL",
+    "bbox": [
+      -73.1368814979,
+      6.5556094669
+    ]
+  },
+  {
+    "cod_dpto": 68,
+    "cod_mpio": 68682,
+    "nombre": "SAN JOAQUÍN",
+    "bbox": [
+      -72.8676381191,
+      6.42754793569
+    ]
+  },
+  {
+    "cod_dpto": 68,
+    "cod_mpio": 68684,
+    "nombre": "SAN JOSÉ DE MIRANDA",
+    "bbox": [
+      -72.7336159614,
+      6.65899479727
+    ]
+  },
+  {
+    "cod_dpto": 68,
+    "cod_mpio": 68686,
+    "nombre": "SAN MIGUEL",
+    "bbox": [
+      -72.6441550924,
+      6.5756253926
+    ]
+  },
+  {
+    "cod_dpto": 68,
+    "cod_mpio": 68689,
+    "nombre": "SAN VICENTE DE CHUCURÍ",
+    "bbox": [
+      -73.4110239344,
+      6.88038293512
+    ]
+  },
+  {
+    "cod_dpto": 68,
+    "cod_mpio": 68705,
+    "nombre": "SANTA BÁRBARA",
+    "bbox": [
+      -72.9073362788,
+      6.99051068072
+    ]
+  },
+  {
+    "cod_dpto": 68,
+    "cod_mpio": 68720,
+    "nombre": "SANTA HELENA DEL OPÓN",
+    "bbox": [
+      -73.6167932693,
+      6.33964534985
+    ]
+  },
+  {
+    "cod_dpto": 68,
+    "cod_mpio": 68745,
+    "nombre": "SIMACOTA",
+    "bbox": [
+      -73.3373676728,
+      6.44347113668
+    ]
+  },
+  {
+    "cod_dpto": 68,
+    "cod_mpio": 68755,
+    "nombre": "SOCORRO",
+    "bbox": [
+      -73.2611964238,
+      6.46385551552
+    ]
+  },
+  {
+    "cod_dpto": 68,
+    "cod_mpio": 68770,
+    "nombre": "SUAITA",
+    "bbox": [
+      -73.4384163558,
+      6.10354229514
+    ]
+  },
+  {
+    "cod_dpto": 68,
+    "cod_mpio": 68773,
+    "nombre": "SUCRE",
+    "bbox": [
+      -73.7909746305,
+      5.91874341198
+    ]
+  },
+  {
+    "cod_dpto": 68,
+    "cod_mpio": 68780,
+    "nombre": "SURATÁ",
+    "bbox": [
+      -72.9842319659,
+      7.36657956919
+    ]
+  },
+  {
+    "cod_dpto": 68,
+    "cod_mpio": 68820,
+    "nombre": "TONA",
+    "bbox": [
+      -72.9660182636,
+      7.20273524134
+    ]
+  },
+  {
+    "cod_dpto": 68,
+    "cod_mpio": 68855,
+    "nombre": "VALLE DE SAN JOSÉ",
+    "bbox": [
+      -73.1437372709,
+      6.44778968744
+    ]
+  },
+  {
+    "cod_dpto": 68,
+    "cod_mpio": 68861,
+    "nombre": "VÉLEZ",
+    "bbox": [
+      -73.6662990692,
+      6.01095344914
+    ]
+  },
+  {
+    "cod_dpto": 68,
+    "cod_mpio": 68867,
+    "nombre": "VETAS",
+    "bbox": [
+      -72.8710408758,
+      7.30981002331
+    ]
+  },
+  {
+    "cod_dpto": 68,
+    "cod_mpio": 68872,
+    "nombre": "VILLANUEVA",
+    "bbox": [
+      -73.1743066886,
+      6.67007767165
+    ]
+  },
+  {
+    "cod_dpto": 68,
+    "cod_mpio": 68895,
+    "nombre": "ZAPATOCA",
+    "bbox": [
+      -73.2679100841,
+      6.81433890042
+    ]
+  },
+  {
+    "cod_dpto": 70,
+    "cod_mpio": 70001,
+    "nombre": "SINCELEJO",
+    "bbox": [
+      -75.3954835627,
+      9.30233310439
+    ]
+  },
+  {
+    "cod_dpto": 70,
+    "cod_mpio": 70110,
+    "nombre": "BUENAVISTA",
+    "bbox": [
+      -74.9730150031,
+      9.31985727849
+    ]
+  },
+  {
+    "cod_dpto": 70,
+    "cod_mpio": 70124,
+    "nombre": "CAIMITO",
+    "bbox": [
+      -75.1171408174,
+      8.78932393355
+    ]
+  },
+  {
+    "cod_dpto": 70,
+    "cod_mpio": 70204,
+    "nombre": "COLOSÓ",
+    "bbox": [
+      -75.3532567549,
+      9.49419285811
+    ]
+  },
+  {
+    "cod_dpto": 70,
+    "cod_mpio": 70215,
+    "nombre": "COROZAL",
+    "bbox": [
+      -75.2931671674,
+      9.31910557117
+    ]
+  },
+  {
+    "cod_dpto": 70,
+    "cod_mpio": 70221,
+    "nombre": "COVEÑAS",
+    "bbox": [
+      -75.6918670995,
+      9.40246339437
+    ]
+  },
+  {
+    "cod_dpto": 70,
+    "cod_mpio": 70230,
+    "nombre": "CHALÁN",
+    "bbox": [
+      -75.3126963135,
+      9.54535162368
+    ]
+  },
+  {
+    "cod_dpto": 70,
+    "cod_mpio": 70233,
+    "nombre": "EL ROBLE",
+    "bbox": [
+      -75.1988311015,
+      9.09953184702
+    ]
+  },
+  {
+    "cod_dpto": 70,
+    "cod_mpio": 70235,
+    "nombre": "GALERAS",
+    "bbox": [
+      -75.0494200165,
+      9.1596726194
+    ]
+  },
+  {
+    "cod_dpto": 70,
+    "cod_mpio": 70265,
+    "nombre": "GUARANDA",
+    "bbox": [
+      -74.5383454196,
+      8.46484704286
+    ]
+  },
+  {
+    "cod_dpto": 70,
+    "cod_mpio": 70400,
+    "nombre": "LA UNIÓN",
+    "bbox": [
+      -75.2760557956,
+      8.85397530961
+    ]
+  },
+  {
+    "cod_dpto": 70,
+    "cod_mpio": 70418,
+    "nombre": "LOS PALMITOS",
+    "bbox": [
+      -75.268748893,
+      9.38022840771
+    ]
+  },
+  {
+    "cod_dpto": 70,
+    "cod_mpio": 70429,
+    "nombre": "MAJAGUAL",
+    "bbox": [
+      -74.6281013985,
+      8.54071299631
+    ]
+  },
+  {
+    "cod_dpto": 70,
+    "cod_mpio": 70473,
+    "nombre": "MORROA",
+    "bbox": [
+      -75.3061997846,
+      9.33131938078
+    ]
+  },
+  {
+    "cod_dpto": 70,
+    "cod_mpio": 70508,
+    "nombre": "OVEJAS",
+    "bbox": [
+      -75.2290844408,
+      9.52668723873
+    ]
+  },
+  {
+    "cod_dpto": 70,
+    "cod_mpio": 70523,
+    "nombre": "PALMITO",
+    "bbox": [
+      -75.5412591509,
+      9.33310829781
+    ]
+  },
+  {
+    "cod_dpto": 70,
+    "cod_mpio": 70670,
+    "nombre": "SAMPUÉS",
+    "bbox": [
+      -75.3801912307,
+      9.18320595549
+    ]
+  },
+  {
+    "cod_dpto": 70,
+    "cod_mpio": 70678,
+    "nombre": "SAN BENITO ABAD",
+    "bbox": [
+      -75.0311608094,
+      8.92997105952
+    ]
+  },
+  {
+    "cod_dpto": 70,
+    "cod_mpio": 70702,
+    "nombre": "SAN JUAN DE BETULIA",
+    "bbox": [
+      -75.2435645402,
+      9.27306598771
+    ]
+  },
+  {
+    "cod_dpto": 70,
+    "cod_mpio": 70708,
+    "nombre": "SAN MARCOS",
+    "bbox": [
+      -75.1323975956,
+      8.66482889144
+    ]
+  },
+  {
+    "cod_dpto": 70,
+    "cod_mpio": 70713,
+    "nombre": "SAN ONOFRE",
+    "bbox": [
+      -75.5230306988,
+      9.7369320138
+    ]
+  },
+  {
+    "cod_dpto": 70,
+    "cod_mpio": 70717,
+    "nombre": "SAN PEDRO",
+    "bbox": [
+      -75.0634897031,
+      9.39596363691
+    ]
+  },
+  {
+    "cod_dpto": 70,
+    "cod_mpio": 70742,
+    "nombre": "SAN LUIS DE SINCÉ",
+    "bbox": [
+      -75.1460330499,
+      9.24419599275
+    ]
+  },
+  {
+    "cod_dpto": 70,
+    "cod_mpio": 70771,
+    "nombre": "SUCRE",
+    "bbox": [
+      -74.7232251149,
+      8.81174074604
+    ]
+  },
+  {
+    "cod_dpto": 70,
+    "cod_mpio": 70820,
+    "nombre": "SANTIAGO DE TOLÚ",
+    "bbox": [
+      -75.5812987203,
+      9.52547322861
+    ]
+  },
+  {
+    "cod_dpto": 70,
+    "cod_mpio": 70823,
+    "nombre": "SAN JOSÉ DE TOLUVIEJO",
+    "bbox": [
+      -75.4408217694,
+      9.45184469937
+    ]
+  },
+  {
+    "cod_dpto": 73,
+    "cod_mpio": 73001,
+    "nombre": "IBAGUÉ",
+    "bbox": [
+      -75.1937147765,
+      4.43960899136
+    ]
+  },
+  {
+    "cod_dpto": 73,
+    "cod_mpio": 73024,
+    "nombre": "ALPUJARRA",
+    "bbox": [
+      -74.9328638234,
+      3.39173128917
+    ]
+  },
+  {
+    "cod_dpto": 73,
+    "cod_mpio": 73026,
+    "nombre": "ALVARADO",
+    "bbox": [
+      -74.9535571427,
+      4.56734359833
+    ]
+  },
+  {
+    "cod_dpto": 73,
+    "cod_mpio": 73030,
+    "nombre": "AMBALEMA",
+    "bbox": [
+      -74.7644408896,
+      4.78263399276
+    ]
+  },
+  {
+    "cod_dpto": 73,
+    "cod_mpio": 73043,
+    "nombre": "ANZOÁTEGUI",
+    "bbox": [
+      -75.096450741,
+      4.62747361841
+    ]
+  },
+  {
+    "cod_dpto": 73,
+    "cod_mpio": 73055,
+    "nombre": "ARMERO",
+    "bbox": [
+      -74.8844129957,
+      5.03067839219
+    ]
+  },
+  {
+    "cod_dpto": 73,
+    "cod_mpio": 73067,
+    "nombre": "ATACO",
+    "bbox": [
+      -75.382534257,
+      3.59063573735
+    ]
+  },
+  {
+    "cod_dpto": 73,
+    "cod_mpio": 73124,
+    "nombre": "CAJAMARCA",
+    "bbox": [
+      -75.4354852634,
+      4.43667276154
+    ]
+  },
+  {
+    "cod_dpto": 73,
+    "cod_mpio": 73148,
+    "nombre": "CARMEN DE APICALÁ",
+    "bbox": [
+      -74.7161694209,
+      4.1479120574
+    ]
+  },
+  {
+    "cod_dpto": 73,
+    "cod_mpio": 73152,
+    "nombre": "CASABIANCA",
+    "bbox": [
+      -75.1209661467,
+      5.07846450763
+    ]
+  },
+  {
+    "cod_dpto": 73,
+    "cod_mpio": 73168,
+    "nombre": "CHAPARRAL",
+    "bbox": [
+      -75.4807430536,
+      3.7230683757
+    ]
+  },
+  {
+    "cod_dpto": 73,
+    "cod_mpio": 73200,
+    "nombre": "COELLO",
+    "bbox": [
+      -74.8984643478,
+      4.28727554953
+    ]
+  },
+  {
+    "cod_dpto": 73,
+    "cod_mpio": 73217,
+    "nombre": "COYAIMA",
+    "bbox": [
+      -75.1938782966,
+      3.79802797981
+    ]
+  },
+  {
+    "cod_dpto": 73,
+    "cod_mpio": 73226,
+    "nombre": "CUNDAY",
+    "bbox": [
+      -74.6922272161,
+      4.05925925801
+    ]
+  },
+  {
+    "cod_dpto": 73,
+    "cod_mpio": 73236,
+    "nombre": "DOLORES",
+    "bbox": [
+      -74.8968447533,
+      3.53903600271
+    ]
+  },
+  {
+    "cod_dpto": 73,
+    "cod_mpio": 73268,
+    "nombre": "ESPINAL",
+    "bbox": [
+      -74.8854497584,
+      4.15131422057
+    ]
+  },
+  {
+    "cod_dpto": 73,
+    "cod_mpio": 73270,
+    "nombre": "FALAN",
+    "bbox": [
+      -74.9530071704,
+      5.12310386285
+    ]
+  },
+  {
+    "cod_dpto": 73,
+    "cod_mpio": 73275,
+    "nombre": "FLANDES",
+    "bbox": [
+      -74.8187674587,
+      4.27637165013
+    ]
+  },
+  {
+    "cod_dpto": 73,
+    "cod_mpio": 73283,
+    "nombre": "FRESNO",
+    "bbox": [
+      -75.0356271476,
+      5.153638261
+    ]
+  },
+  {
+    "cod_dpto": 73,
+    "cod_mpio": 73319,
+    "nombre": "GUAMO",
+    "bbox": [
+      -74.96812715,
+      4.03100390561
+    ]
+  },
+  {
+    "cod_dpto": 73,
+    "cod_mpio": 73347,
+    "nombre": "HERVEO",
+    "bbox": [
+      -75.1771510865,
+      5.08022752508
+    ]
+  },
+  {
+    "cod_dpto": 73,
+    "cod_mpio": 73349,
+    "nombre": "HONDA",
+    "bbox": [
+      -74.7415779738,
+      5.20150889922
+    ]
+  },
+  {
+    "cod_dpto": 73,
+    "cod_mpio": 73352,
+    "nombre": "ICONONZO",
+    "bbox": [
+      -74.5319761897,
+      4.17643620457
+    ]
+  },
+  {
+    "cod_dpto": 73,
+    "cod_mpio": 73408,
+    "nombre": "LÉRIDA",
+    "bbox": [
+      -74.910634355,
+      4.86202534619
+    ]
+  },
+  {
+    "cod_dpto": 73,
+    "cod_mpio": 73411,
+    "nombre": "LÍBANO",
+    "bbox": [
+      -75.063420931,
+      4.92344237437
+    ]
+  },
+  {
+    "cod_dpto": 73,
+    "cod_mpio": 73443,
+    "nombre": "SAN SEBASTIÁN DE MARIQUITA",
+    "bbox": [
+      -74.8892948197,
+      5.1996911832
+    ]
+  },
+  {
+    "cod_dpto": 73,
+    "cod_mpio": 73449,
+    "nombre": "MELGAR",
+    "bbox": [
+      -74.6298504009,
+      4.20815489203
+    ]
+  },
+  {
+    "cod_dpto": 73,
+    "cod_mpio": 73461,
+    "nombre": "MURILLO",
+    "bbox": [
+      -75.1707868164,
+      4.87507101432
+    ]
+  },
+  {
+    "cod_dpto": 73,
+    "cod_mpio": 73483,
+    "nombre": "NATAGAIMA",
+    "bbox": [
+      -75.0934780032,
+      3.62485853759
+    ]
+  },
+  {
+    "cod_dpto": 73,
+    "cod_mpio": 73504,
+    "nombre": "ORTEGA",
+    "bbox": [
+      -75.2226010951,
+      3.93491638658
+    ]
+  },
+  {
+    "cod_dpto": 73,
+    "cod_mpio": 73520,
+    "nombre": "PALOCABILDO",
+    "bbox": [
+      -75.0221975724,
+      5.12097196868
+    ]
+  },
+  {
+    "cod_dpto": 73,
+    "cod_mpio": 73547,
+    "nombre": "PIEDRAS",
+    "bbox": [
+      -74.8780739866,
+      4.54390828564
+    ]
+  },
+  {
+    "cod_dpto": 73,
+    "cod_mpio": 73555,
+    "nombre": "PLANADAS",
+    "bbox": [
+      -75.6439614722,
+      3.1976614695
+    ]
+  },
+  {
+    "cod_dpto": 73,
+    "cod_mpio": 73563,
+    "nombre": "PRADO",
+    "bbox": [
+      -74.9274555686,
+      3.75101323447
+    ]
+  },
+  {
+    "cod_dpto": 73,
+    "cod_mpio": 73585,
+    "nombre": "PURIFICACIÓN",
+    "bbox": [
+      -74.9286461937,
+      3.85937985749
+    ]
+  },
+  {
+    "cod_dpto": 73,
+    "cod_mpio": 73616,
+    "nombre": "RIOBLANCO",
+    "bbox": [
+      -75.6443876655,
+      3.5298632299
+    ]
+  },
+  {
+    "cod_dpto": 73,
+    "cod_mpio": 73622,
+    "nombre": "RONCESVALLES",
+    "bbox": [
+      -75.6060023252,
+      4.01159775983
+    ]
+  },
+  {
+    "cod_dpto": 73,
+    "cod_mpio": 73624,
+    "nombre": "ROVIRA",
+    "bbox": [
+      -75.2408682971,
+      4.2389326854
+    ]
+  },
+  {
+    "cod_dpto": 73,
+    "cod_mpio": 73671,
+    "nombre": "SALDAÑA",
+    "bbox": [
+      -75.0160689957,
+      3.92679265766
+    ]
+  },
+  {
+    "cod_dpto": 73,
+    "cod_mpio": 73675,
+    "nombre": "SAN ANTONIO",
+    "bbox": [
+      -75.480906706,
+      3.912976052
+    ]
+  },
+  {
+    "cod_dpto": 73,
+    "cod_mpio": 73678,
+    "nombre": "SAN LUIS",
+    "bbox": [
+      -75.0957871897,
+      4.13372061431
+    ]
+  },
+  {
+    "cod_dpto": 73,
+    "cod_mpio": 73686,
+    "nombre": "SANTA ISABEL",
+    "bbox": [
+      -75.0979343922,
+      4.71360576739
+    ]
+  },
+  {
+    "cod_dpto": 73,
+    "cod_mpio": 73770,
+    "nombre": "SUÁREZ",
+    "bbox": [
+      -74.8318831084,
+      4.0488842589
+    ]
+  },
+  {
+    "cod_dpto": 73,
+    "cod_mpio": 73854,
+    "nombre": "VALLE DE SAN JUAN",
+    "bbox": [
+      -75.1156692342,
+      4.19749367289
+    ]
+  },
+  {
+    "cod_dpto": 73,
+    "cod_mpio": 73861,
+    "nombre": "VENADILLO",
+    "bbox": [
+      -74.9291708546,
+      4.71796659348
+    ]
+  },
+  {
+    "cod_dpto": 73,
+    "cod_mpio": 73870,
+    "nombre": "VILLAHERMOSA",
+    "bbox": [
+      -75.1177291017,
+      5.03045228195
+    ]
+  },
+  {
+    "cod_dpto": 73,
+    "cod_mpio": 73873,
+    "nombre": "VILLARRICA",
+    "bbox": [
+      -74.600295547,
+      3.93674513818
+    ]
+  },
+  {
+    "cod_dpto": 76,
+    "cod_mpio": 76001,
+    "nombre": "CALI",
+    "bbox": [
+      -76.5215651508,
+      3.41441430458
+    ]
+  },
+  {
+    "cod_dpto": 76,
+    "cod_mpio": 76020,
+    "nombre": "ALCALÁ",
+    "bbox": [
+      -75.7798138699,
+      4.67498954243
+    ]
+  },
+  {
+    "cod_dpto": 76,
+    "cod_mpio": 76036,
+    "nombre": "ANDALUCÍA",
+    "bbox": [
+      -76.167921202,
+      4.17172441625
+    ]
+  },
+  {
+    "cod_dpto": 76,
+    "cod_mpio": 76041,
+    "nombre": "ANSERMANUEVO",
+    "bbox": [
+      -75.9919806734,
+      4.79492271411
+    ]
+  },
+  {
+    "cod_dpto": 76,
+    "cod_mpio": 76054,
+    "nombre": "ARGELIA",
+    "bbox": [
+      -76.1199057145,
+      4.72694626476
+    ]
+  },
+  {
+    "cod_dpto": 76,
+    "cod_mpio": 76100,
+    "nombre": "BOLÍVAR",
+    "bbox": [
+      -76.1835738617,
+      4.33784220415
+    ]
+  },
+  {
+    "cod_dpto": 76,
+    "cod_mpio": 76109,
+    "nombre": "BUENAVENTURA",
+    "bbox": [
+      -77.0117402003,
+      3.87580243673
+    ]
+  },
+  {
+    "cod_dpto": 76,
+    "cod_mpio": 76111,
+    "nombre": "GUADALAJARA DE BUGA",
+    "bbox": [
+      -76.2989611331,
+      3.90082354377
+    ]
+  },
+  {
+    "cod_dpto": 76,
+    "cod_mpio": 76113,
+    "nombre": "BUGALAGRANDE",
+    "bbox": [
+      -76.1568077444,
+      4.20833159173
+    ]
+  },
+  {
+    "cod_dpto": 76,
+    "cod_mpio": 76122,
+    "nombre": "CAICEDONIA",
+    "bbox": [
+      -75.8303180522,
+      4.33460969448
+    ]
+  },
+  {
+    "cod_dpto": 76,
+    "cod_mpio": 76126,
+    "nombre": "CALIMA",
+    "bbox": [
+      -76.4843917469,
+      3.93352446268
+    ]
+  },
+  {
+    "cod_dpto": 76,
+    "cod_mpio": 76130,
+    "nombre": "CANDELARIA",
+    "bbox": [
+      -76.3464289066,
+      3.40776646565
+    ]
+  },
+  {
+    "cod_dpto": 76,
+    "cod_mpio": 76147,
+    "nombre": "CARTAGO",
+    "bbox": [
+      -75.9422640436,
+      4.75875509757
+    ]
+  },
+  {
+    "cod_dpto": 76,
+    "cod_mpio": 76233,
+    "nombre": "DAGUA",
+    "bbox": [
+      -76.6888710079,
+      3.6573084845
+    ]
+  },
+  {
+    "cod_dpto": 76,
+    "cod_mpio": 76243,
+    "nombre": "EL ÁGUILA",
+    "bbox": [
+      -76.0412990681,
+      4.90961334008
+    ]
+  },
+  {
+    "cod_dpto": 76,
+    "cod_mpio": 76246,
+    "nombre": "EL CAIRO",
+    "bbox": [
+      -76.2216035147,
+      4.76088310037
+    ]
+  },
+  {
+    "cod_dpto": 76,
+    "cod_mpio": 76248,
+    "nombre": "EL CERRITO",
+    "bbox": [
+      -76.3117255356,
+      3.6842589413
+    ]
+  },
+  {
+    "cod_dpto": 76,
+    "cod_mpio": 76250,
+    "nombre": "EL DOVIO",
+    "bbox": [
+      -76.2370841098,
+      4.51045288499
+    ]
+  },
+  {
+    "cod_dpto": 76,
+    "cod_mpio": 76275,
+    "nombre": "FLORIDA",
+    "bbox": [
+      -76.2345017444,
+      3.32391810634
+    ]
+  },
+  {
+    "cod_dpto": 76,
+    "cod_mpio": 76306,
+    "nombre": "GINEBRA",
+    "bbox": [
+      -76.2680678884,
+      3.72418114734
+    ]
+  },
+  {
+    "cod_dpto": 76,
+    "cod_mpio": 76318,
+    "nombre": "GUACARÍ",
+    "bbox": [
+      -76.3313673514,
+      3.76290900784
+    ]
+  },
+  {
+    "cod_dpto": 76,
+    "cod_mpio": 76364,
+    "nombre": "JAMUNDÍ",
+    "bbox": [
+      -76.5424587285,
+      3.26227576022
+    ]
+  },
+  {
+    "cod_dpto": 76,
+    "cod_mpio": 76377,
+    "nombre": "LA CUMBRE",
+    "bbox": [
+      -76.5679322224,
+      3.64944716066
+    ]
+  },
+  {
+    "cod_dpto": 76,
+    "cod_mpio": 76400,
+    "nombre": "LA UNIÓN",
+    "bbox": [
+      -76.0996071822,
+      4.53378328817
+    ]
+  },
+  {
+    "cod_dpto": 76,
+    "cod_mpio": 76403,
+    "nombre": "LA VICTORIA",
+    "bbox": [
+      -76.0365287843,
+      4.52360326388
+    ]
+  },
+  {
+    "cod_dpto": 76,
+    "cod_mpio": 76497,
+    "nombre": "OBANDO",
+    "bbox": [
+      -75.9746887339,
+      4.57572270504
+    ]
+  },
+  {
+    "cod_dpto": 76,
+    "cod_mpio": 76520,
+    "nombre": "PALMIRA",
+    "bbox": [
+      -76.2985825464,
+      3.53234915299
+    ]
+  },
+  {
+    "cod_dpto": 76,
+    "cod_mpio": 76563,
+    "nombre": "PRADERA",
+    "bbox": [
+      -76.2418202275,
+      3.41982740851
+    ]
+  },
+  {
+    "cod_dpto": 76,
+    "cod_mpio": 76606,
+    "nombre": "RESTREPO",
+    "bbox": [
+      -76.5231170353,
+      3.82134838162
+    ]
+  },
+  {
+    "cod_dpto": 76,
+    "cod_mpio": 76616,
+    "nombre": "RIOFRÍO",
+    "bbox": [
+      -76.2883126781,
+      4.15690498917
+    ]
+  },
+  {
+    "cod_dpto": 76,
+    "cod_mpio": 76622,
+    "nombre": "ROLDANILLO",
+    "bbox": [
+      -76.1522866285,
+      4.4135962001
+    ]
+  },
+  {
+    "cod_dpto": 76,
+    "cod_mpio": 76670,
+    "nombre": "SAN PEDRO",
+    "bbox": [
+      -76.228537785,
+      3.99499260652
+    ]
+  },
+  {
+    "cod_dpto": 76,
+    "cod_mpio": 76736,
+    "nombre": "SEVILLA",
+    "bbox": [
+      -75.9309405816,
+      4.26703327347
+    ]
+  },
+  {
+    "cod_dpto": 76,
+    "cod_mpio": 76823,
+    "nombre": "TORO",
+    "bbox": [
+      -76.0768534972,
+      4.60808454626
+    ]
+  },
+  {
+    "cod_dpto": 76,
+    "cod_mpio": 76828,
+    "nombre": "TRUJILLO",
+    "bbox": [
+      -76.3188089387,
+      4.2120508064
+    ]
+  },
+  {
+    "cod_dpto": 76,
+    "cod_mpio": 76834,
+    "nombre": "TULUÁ",
+    "bbox": [
+      -76.1976996795,
+      4.08526123852
+    ]
+  },
+  {
+    "cod_dpto": 76,
+    "cod_mpio": 76845,
+    "nombre": "ULLOA",
+    "bbox": [
+      -75.7377474697,
+      4.70251391059
+    ]
+  },
+  {
+    "cod_dpto": 76,
+    "cod_mpio": 76863,
+    "nombre": "VERSALLES",
+    "bbox": [
+      -76.1992035762,
+      4.57501856645
+    ]
+  },
+  {
+    "cod_dpto": 76,
+    "cod_mpio": 76869,
+    "nombre": "VIJES",
+    "bbox": [
+      -76.4419652068,
+      3.69858792939
+    ]
+  },
+  {
+    "cod_dpto": 76,
+    "cod_mpio": 76890,
+    "nombre": "YOTOCO",
+    "bbox": [
+      -76.3824744527,
+      3.86121458419
+    ]
+  },
+  {
+    "cod_dpto": 76,
+    "cod_mpio": 76892,
+    "nombre": "YUMBO",
+    "bbox": [
+      -76.499819783,
+      3.52896890809
+    ]
+  },
+  {
+    "cod_dpto": 76,
+    "cod_mpio": 76895,
+    "nombre": "ZARZAL",
+    "bbox": [
+      -76.0708493543,
+      4.392621473
+    ]
+  },
+  {
+    "cod_dpto": 81,
+    "cod_mpio": 81001,
+    "nombre": "ARAUCA",
+    "bbox": [
+      -70.7463503062,
+      7.07735854436
+    ]
+  },
+  {
+    "cod_dpto": 81,
+    "cod_mpio": 81065,
+    "nombre": "ARAUQUITA",
+    "bbox": [
+      -71.426751178,
+      7.02698141466
+    ]
+  },
+  {
+    "cod_dpto": 81,
+    "cod_mpio": 81220,
+    "nombre": "CRAVO NORTE",
+    "bbox": [
+      -70.2042855518,
+      6.30391275247
+    ]
+  },
+  {
+    "cod_dpto": 81,
+    "cod_mpio": 81300,
+    "nombre": "FORTUL",
+    "bbox": [
+      -71.7685577959,
+      6.79707575274
+    ]
+  },
+  {
+    "cod_dpto": 81,
+    "cod_mpio": 81591,
+    "nombre": "PUERTO RONDÓN",
+    "bbox": [
+      -71.0977428589,
+      6.28385150095
+    ]
+  },
+  {
+    "cod_dpto": 81,
+    "cod_mpio": 81736,
+    "nombre": "SARAVENA",
+    "bbox": [
+      -71.8723334257,
+      6.95385956976
+    ]
+  },
+  {
+    "cod_dpto": 81,
+    "cod_mpio": 81794,
+    "nombre": "TAME",
+    "bbox": [
+      -71.7586108633,
+      6.44937948557
+    ]
+  },
+  {
+    "cod_dpto": 85,
+    "cod_mpio": 85001,
+    "nombre": "YOPAL",
+    "bbox": [
+      -72.396915159,
+      5.3276126513
+    ]
+  },
+  {
+    "cod_dpto": 85,
+    "cod_mpio": 85010,
+    "nombre": "AGUAZUL",
+    "bbox": [
+      -72.5463002643,
+      5.17269076547
+    ]
+  },
+  {
+    "cod_dpto": 85,
+    "cod_mpio": 85015,
+    "nombre": "CHÁMEZA",
+    "bbox": [
+      -72.8702355842,
+      5.21431174949
+    ]
+  },
+  {
+    "cod_dpto": 85,
+    "cod_mpio": 85125,
+    "nombre": "HATO COROZAL",
+    "bbox": [
+      -71.7649225437,
+      6.1561724433
+    ]
+  },
+  {
+    "cod_dpto": 85,
+    "cod_mpio": 85136,
+    "nombre": "LA SALINA",
+    "bbox": [
+      -72.3338816651,
+      6.12782538523
+    ]
+  },
+  {
+    "cod_dpto": 85,
+    "cod_mpio": 85139,
+    "nombre": "MANÍ",
+    "bbox": [
+      -72.2813984509,
+      4.81682685997
+    ]
+  },
+  {
+    "cod_dpto": 85,
+    "cod_mpio": 85162,
+    "nombre": "MONTERREY",
+    "bbox": [
+      -72.8950361388,
+      4.87684543607
+    ]
+  },
+  {
+    "cod_dpto": 85,
+    "cod_mpio": 85225,
+    "nombre": "NUNCHÍA",
+    "bbox": [
+      -72.195071042,
+      5.6366625968
+    ]
+  },
+  {
+    "cod_dpto": 85,
+    "cod_mpio": 85230,
+    "nombre": "OROCUÉ",
+    "bbox": [
+      -71.338517916,
+      4.79026966501
+    ]
+  },
+  {
+    "cod_dpto": 85,
+    "cod_mpio": 85250,
+    "nombre": "PAZ DE ARIPORO",
+    "bbox": [
+      -71.8909239638,
+      5.88003657043
+    ]
+  },
+  {
+    "cod_dpto": 85,
+    "cod_mpio": 85263,
+    "nombre": "PORE",
+    "bbox": [
+      -71.9928596014,
+      5.72772987803
+    ]
+  },
+  {
+    "cod_dpto": 85,
+    "cod_mpio": 85279,
+    "nombre": "RECETOR",
+    "bbox": [
+      -72.7611460564,
+      5.22949364831
+    ]
+  },
+  {
+    "cod_dpto": 85,
+    "cod_mpio": 85300,
+    "nombre": "SABANALARGA",
+    "bbox": [
+      -73.0387233825,
+      4.85461786612
+    ]
+  },
+  {
+    "cod_dpto": 85,
+    "cod_mpio": 85315,
+    "nombre": "SÁCAMA",
+    "bbox": [
+      -72.2502758862,
+      6.09697492036
+    ]
+  },
+  {
+    "cod_dpto": 85,
+    "cod_mpio": 85325,
+    "nombre": "SAN LUIS DE PALENQUE",
+    "bbox": [
+      -71.7329250601,
+      5.42088707118
+    ]
+  },
+  {
+    "cod_dpto": 85,
+    "cod_mpio": 85400,
+    "nombre": "TÁMARA",
+    "bbox": [
+      -72.1618252391,
+      5.82982659682
+    ]
+  },
+  {
+    "cod_dpto": 85,
+    "cod_mpio": 85410,
+    "nombre": "TAURAMENA",
+    "bbox": [
+      -72.7472519157,
+      5.01920525972
+    ]
+  },
+  {
+    "cod_dpto": 85,
+    "cod_mpio": 85430,
+    "nombre": "TRINIDAD",
+    "bbox": [
+      -71.6633409045,
+      5.41221471624
+    ]
+  },
+  {
+    "cod_dpto": 85,
+    "cod_mpio": 85440,
+    "nombre": "VILLANUEVA",
+    "bbox": [
+      -72.9274684347,
+      4.60979910824
+    ]
+  },
+  {
+    "cod_dpto": 86,
+    "cod_mpio": 86001,
+    "nombre": "MOCOA",
+    "bbox": [
+      -76.650271415,
+      1.15229611807
+    ]
+  },
+  {
+    "cod_dpto": 86,
+    "cod_mpio": 86219,
+    "nombre": "COLÓN",
+    "bbox": [
+      -76.9723017927,
+      1.18982598808
+    ]
+  },
+  {
+    "cod_dpto": 86,
+    "cod_mpio": 86320,
+    "nombre": "ORITO",
+    "bbox": [
+      -76.8730276879,
+      0.663816898531
+    ]
+  },
+  {
+    "cod_dpto": 86,
+    "cod_mpio": 86568,
+    "nombre": "PUERTO ASÍS",
+    "bbox": [
+      -76.4972728472,
+      0.505046721929
+    ]
+  },
+  {
+    "cod_dpto": 86,
+    "cod_mpio": 86569,
+    "nombre": "PUERTO CAICEDO",
+    "bbox": [
+      -76.6048323529,
+      0.684841655818
+    ]
+  },
+  {
+    "cod_dpto": 86,
+    "cod_mpio": 86571,
+    "nombre": "PUERTO GUZMÁN",
+    "bbox": [
+      -76.4085215423,
+      0.96292243852
+    ]
+  },
+  {
+    "cod_dpto": 86,
+    "cod_mpio": 86573,
+    "nombre": "PUERTO LEGUÍZAMO",
+    "bbox": [
+      -74.782471025,
+      -0.191872848653
+    ]
+  },
+  {
+    "cod_dpto": 86,
+    "cod_mpio": 86749,
+    "nombre": "SIBUNDOY",
+    "bbox": [
+      -76.9174821569,
+      1.20011573325
+    ]
+  },
+  {
+    "cod_dpto": 86,
+    "cod_mpio": 86755,
+    "nombre": "SAN FRANCISCO",
+    "bbox": [
+      -76.8792349112,
+      1.17421832142
+    ]
+  },
+  {
+    "cod_dpto": 86,
+    "cod_mpio": 86757,
+    "nombre": "SAN MIGUEL",
+    "bbox": [
+      -76.9124101937,
+      0.343272204449
+    ]
+  },
+  {
+    "cod_dpto": 86,
+    "cod_mpio": 86760,
+    "nombre": "SANTIAGO",
+    "bbox": [
+      -77.0018234274,
+      1.14553777045
+    ]
+  },
+  {
+    "cod_dpto": 86,
+    "cod_mpio": 86865,
+    "nombre": "VALLE DEL GUAMUEZ",
+    "bbox": [
+      -76.905968795,
+      0.4239040926
+    ]
+  },
+  {
+    "cod_dpto": 86,
+    "cod_mpio": 86885,
+    "nombre": "VILLAGARZÓN",
+    "bbox": [
+      -76.6171624674,
+      1.02894101162
+    ]
+  },
+  {
+    "cod_dpto": 88,
+    "cod_mpio": 88001,
+    "nombre": "SAN ANDRÉS",
+    "bbox": [
+      -81.6960629797,
+      12.5830136907
+    ]
+  },
+  {
+    "cod_dpto": 88,
+    "cod_mpio": 88564,
+    "nombre": "PROVIDENCIA",
+    "bbox": [
+      -81.3709115975,
+      13.3700998517
+    ]
+  },
+  {
+    "cod_dpto": 91,
+    "cod_mpio": 91001,
+    "nombre": "LETICIA",
+    "bbox": [
+      -69.9414267076,
+      -4.19983693453
+    ]
+  },
+  {
+    "cod_dpto": 91,
+    "cod_mpio": 91540,
+    "nombre": "PUERTO NARIÑO",
+    "bbox": [
+      -70.3645183498,
+      -3.78044763205
+    ]
+  },
+  {
+    "cod_dpto": 94,
+    "cod_mpio": 94001,
+    "nombre": "INÍRIDA",
+    "bbox": [
+      -67.9188368372,
+      3.86616161896
+    ]
+  },
+  {
+    "cod_dpto": 95,
+    "cod_mpio": 95001,
+    "nombre": "SAN JOSÉ DEL GUAVIARE",
+    "bbox": [
+      -72.6389862155,
+      2.56642839915
+    ]
+  },
+  {
+    "cod_dpto": 95,
+    "cod_mpio": 95015,
+    "nombre": "CALAMAR",
+    "bbox": [
+      -72.655171997,
+      1.96010863321
+    ]
+  },
+  {
+    "cod_dpto": 95,
+    "cod_mpio": 95025,
+    "nombre": "EL RETORNO",
+    "bbox": [
+      -72.6271859933,
+      2.33016154912
+    ]
+  },
+  {
+    "cod_dpto": 95,
+    "cod_mpio": 95200,
+    "nombre": "MIRAFLORES",
+    "bbox": [
+      -71.9505431671,
+      1.33757404311
+    ]
+  },
+  {
+    "cod_dpto": 97,
+    "cod_mpio": 97001,
+    "nombre": "MITÚ",
+    "bbox": [
+      -70.2347505205,
+      1.25119056329
+    ]
+  },
+  {
+    "cod_dpto": 97,
+    "cod_mpio": 97161,
+    "nombre": "CARURÚ",
+    "bbox": [
+      -71.2977932628,
+      1.01459770902
+    ]
+  },
+  {
+    "cod_dpto": 97,
+    "cod_mpio": 97666,
+    "nombre": "TARAIRA",
+    "bbox": [
+      -69.6390036603,
+      -0.56938554021
+    ]
+  },
+  {
+    "cod_dpto": 99,
+    "cod_mpio": 99001,
+    "nombre": "PUERTO CARREÑO",
+    "bbox": [
+      -67.4869969956,
+      6.18686418683
+    ]
+  },
+  {
+    "cod_dpto": 99,
+    "cod_mpio": 99524,
+    "nombre": "LA PRIMAVERA",
+    "bbox": [
+      -70.4104200133,
+      5.48633761449
+    ]
+  },
+  {
+    "cod_dpto": 99,
+    "cod_mpio": 99624,
+    "nombre": "SANTA ROSALÍA",
+    "bbox": [
+      -70.859741339,
+      5.1364313857
+    ]
+  },
+  {
+    "cod_dpto": 99,
+    "cod_mpio": 99773,
+    "nombre": "CUMARIBO",
+    "bbox": [
+      -69.7955329413,
+      4.44635217371
+    ]
+  }
+]

@@ -1,0 +1,21 @@
+version: "2"
+
+
+services:
+
+  #db:
+   # container_name: "psql"
+    #image: kartoza/postgis
+    #ports:
+    #  - "49155:5432"
+    #environment:
+    #  POSTGRES_USER: docker
+    #  POSTGRES_PASS: docker
+    #volumes:
+     # - pg_data:/var/lib/postgresql
+
+  web:
+    container_name: "visor-multiproposito-containner"
+    build: .
+    ports:
+        - "3004:3000"
